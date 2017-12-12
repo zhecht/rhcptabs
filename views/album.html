@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block content %}
+<div style='background: rgba(0,0,0,1);padding:5%'>
+  <div id='album_cover'>
+    <img src="/static/pics/{{pic_url}}" alt="{{album_name}}" />
+  </div>
+  <div id='album_info'>
+    <div id='title'>{{album_name}}</div>
+
+  </div>
+  <table id='album_songs'>
+    <tr class='header'>
+      {% if url == "live" %}
+        <th>Where</th>
+      {% else %}
+        <th>No.</th>
+      {% endif %}
+      <th>Title</th>
+      <th>Tabs</th>
+    </tr>
+    {% for song in all_songs %}
+      {% if song.title == "B-Sides" %}
+        <tr class='header'>
+          <th colspan='3' style='text-align:center;'>{{song.title}}</th>
+        </tr>
+      {% elif url == "live" %}
+        <tr class='song {{song.id}}'>
+          <td>{{song.where}} ({{song.when}})</td>
+          <td>{{song.title}}</td>
+          <td>
+            {% if song.tabs == "None" %}
+              None
+            {% else %}
+              {% for tab in song.tabs %}
+                <a href="javascript:openTabsWindow('/static/tabs/{{url}}/{{song.id}}/{{song.idx}}/{{tab}}')" class="{{tab}}">{{tab}}</a>
+              {% endfor %}
+            {% endif %}
+          </td>
+        </tr>
+      {% else %}
+        <tr class='song'>
+          <td>{{loop.index}}.</td>
+          <td>{{song.title}}</td>
+          <td>
+            {% if song.tabs == "None" %}
+              None
+            {% else %}
+              {% set outer_loop = loop %}
+              {% for tab in song.tabs %}
+                <a href="javascript:openTabsWindow('/static/tabs/{{url}}/{{outer_loop.index}}/{{tab}}')" class="{{tab}}">{{tab}}</a>
+              {% endfor %}
+            {% endif %}
+          </td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </table>
+</div>
+{% endblock %}
