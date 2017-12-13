@@ -5,7 +5,7 @@ album = Blueprint('album', __name__, template_folder='views')
 
 @album.route('/album/<name>',methods=["GET"])
 def album_route(name):
-  song_list,album_data = get_songs(name)
+  song_list,album_data,album_instruments = get_songs(name)
   instrument = request.args.get('instrument')
   all_songs = []
 
@@ -28,8 +28,7 @@ def album_route(name):
         tabs = "None"
       idx += 1
       all_songs.append({'title':song,'tabs':tabs})
-  print(all_songs)
-  return render_template("album.html",all_songs=all_songs,url=name,pic_url=album_data['url'],album_name=album_data['name'],instrument=instrument)
+  return render_template("album.html",all_songs=all_songs,url=name,pic_url=album_data['url'],album_name=album_data['name'],instrument=instrument, acoustic=album_instruments['acoustic'],electric=album_instruments['electric'],bass=album_instruments['bass'],drums=album_instruments['drums'],)
 
 
 @album.route('/album/<name>/<num>',methods=["GET"])

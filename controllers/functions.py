@@ -41,15 +41,31 @@ live_concerts = [
   {"id": "montreal", "where": "Montreal", "when":"2006","songs": ["Don't Forget Me"]},
 ]
 
+all_album_instruments = {
+  "redhotchilipeppers": {"acoustic": "", "electric": "", "bass": "", "drums": ""},
+  "freakystyley": {"acoustic": "", "electric": "", "bass": "", "drums": ""},
+  "theupliftmofopartyplan": { "acoustic": "","electric": "", "bass": "", "drums": ""},
+  "mothersmilk": {"acoustic": "", "electric": "Ibanez RG760, 1968 Fender Stratocaster, 1970 Les Paul Custom", "bass": "", "drums": ""},
+  "bloodsugarsexmagik": { "acoustic": "Martin D-28", "electric": "1966 Fender Jaguar, 1962 Fender Stratocaster, Fender Stratocaster Fretless", "bass": "", "drums": ""},
+  "onehotminute": { "acoustic": "","electric": "", "bass": "", "drums": ""},
+  "californication": { "electric": "1962 Fender Jaguar, 1962 Fender Stratocaster, 1955 Fender Stratocaster, 1963-65 Fender Custom Telecaster, 1955 Gretsch White Falcon, 1961 Gibson SG/Les Paul Custom, 1956 Gibson ES-175D", "acoustic": "1940s Martin 0-15", "bass": "", "drums": ""},
+  "bytheway": { "acoustic": "Taylor 314ce", "electric": "1963-65 Fender Custom Telecaster", "bass": "", "drums": ""},
+  "stadiumarcadium": { "acoustic": "","electric": "1963 Fender Stratocaster, 1969 Gibson Les Paul Custom, 1961 Rickenbacker 365 Deluxe", "bass": "", "drums": ""},
+  "imwithyou": { "acoustic": "","electric": "1963 Fender Stratocaster, 1967 Fender Telecaster, Magnatone Tornado, Rickenbacker 360", "bass": "", "drums": ""},
+  "imbesideyou": { "acoustic": "","electric": "", "bass": "", "drums": ""},
+  "thegetaway": { "acoustic": "","electric": "", "bass": "", "drums": ""}
+}
+
 
 def get_songs(album_name):
   if album_name == "live":
     return live_concerts,all_urls['live']
-  return all_songs[album_name],all_urls[album_name]
+  return all_songs[album_name],all_urls[album_name],all_album_instruments[album_name]
 
 def get_tab_names(path,album_name,num):
   try:
     url = "/home/zhecht/rhcptabs/"
+    #url = ""
     if path == "live":
       return os.listdir(url+'static/tabs/live/%s/%d' % (album_name,num))
     return os.listdir(url+'static/tabs/%s/%d' % (album_name,num))

@@ -1,12 +1,17 @@
 {% extends "base.html" %}
 {% block content %}
-<div style='background: rgba(0,0,0,1);padding:5%'>
+<div style='background: rgba(0,0,0,.75);padding:5%'>
   <div id='album_cover'>
     <img src="/static/pics/{{pic_url}}" alt="{{album_name}}" />
   </div>
   <div id='album_info'>
     <div id='title'>{{album_name}}</div>
-
+    <div id="instrument_list">
+      <p style="margin-top:2.5%;">Acoustic: {{acoustic}}</p>
+      <p>Electric: {{electric}}</p>
+      <p>Bass: {{bass}}</p>
+      <p>Drums: {{drums}}</p>
+    </div>
   </div>
   <table id='album_songs'>
     <tr class='header'>
