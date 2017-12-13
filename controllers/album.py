@@ -28,6 +28,7 @@ def album_route(name):
         tabs = "None"
       idx += 1
       all_songs.append({'title':song,'tabs':tabs})
+  print(all_songs)
   return render_template("album.html",all_songs=all_songs,url=name,pic_url=album_data['url'],album_name=album_data['name'],instrument=instrument)
 
 
