@@ -16,7 +16,7 @@ def album_route(name):
         tabs = get_tab_names(name,concert['id'],idx)
         if len(tabs) == 0:
           tabs = "None"
-        #print(song,tabs,concert['id'],idx)
+        
         all_songs.append({'id': concert['id'], 'where': concert['where'], 'when': concert['when'], 'title': song, 'tabs': tabs, 'idx': idx})
         idx += 1
   else:
@@ -28,7 +28,10 @@ def album_route(name):
         tabs = "None"
       idx += 1
       all_songs.append({'title':song,'tabs':tabs})
-  return render_template("album.html",all_songs=all_songs,url=name,pic_url=album_data['url'],album_name=album_data['name'],instrument=instrument, acoustic=album_instruments['acoustic'],electric=album_instruments['electric'],bass=album_instruments['bass'],drums=album_instruments['drums'],)
+
+  if not album_instruments:
+    return render_template("album.html", all_songs=all_songs, url=name, pic_url=album_data['url'], album_name=album_data['name'], instrument=instrument)  
+  return render_template("album.html",all_songs=all_songs,url=name,pic_url=album_data['url'],album_name=album_data['name'],instrument=instrument, acoustic=album_instruments['acoustic'],electric=album_instruments['electric'],bass=album_instruments['bass'],drums=album_instruments['drums'])
 
 
 @album.route('/album/<name>/<num>',methods=["GET"])

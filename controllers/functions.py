@@ -59,16 +59,16 @@ all_album_instruments = {
 
 def get_songs(album_name):
   if album_name == "live":
-    return live_concerts,all_urls['live']
-  return all_songs[album_name],all_urls[album_name],all_album_instruments[album_name]
+    return live_concerts, all_urls['live'], None
+  return all_songs[album_name], all_urls[album_name], all_album_instruments[album_name]
 
 def get_tab_names(path,album_name,num):
   try:
     url = "/home/zhecht/rhcptabs/"
     #url = ""
     if path == "live":
-      return os.listdir(url+'static/tabs/live/%s/%d' % (album_name,num))
-    return os.listdir(url+'static/tabs/%s/%d' % (album_name,num))
+      return os.listdir(url+'static/tabs/live/{}/{}'.format(album_name,num))
+    return os.listdir(url+'static/tabs/{}/{}'.format(album_name,num))
   except:
     return []
   
