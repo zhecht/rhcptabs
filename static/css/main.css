@@ -5,8 +5,6 @@
 }
 
 body,html {
-  width:100%;
-  height:100%;
   background-color:#f1f1f1;
 }
 
@@ -18,9 +16,7 @@ body,html {
 #header {
   width:100%;
   height:75px;
-  background: #232526; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #232526 , #414345);
-  background: linear-gradient(to left, #232526 , #414345);
+  background: #F00;
   position: relative;
 }
 #header h1 {
@@ -28,8 +24,6 @@ body,html {
   color:white;
   font-size: 40px;
   padding-left:5%;
-  float: left;
-
 }
 #header a {
   text-decoration: none;
@@ -38,96 +32,11 @@ body,html {
 }
 
 #content {
-  width:100%;
-  height:100%;
-  float: left;
   background: #F1f1f1;
-  padding-top:5%;
 }
 
-#loggedin {
-  position:absolute;
-  right:0%; top:0;
-  height:100%;
-  width:300px;
-  color:white;
-}
-
-#login {
-  position:absolute;
-  right:5%; top:0;
-  height:100%;
-  width:200px;
-}
-
-#login button,nav a,nav input {
-  width: 100%;
-  border: 2px solid #52d273;
-  font-size: 16px;
-  background: rgba(0,0,0,0);
-  color: white;
-  padding: 10px 5px;
-}
-nav a,nav input {
-  
-  border:0;
-  width: 80px;
-  float: left;
-  text-align: center;
-  cursor: pointer;
-  text-decoration: none;
-  font-family: TitleFont;
-}
-nav a.active,nav input.active {
-  box-shadow: inset 0px 0px 18px 10px rgba(35,37,38,.75);
-  -moz-box-shadow: inset 0px 0px 18px 10px rgba(35,37,38,.75);
-  -webkit-box-shadow: inset 0px 0px 18px 10px rgba(35,37,38,.75);
-  color:white;
-}
-#loggedin p {
-  font-size: 18px;
-  line-height: 45px;
-  text-align: center;
-}
-nav {
-  float: left;
-  background: #F00;
-  width:100%;
-}
 #All {
   margin-left:5%;
-}
-nav form {
-  float: left;
-}
-nav button,nav input {
-  
-}
-
-#login_form {
-  height:100%;
-}
-
-#login_form input{
-  width:100%;
-  padding:5px;
-  margin-top:5px;
-}
-
-#login_form input[type=submit],#login_form input[type=button] {
-  float: left;
-  width:45%;
-  padding:2px;
-  margin-left:5%;
-  margin-top:7.5px;
-  font-size: 14px;
-  border: 2px solid #52d273;
-  background: rgba(0,0,0,0);
-  color: #52d273;
-}
-#login_form input[type=button] {
-  color: #e94f64;
-  border: 2px solid #e94f64;
 }
 
 .site {
@@ -145,10 +54,12 @@ nav button,nav input {
   font-weight: bold;
   text-decoration: underline;
   font-family: TitleFont;
+  color: white;
 }
 
 #instrument_list {
   width: 100%;
+  padding-left: 20px;
 }
 
 #instrument_list p {
@@ -157,8 +68,8 @@ nav button,nav input {
 }
 
 #subtitle {
+  margin: 2.5% 0;
   text-align: center;
-
 }
 
 .arrow {
@@ -206,7 +117,6 @@ nav button,nav input {
 }
 
 #album_cover {
-  float: left;
   width:250px;
   height:250px;
 }
@@ -216,10 +126,9 @@ nav button,nav input {
   margin-left:25px;
 }
 #album_info {
-  width:calc(100% - 250px);
-  float:left;
   height:250px;
   color:white;
+  display: flex;
 }
 #album_info #title {
   text-align: left;
@@ -247,16 +156,21 @@ nav button,nav input {
   padding:5px;
   font-family: TitleFont;
 }
-.song td:nth-child(2),.header th:nth-child(2) {
+
+.song td, .header th {
   text-align: left;
-  padding-left: 5%;
+}
+
+.song td:nth-child(2) {
+  width: 40%;
+}
+
+.song td:nth-child(1),.header th:nth-child(1) {
+  text-align: center;
 }
 .song a {
   font-family: TitleFont;
-}
-
-#thumbnail_div {
-  margin-top:2.5%;
+  margin-right: 7px;
 }
 
 #thumbnail_div div {

@@ -1,0 +1,184 @@
+No capo.
+Tuning: Half-step down.
+
+[Chord names]
+
+[ch]G#[/ch]:        022100
+[ch]A#7add11[/ch]:  044300
+[ch]G#m7[/ch]:      055400
+[ch]G#6add11[/ch]:  077600
+[ch]G#maj9[/ch]:    099800
+[ch]G#[/ch]*:       079990
+[ch]B[/ch]:         320033
+[ch]F#[/ch]:        000232
+[ch]G#m[/ch]:       022000
+[ch]E[/ch]:         032010
+[ch]F#/A#[/ch]:     000230
+[ch]C#m[/ch]:       002210
+[ch]D#[/ch]:        0244XX
+[ch]D#/C#[/ch]:     0044XX
+[ch]D#/B[/ch]:      3044XX
+[ch]D#/A#[/ch]:     2044XX
+[ch]E7[/ch]:        032310
+[ch]D#7[/ch]:       012100
+[ch]G#sus2[/ch]:    022003
+
+
+[Intro]
+
+[ch]G#[/ch]  [ch]A#7add11[/ch]  [ch]G#m7[/ch]  [ch]G#6add11[/ch]  [ch]G#maj9[/ch]  [ch]G#[/ch]*
+[ch]G#[/ch]  [ch]A#7add11[/ch]  [ch]G#m7[/ch]  [ch]G#6add11[/ch]  [ch]G#maj9[/ch]  [ch]G#[/ch]*
+[ch]G#[/ch]  [ch]A#7add11[/ch]  [ch]G#m7[/ch]  [ch]G#6add11[/ch]  [ch]G#maj9[/ch]  [ch]G#[/ch]*
+[ch]G#[/ch]  [ch]A#7add11[/ch]  [ch]G#m7[/ch]  [ch]G#6add11[/ch]  [ch]G#maj9[/ch]  [ch]G#[/ch]*
+
+
+[Verse 1]
+
+[ch]G#[/ch]       [ch]A#7add11[/ch] [ch]G#m7[/ch]
+I am a man
+[ch]G#6add11[/ch]       [ch]G#maj9[/ch] [ch]G#[/ch]*
+Cut from the know
+[ch]G#[/ch]         [ch]A#7add11[/ch] [ch]G#m7[/ch]
+Rarely do friends
+[ch]G#6add11[/ch]        [ch]G#maj9[/ch] [ch]G#[/ch]*
+Come and then go
+[ch]G#[/ch]         [ch]A#7add11[/ch] [ch]G#m7[/ch]
+She was a girl
+[ch]G#6add11[/ch]        [ch]G#maj9[/ch] [ch]G#[/ch]*
+Soft but estranged
+[ch]G#[/ch]         [ch]A#7add11[/ch] [ch]G#m7[/ch]
+We were the two
+[ch]G#6add11[/ch]        [ch]G#maj9[/ch] [ch]G#[/ch]*
+Our lives rearranged
+
+
+[Pre-Chorus]
+
+[ch]B[/ch]          [ch]F#[/ch]         [ch]G#m[/ch]       [ch]B[/ch]
+Feeling so good that day
+             [ch]F#[/ch]         [ch]E[/ch]
+A feeling of love that day
+
+
+[Chorus]
+
+[ch]G#m[/ch]           [ch]F#/A#[/ch]
+Twisting and turning
+     [ch]B[/ch]            [ch]C#m[/ch]
+Your feelings are burning
+       [ch]D#[/ch]            [ch]D#/C#[/ch]  [ch]D#/B[/ch]  [ch]D#/A#[/ch]
+You're breaking the girl
+[ch]G#m[/ch]  [ch]F#/A#[/ch]  [ch]B[/ch]   [ch]C#m[/ch] [ch]E[/ch]
+She meant you no harm
+[ch]G#m[/ch]              [ch]F#/A#[/ch]
+Think you're so clever
+    [ch]B[/ch]            [ch]C#m[/ch]
+But now you must sever
+       [ch]D#[/ch]            [ch]D#/C#[/ch]  [ch]D#/B[/ch]  [ch]D#/A#[/ch]
+You're breaking the girl
+[ch]G#m[/ch] [ch]F#/A#[/ch]  [ch]B[/ch]  [ch]C#m[/ch]  [ch]E[/ch]    [ch]E7[/ch]
+He loves no one else
+
+
+[Verse 2]
+
+[ch]G#[/ch]            [ch]A#7add11[/ch] [ch]G#m7[/ch]
+Raised by my dad
+[ch]G#6add11[/ch]      [ch]G#maj9[/ch] [ch]G#[/ch]*
+Girl of the day
+[ch]G#[/ch]         [ch]A#7add11[/ch] [ch]G#m7[/ch]
+He was my man
+[ch]G#6add11[/ch]      [ch]G#maj9[/ch] [ch]G#[/ch]*
+That was the way
+[ch]G#[/ch]           [ch]A#7add11[/ch] [ch]G#m7[/ch]
+She was the girl
+[ch]G#6add11[/ch] [ch]G#maj9[/ch] [ch]G#[/ch]*
+Left alone
+[ch]G#[/ch]           [ch]A#7add11[/ch] [ch]G#m7[/ch]
+Feeling the need
+[ch]G#6add11[/ch]         [ch]G#maj9[/ch] [ch]G#[/ch]*
+To make me her home
+
+
+[Pre-Chorus]
+
+[ch]B[/ch]       [ch]F#[/ch]                 [ch]G#m[/ch]
+I don't know what when or why
+[ch]B[/ch]               [ch]F#[/ch]        [ch]E[/ch]
+The twilight of love had arrived
+
+
+[Chorus]
+
+[ch]G#m[/ch]           [ch]F#/A#[/ch]
+Twisting and turning
+     [ch]B[/ch]            [ch]C#m[/ch]
+Your feelings are burning
+       [ch]D#[/ch]            [ch]D#/C#[/ch]  [ch]D#/B[/ch]  [ch]D#/A#[/ch]
+You're breaking the girl
+[ch]G#m[/ch]  [ch]F#/A#[/ch]  [ch]B[/ch]   [ch]C#m[/ch] [ch]E[/ch]
+She meant you no harm
+[ch]G#m[/ch]              [ch]F#/A#[/ch]
+Think you're so clever
+    [ch]B[/ch]            [ch]C#m[/ch]
+But now you must sever
+       [ch]D#[/ch]            [ch]D#/C#[/ch]  [ch]D#/B[/ch]  [ch]D#/A#[/ch]
+You're breaking the girl
+[ch]G#m[/ch] [ch]F#/A#[/ch]  [ch]B[/ch]  [ch]C#m[/ch]  [ch]E[/ch]       [ch]E7[/ch]  [ch]D#7[/ch]
+He loves no one else
+
+
+[Instrumental]
+
+(Strum down hard on the bass note of the G)
+
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+[ch]G#m[/ch] [ch]G#sus2[/ch] [ch]G#m[/ch] [ch]B[/ch] [ch]B[/ch] [ch]B[/ch]
+
+
+[Chorus]
+
+[ch]G#m[/ch]           [ch]F#/A#[/ch]
+Twisting and turning
+     [ch]B[/ch]            [ch]C#m[/ch]
+Your feelings are burning
+       [ch]D#[/ch]            [ch]D#/C#[/ch]  [ch]D#/B[/ch]  [ch]D#/A#[/ch]
+You're breaking the girl
+[ch]G#m[/ch]  [ch]F#/A#[/ch]  [ch]B[/ch]   [ch]C#m[/ch] [ch]E[/ch]
+She meant you no harm
+[ch]G#m[/ch]              [ch]F#/A#[/ch]
+Think you're so clever
+    [ch]B[/ch]            [ch]C#m[/ch]
+But now you must sever
+       [ch]D#[/ch]            [ch]D#/C#[/ch]  [ch]D#/B[/ch]  [ch]D#/A#[/ch]
+You're breaking the girl
+[ch]G#m[/ch] [ch]F#/A#[/ch]  [ch]B[/ch]  [ch]C#m[/ch]  [ch]E[/ch]       [ch]E7[/ch]
+He loves no one else
+
+
+[Outro]
+
+C#m E (x6) to fade or
+
+e|---11------------------------------------------------|
+B|----12---12---11---12---11---12---11---12---11---12--| 
+G|---------13---12---13---12---13---12---13---12---13--|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|(x6) to fade
+
+
+LAST 3 COMMENTS
+
+Strat_Monkey: Esus2 would be 022002, you've put down a variation of E Minor.
+
+7thhell: Beutiful tab for a beutiful song. thanks.
+
+tejada3: he doesn't use a capo in this song. watch funky monks.
+

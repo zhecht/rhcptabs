@@ -1,0 +1,166 @@
+[Intro]
+
+(muted strings)
+
+e|------------------------------|
+B|------------------------------|
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|--x-x-x-x-x-x-x-x-x-x-x-x-x-x-|
+
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|---------------------x-x-x-x--|               
+
+
+[Verse]
+
+Tremolo picking (pick each note four times)
+               Cm              A#                  D     D#        G
+e|------------------------------------|----------------------------------------|         
+B|------------------------------------|--6-6-6-6-8-8-8-8-----------------------|         
+G|---8-8-8-8-8-8-8-8-7-7-7-7-7-7-7-7--|------------------5-5-5-5--4--4--4--4---|         
+D|------------------------------------|----------------------------------------|         
+A|------------------------------------|----------------------------------------|         
+E|------------------------------------|----------------------------------------|
+         
+G|---5-5-5-5-5-5-5-5------------------|--7-7-7-7-8-8-8-8----------12-10--------|         
+D|-------------------8-8-8-8-8-8-8-8--|------------------5-5-5-5--------13-12--|         
+A|------------------------------------|----------------------------------------|         
+E|------------------------------------|----------------------------------------|
+
+
+[Pre-Chorus]
+
+(at end of verse riff)
+
+e|---------------------------------6-6-6-6-6-6-6-6-7-7-7-7-7-7-7-7-|
+B|-----------------------------------------------------------------|
+G|-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5---------------------------------|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+G|---------------------------12x4--------10x4------------------|
+D|-5-5-5-5-5-5-5-5-5-----5-5-5-5-----5-5-5-----------13x4-12x4-|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+                                 0:48
+
+x4 means hit that note four times.  I couldn't fit them
+in because of the double figures.
+Also, if you're wondering why your bass doesn't have
+a 5555th fret... man, i don't know what to tell you.  ;)
+
+
+[Chorus]
+
+(Step on that distortion pedal!)
+
+    C5  G5  G#5  D#5 G5................
+e|-------------------------------------------|
+B|-----------------------------repeat,-then--|
+G|--5------------8---------------go-back-to--|
+D|--5---5---5/6--8---5--more----the-verse----|
+A|--3---5---5/6--6---5---of---------riff-----|
+E|------3---3/4------3--these----------------|
+
+Hit the  chords lots, you know the rhythm
+G|-------------------------------------------|
+D|---------------1---------------------------|
+A|--3----------------------------------------|
+E|------3---4--------3--more-etc.------------|
+
+              christ I'm a sidewinder...
+
+              Cool bridge kinda bit:                              then to verse.
+               (this bit's after a chorus)
+              C5      G5      G#5     F5         C5      G5      G#5     F5
+         
+e|--8-------------------------------|----------------------------------|         
+B|--8-------------------------------|----------------------------------|         
+G|--8-------------------------------|--8-8-8-8-8-8---------0-0---------|         
+D|----------------------------------|--------------8-8-8-8-------------|         
+A|----------------------------------|----------------------------------|         
+E|----------------------------------|----------------------------------|
+         
+G|----------------------------------|----------------------------------|         
+D|----------------------------------|----------------------------------|         
+A|--3-3-3-3-------------------------|--3-3-3-3-------------------------|         
+E|----------3-3-3-3-4-4-4-4-1-1-1-1-|----------3-3-3-3-4-4-4-4-1-1-1-1-|
+              2:05                        x1, then                          x4          
+ 
+          As far as I'm concerned, this is the whole song.
+
+          There is a kind of half-arsed guitar solo for the outro, but it isn't special.
+          It's hard to duplicate that, it's hard to tab - because, basically, if you
+          get a metal zone pedal (the ones that heavy metal bands use) and turn
+          distortion up full, then you can just about not even touch the strings,
+          and that's what your guitar will do *laughing*  :)
+          If you're in a band, just impro a better solo.  There's no point
+          trying to copy everything note for note, but if you really want it...
+          I probably wont get around to it until college ends in a few weeks.
+
+
+          Lyrics:
+
+
+[Verse]
+
+          Deep inside of a parallel universe
+          It's getting harder and harder
+          To tell what came first
+
+          Under water where thoughts can breathe Easily
+          Far away you were made in a sea
+          Just like me
+
+
+[Chorus]
+
+          Christ I'm a sidewinder I'm a
+          California King
+          I swear it's everywhere
+          It's everything
+
+          Staring straight up into the sky
+          Oh my my a solar system that fits
+          In your eye Microcosm
+
+          You could die but your never dead spider web
+          Take a look at the stars in
+          Your head fields of space kid
+
+
+[Chorus] (x2)
+
+          Psychic changes are born in your heart Entertain
+          A nervous breakthrough that makes us the same
+          Bless your heart girl
+
+          Kill the pressure it's raining on
+          Salty Cheeks
+          When you hear the beloved song
+          I am with you
+
+[Chorus] (x2)
+
+
+************************************
+
+| x  Dead note
+| /  Slide up
+
+************************************
+
+
+LAST 3 COMMENTS
+
+samlynch: im not sure how accurat the bass/guitar is is
+
+Chestaufissen: its a guitar tab not a bass tab
+
+jasiunas: pff dude its total shit. you got it allll wrong. srry but im too lazy to write the real ones..
+

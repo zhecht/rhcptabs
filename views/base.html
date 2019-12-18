@@ -12,24 +12,6 @@
 	<div id='header'>
 		<h1><a href='/'>RHCP Tabs</a></h1>
 	</div>
-	<nav id='nav'>
-		<a id='All' class='active'>All</a>
-		<a id='Guitar'>Guitar</a>
-		<a id='Bass'>Bass</a>
-		<a id='Drums'>Drums</a>
-		<a id='Lyrics'>Lyrics</a>
-		
-		<!-- <a id='add' href='/add' {% if request.path == "/add" %} class="active" {% endif %}>Add Tab</a> -->
-	</nav>
-	{% if instrument %}
-	<script>
-		$(document).ready(function(){
-			change_instrument("{{instrument}}");
-			var el = $("#{{instrument}}");
-			change_nav(el);
-		});
-	</script>
-	{% endif %}
 	<div id='content'>
 	  {% block content %}{% endblock %}
 	</div>

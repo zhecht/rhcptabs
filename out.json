@@ -1,0 +1,1754 @@
+{
+    "config": {
+        "abVariation": "2019_12_13_FP.B",
+        "abVariation2": null,
+        "abVariation3": null,
+        "abTestAccountVariation": [],
+        "urlFacebook": "https://www.ultimate-guitar.com/user/auth/oauth?service=facebook",
+        "urlGoogle": "https://www.ultimate-guitar.com/user/auth/oauth?service=google",
+        "urlApple": "https://www.ultimate-guitar.com/user/auth/oauth?service=apple",
+        "main_server": "ultimate-guitar.com",
+        "ps_server": "plus.ultimate-guitar.com",
+        "static_server": "https://tabs.ultimate-guitar.com/static",
+        "statik_cache": "_ver1576689686",
+        "staticPrefix": "/static",
+        "time": 1576724554000,
+        "isGDPRAvailable": false,
+        "user": {
+            "id": 0,
+            "username": "Unregistered",
+            "iq": "",
+            "contributorPower": false
+        },
+        "isOfficeUser": false,
+        "isOfficeRequest": false,
+        "isWebp": false,
+        "isBot": true,
+        "is_mobile": false,
+        "is_tablet": false,
+        "isThemeMobile": false,
+        "isIe": false,
+        "socketCluster": {
+            "serviceKey": "f0557aa8-2d06-43d9-9c16-f885bc710b97:main",
+            "channelPrefix": "f0557aa8-2d06-43d9-9c16-f885bc710b97:main#prod",
+            "hostname": "socketcluster.k8s.wsmgroup.ru",
+            "port": 443,
+            "channelName": ""
+        },
+        "metricaId": 18746557,
+        "captcha_id": "6LfCo_8SAAAAALEMHnlK18j8IemlAdvmxwRnQe2v",
+        "stripeApiKey": "pk_live_4aZVHgEcj68d3uAgtisiXtZo",
+        "country": "US",
+        "countryCode": "US",
+        "browserName": "Python",
+        "browser": "{\"browser\":{\"name\":\"Python\"},\"device\":{\"type\":\"bot\"}}",
+        "urlUgProAppIcon": "https://tabs.ultimate-guitar.com/static/public/img/app_icons/icon_ug_pro_ver1576689686.png",
+        "withCritical": false,
+        "isJobEnabled": false,
+        "analytics": {
+            "userTrackerId": "SA=="
+        },
+        "braintree": {
+            "environment": "production",
+            "tokenizationKey": "production_8htvrhhr_67vpx3rpxt6m5z7c",
+            "paypalClientId": "ASwoeikdyflPIKFAC3U34ewfFVRE5-_p6qc1TTQG9g_sHNs3RP5Sq3pE_e7V2p0VTi-nJQuIA5ApP1XH"
+        },
+        "hasStaticCache": 0,
+        "jinba": {
+            "customTimings": [],
+            "appLabel": "tab_page",
+            "appLabelExp": "null"
+        }
+    },
+    "store": {
+        "page": {
+            "template": {
+                "module": "tab",
+                "controller": "view",
+                "action": "index",
+                "reactAction": "tab_text"
+            },
+            "data": {
+                "mobile_device": null,
+                "show_rate_layer": false,
+                "tab": {
+                    "id": 704917,
+                    "song_id": 13477,
+                    "song_name": "True Men Dont Kill Coyotes",
+                    "artist_name": "Red Hot Chili Peppers",
+                    "type": "Bass Tabs",
+                    "part": "",
+                    "version": 4,
+                    "votes": 15,
+                    "rating": 4.85575,
+                    "date": "1216252801",
+                    "status": "approved",
+                    "preset_id": 0,
+                    "tab_access_type": "public",
+                    "tp_version": 0,
+                    "tonality_name": "",
+                    "version_description": null,
+                    "verified": 0,
+                    "recording": {
+                        "is_acoustic": 0,
+                        "tonality_name": "",
+                        "performance": null,
+                        "recording_artists": []
+                    },
+                    "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                    "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-bass-704917",
+                    "date_update": "1216252801",
+                    "user_id": 848623,
+                    "user_iq": 196,
+                    "username": "nick270b",
+                    "type_name": "Bass",
+                    "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-guitar-pro-1054624"
+                },
+                "backing_track_tip": false,
+                "tab_view": {
+                    "wiki_tab": {
+                        "content": "-------------------------------------------------------------------------------\r\n\tTrue Men Don't Kill Coyotes - Red Hot Chili Pepppers\r\n-------------------------------------------------------------------------------\r\n\r\nTabbed By : nick270b\r\nWatch the Cover Here: http://uk.youtube.com/watch?v=Vn0OnUuDjTY\r\n\r\nTuning: Standard\r\n\r\n[tab]Intro:\r\nG|-----9--7~-----------|-----9--7~-----------|\r\nD|--9-----------5--7x--|--9-----------5--7x--|\r\nA|-7-xx-xx----x5-xx--7-|-7-xx-xx----x5-xx--7-|\r\nE|---------------------|---------------------|\r\n   TPTTPTTP   TTPTTPPT   TPTTPTTP   TTPTTPPT[/tab]\r\n\r\n[tab]Verse 1:\r\nG|--------------------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Verse 2:\r\nG|-------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------9-9--------9-9---------2-2------------2-2----------|\r\nA|-------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--7x-x-7~-5--7x-x-7~-10--0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   TTPTPT  T  TTPTPT  T   TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Verse 3:\r\nG|--------------------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Verse 4:\r\nG|-------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------9-9--------9-9---------2-2------------2-2----------|\r\nA|-------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--7x-x-7~-5--7x-x-7~-10--0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   TTPTPT  T  TTPTPT  T   TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Interlude:\r\nG|---------------------------------------------------------------------|\r\nD|---------------------------------------------------------------------|\r\nA|-----------------------------------------------------5x-3x-5x-3x-5-3-|\r\nE|--5x-7x-5x-7x-5-7--5x-7x-5x-7x-5-7--5x-7x-5x-7x-5-7------------------|[/tab]\r\n\r\n\r\n[tab]Chorus:\r\nG|--------------------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Verse 4:\r\nG|--------------------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Verse 5:\r\nG|-------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------9-9--------9-9---------2-2------------2-2----------|\r\nA|-------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--7x-x-7~-5--7x-x-7~-10--0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   TTPTPT  T  TTPTPT  T   TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n\r\n[tab]Interlude:\r\nG|---------------------------------------------------------------------|\r\nD|---------------------------------------------------------------------|\r\nA|-----------------------------------------------------5x-3x-5x-3x-5-3-|\r\nE|--5x-7x-5x-7x-5-7--5x-7x-5x-7x-5-7--5x-7x-5x-7x-5-7------------------|[/tab]\r\n\r\n[tab]Chorus:\r\nG|--------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T [/tab]\r\n\r\n[tab]Guitar Solo 1:\r\nG|-----------------------|\r\nD|-----------------------|\r\nA|-----------------------|\r\nE|--7~--5/7~--5/7~--5/7~-|[/tab]\r\n\r\n[tab]Verse 6:\r\nG|--------------------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Verse 7:\r\nG|--------------------------------------------------------------------------------------------|\r\nD|----2-2------------2-2------9-9-------------9-9-----------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--7x-x-7~-5-5-5-5-7x-x-7~-10-10-10-10-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   TTPTPT  T T T T TTPTPT  T  T  T  T  TTPTPT   T T T TTPTPT   T T T[/tab]\r\n\r\n[tab]Interlude:\r\nG|---------------------------------------------------------------------|\r\nD|---------------------------------------------------------------------|\r\nA|-----------------------------------------------------5x-3x-5x-3x-5-3-|\r\nE|--5x-7x-5x-7x-5-7--5x-7x-5x-7x-5-7--5x-7x-5x-7x-5-7------------------|[/tab]\r\n\r\n\r\n[tab]Chorus:\r\nG|--------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T [/tab]\r\n\r\n[tab]Guitar Solo 2:\r\nG|-----------------------|\r\nD|-----------------------|\r\nA|-----------------------|\r\nE|--7~--5/7~--5/7~--5/7~-|[/tab]\r\n\r\n[tab]Chorus:\r\nG|--------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T [/tab]\r\n\r\n[tab]Guitar Solo 3:\r\nG|-----------------------|\r\nD|-----------------------|\r\nA|-----------------------|\r\nE|--5~--3/5~--3/5~--3/5~-|[/tab]\r\n\r\n[tab]Chorus:\r\nG|--------------------------------------------------------------|\r\nD|----2-2------------2-2------------2-2------------2-2----------|\r\nA|--------------------------------------------------------------|\r\nE|--0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-0x-x-0~--3-5-3-|\r\n    TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T TTPTPT   T T T [/tab]\r\n\r\n[tab]Outro:\r\nG|-----9--7~-----------|\r\nD|--9-----------5--7x--|\r\nA|-7-xx-xx----x5-xx--7-|\r\nE|---------------------|\r\n   TPTTPTTP   TTPTTPPT  [/tab]\r\n\r\n\r\n\r\n| /  slide up\r\n| \\  slide down\r\n| h  hammer-on\r\n| p  pull-off\r\n| ~  vibrato\r\n| +  harmonic\r\n| x  Mute note\r\n===============================================================================",
+                        "revision_id": 1,
+                        "user_id": 848623,
+                        "username": "nick270b",
+                        "date": 1392280675
+                    },
+                    "contributors": [],
+                    "strummings": [],
+                    "has_hq_description": 0,
+                    "blocked": false,
+                    "adsupp_binary_blocked": null,
+                    "meta": {
+                        "difficulty": "intermediate"
+                    },
+                    "has_official_version": false,
+                    "has_chord_pro": false,
+                    "has_preset": false,
+                    "versions": [
+                        {
+                            "id": 3716,
+                            "song_id": 13477,
+                            "song_name": "True Men Dont Kill Coyotes",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Bass Tabs",
+                            "part": "",
+                            "version": 1,
+                            "votes": 5,
+                            "rating": 3.4255,
+                            "date": "1004486400",
+                            "status": "approved",
+                            "preset_id": 0,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "",
+                            "version_description": null,
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-bass-3716",
+                            "date_update": "1004486400",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Bass",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-guitar-pro-1054624"
+                        },
+                        {
+                            "id": 155043,
+                            "song_id": 13477,
+                            "song_name": "True Men Dont Kill Coyotes",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Bass Tabs",
+                            "part": "",
+                            "version": 2,
+                            "votes": 3,
+                            "rating": 4.234,
+                            "date": "1104796800",
+                            "status": "approved",
+                            "preset_id": 0,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "",
+                            "version_description": null,
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-bass-155043",
+                            "date_update": "1104796800",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Bass",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-guitar-pro-1054624"
+                        },
+                        {
+                            "id": 387068,
+                            "song_id": 13477,
+                            "song_name": "True Men Dont Kill Coyotes",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Bass Tabs",
+                            "part": "",
+                            "version": 3,
+                            "votes": 10,
+                            "rating": 4.26185,
+                            "date": "1152489601",
+                            "status": "approved",
+                            "preset_id": 0,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "",
+                            "version_description": null,
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-bass-387068",
+                            "date_update": "1152489601",
+                            "user_id": 312908,
+                            "user_iq": 41,
+                            "username": "The*Music*Man",
+                            "type_name": "Bass",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-guitar-pro-1054624"
+                        }
+                    ],
+                    "song_image": false,
+                    "applicature": null,
+                    "last_comments": [
+                        {
+                            "id": "2597091",
+                            "rowid": "704917",
+                            "text": "great tab! and the video helps a lot too. 5*",
+                            "author_userid": "848623",
+                            "rating": "1",
+                            "userid": "962764",
+                            "usergroupid": "2",
+                            "username": "bassist999",
+                            "date_created": "1217361570",
+                            "type": "4",
+                            "parent_id": 0,
+                            "added_from": "",
+                            "updated_at": null,
+                            "status": "new",
+                            "moderator_user_id": "11953509",
+                            "likes_count": "0",
+                            "dislikes_count": "1",
+                            "contributor_level": null,
+                            "avatar": "https://tabs.ultimate-guitar.com/static/users/4/6/7/962764.gif?d=d",
+                            "date": 1217361570,
+                            "user_iq": 10,
+                            "level": 0
+                        },
+                        {
+                            "id": "4307086",
+                            "rowid": "704917",
+                            "text": "What do the T's and P's stand for? Is it slap and pop?",
+                            "author_userid": "848623",
+                            "rating": "1",
+                            "userid": "1483342",
+                            "usergroupid": "12",
+                            "username": "dmgINC308",
+                            "date_created": "1297376129",
+                            "type": "4",
+                            "parent_id": 0,
+                            "added_from": "",
+                            "updated_at": null,
+                            "status": "new",
+                            "moderator_user_id": "11953509",
+                            "likes_count": "0",
+                            "dislikes_count": "1",
+                            "contributor_level": "1",
+                            "avatar": "https://tabs.ultimate-guitar.com/static/users/2/4/3/1483342.gif?d=d",
+                            "date": 1297376129,
+                            "user_iq": 47,
+                            "level": 0
+                        },
+                        {
+                            "id": "4423799",
+                            "rowid": "704917",
+                            "text": "Yes, T is slap and P, pop",
+                            "author_userid": "848623",
+                            "rating": "0",
+                            "userid": "1295309",
+                            "usergroupid": "2",
+                            "username": "elvis32",
+                            "date_created": "1303652191",
+                            "type": "4",
+                            "parent_id": 0,
+                            "added_from": "",
+                            "updated_at": null,
+                            "status": "new",
+                            "moderator_user_id": "11953509",
+                            "likes_count": "0",
+                            "dislikes_count": "0",
+                            "contributor_level": null,
+                            "avatar": "https://tabs.ultimate-guitar.com/static/users/9/0/3/1295309.gif?d=d",
+                            "date": 1303652191,
+                            "user_iq": 10,
+                            "level": 0
+                        }
+                    ],
+                    "comments": 5,
+                    "stats": {
+                        "view_total": "11649",
+                        "favorites_count": "167"
+                    },
+                    "tab_corrects": [],
+                    "is_simplify_available": false,
+                    "can_edit_tab": false,
+                    "can_edit_strumming": false,
+                    "can_send_tab_stats": false,
+                    "official_backingtrack": null,
+                    "tab_search_link": "https://www.ultimate-guitar.com/search.php?band_name=Red+Hot+Chili+Peppers&song_name=true+men+dont+kill+coyotes&type%5B0%5D=200&type%5B1%5D=300",
+                    "wiki_tab_user_group_id": 21,
+                    "wiki_tab_user_iq": 196,
+                    "user_group_id": 21,
+                    "count_rating": 15,
+                    "encode_strummings": "",
+                    "lyrics_lines": [],
+                    "alert": null,
+                    "recommendations": [
+                        {
+                            "id": 3832,
+                            "song_id": 13481,
+                            "song_name": "Under The Bridge",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Tabs",
+                            "part": "",
+                            "version": 1,
+                            "votes": 1965,
+                            "rating": 4.62626,
+                            "date": "1004486400",
+                            "status": "approved",
+                            "preset_id": 100,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "E",
+                            "version_description": "",
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-tabs-3832",
+                            "date_update": "1502982140",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Tab",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-guitar-pro-853902"
+                        },
+                        {
+                            "id": 3763,
+                            "song_id": 13283,
+                            "song_name": "Higher Ground",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Tabs",
+                            "part": "",
+                            "version": 1,
+                            "votes": 12,
+                            "rating": 3.2936,
+                            "date": "1004486400",
+                            "status": "approved",
+                            "preset_id": 9961,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "",
+                            "version_description": null,
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/higher-ground-tabs-3763",
+                            "date_update": "1470135405",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Tab",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/higher-ground-guitar-pro-229789"
+                        },
+                        {
+                            "id": 3825,
+                            "song_id": 13447,
+                            "song_name": "Suck My Kiss",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Tabs",
+                            "part": "",
+                            "version": 1,
+                            "votes": 6,
+                            "rating": 4.04487,
+                            "date": "1004486400",
+                            "status": "approved",
+                            "preset_id": 2010,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "",
+                            "version_description": null,
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-tabs-3825",
+                            "date_update": "1004486400",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Tab",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-guitar-pro-229904"
+                        },
+                        {
+                            "id": 202764,
+                            "song_id": 13202,
+                            "song_name": "Californication",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Bass Tabs",
+                            "part": "",
+                            "version": 1,
+                            "votes": 162,
+                            "rating": 4.56,
+                            "date": "1104537600",
+                            "status": "approved",
+                            "preset_id": 10261,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "",
+                            "version_description": "",
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-bass-202764",
+                            "date_update": "1537277983",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Bass",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-power-310519"
+                        },
+                        {
+                            "id": 1842340,
+                            "song_id": 1660392,
+                            "song_name": "Dark Necessities",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Bass Tabs",
+                            "part": "",
+                            "version": 2,
+                            "votes": 128,
+                            "rating": 4.75878,
+                            "date": "1462476096",
+                            "status": "approved",
+                            "preset_id": 1145,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "Ab",
+                            "version_description": "",
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-bass-1842340",
+                            "date_update": "1562481396",
+                            "user_id": 4900323,
+                            "user_iq": 391,
+                            "username": "ThatWogBoy",
+                            "type_name": "Bass",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-guitar-pro-1846511"
+                        },
+                        {
+                            "id": 8602,
+                            "song_id": 29781,
+                            "song_name": "For Whom The Bell Tolls",
+                            "artist_name": "Metallica",
+                            "type": "Tabs",
+                            "part": "",
+                            "version": 1,
+                            "votes": 261,
+                            "rating": 4.21748,
+                            "date": "1004486400",
+                            "status": "approved",
+                            "preset_id": 73,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "",
+                            "version_description": "",
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/metallica_954",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/metallica/for-whom-the-bell-tolls-tabs-8602",
+                            "date_update": "1537192768",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Tab",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/metallica/for-whom-the-bell-tolls-guitar-pro-2670516"
+                        },
+                        {
+                            "id": 33385,
+                            "song_id": 13209,
+                            "song_name": "Cant Stop",
+                            "artist_name": "Red Hot Chili Peppers",
+                            "type": "Tabs",
+                            "part": "",
+                            "version": 1,
+                            "votes": 1098,
+                            "rating": 4.69069,
+                            "date": "1027814400",
+                            "status": "approved",
+                            "preset_id": 9929,
+                            "tab_access_type": "public",
+                            "tp_version": 0,
+                            "tonality_name": "Em",
+                            "version_description": "",
+                            "verified": 0,
+                            "recording": {
+                                "is_acoustic": 0,
+                                "tonality_name": "",
+                                "performance": null,
+                                "recording_artists": []
+                            },
+                            "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                            "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-tabs-33385",
+                            "date_update": "1559419262",
+                            "user_id": 0,
+                            "user_iq": 0,
+                            "username": "Unregistered",
+                            "type_name": "Tab",
+                            "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-guitar-pro-953800"
+                        }
+                    ],
+                    "official_backingtrack_url": null,
+                    "official_tab_url": null,
+                    "official_tab_want": {
+                        "artist_id": 554,
+                        "song_id": 13477,
+                        "vote_count": 7
+                    },
+                    "tab_manually_highlighted": false,
+                    "pro_tab_onbording": null
+                },
+                "access": {
+                    "can_edit_tab": false,
+                    "can_edit_strumming": false,
+                    "can_delete_comment": false,
+                    "can_manage_rating": false,
+                    "can_vote_strumming": true
+                },
+                "recommended_tabs": [
+                    {
+                        "id": 3832,
+                        "song_id": 13481,
+                        "song_name": "Under The Bridge",
+                        "artist_name": "Red Hot Chili Peppers",
+                        "type": "Tabs",
+                        "part": "",
+                        "version": 1,
+                        "votes": 1965,
+                        "rating": 4.62626,
+                        "date": "1004486400",
+                        "status": "approved",
+                        "preset_id": 100,
+                        "tab_access_type": "public",
+                        "tp_version": 0,
+                        "tonality_name": "E",
+                        "version_description": "",
+                        "verified": 0,
+                        "recording": {
+                            "is_acoustic": 0,
+                            "tonality_name": "",
+                            "performance": null,
+                            "recording_artists": []
+                        },
+                        "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                        "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-tabs-3832",
+                        "date_update": "1502982140",
+                        "user_id": 0,
+                        "user_iq": 0,
+                        "username": "Unregistered",
+                        "type_name": "Tab",
+                        "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-guitar-pro-853902"
+                    },
+                    {
+                        "id": 3763,
+                        "song_id": 13283,
+                        "song_name": "Higher Ground",
+                        "artist_name": "Red Hot Chili Peppers",
+                        "type": "Tabs",
+                        "part": "",
+                        "version": 1,
+                        "votes": 12,
+                        "rating": 3.2936,
+                        "date": "1004486400",
+                        "status": "approved",
+                        "preset_id": 9961,
+                        "tab_access_type": "public",
+                        "tp_version": 0,
+                        "tonality_name": "",
+                        "version_description": null,
+                        "verified": 0,
+                        "recording": {
+                            "is_acoustic": 0,
+                            "tonality_name": "",
+                            "performance": null,
+                            "recording_artists": []
+                        },
+                        "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                        "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/higher-ground-tabs-3763",
+                        "date_update": "1470135405",
+                        "user_id": 0,
+                        "user_iq": 0,
+                        "username": "Unregistered",
+                        "type_name": "Tab",
+                        "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/higher-ground-guitar-pro-229789"
+                    },
+                    {
+                        "id": 3825,
+                        "song_id": 13447,
+                        "song_name": "Suck My Kiss",
+                        "artist_name": "Red Hot Chili Peppers",
+                        "type": "Tabs",
+                        "part": "",
+                        "version": 1,
+                        "votes": 6,
+                        "rating": 4.04487,
+                        "date": "1004486400",
+                        "status": "approved",
+                        "preset_id": 2010,
+                        "tab_access_type": "public",
+                        "tp_version": 0,
+                        "tonality_name": "",
+                        "version_description": null,
+                        "verified": 0,
+                        "recording": {
+                            "is_acoustic": 0,
+                            "tonality_name": "",
+                            "performance": null,
+                            "recording_artists": []
+                        },
+                        "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                        "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-tabs-3825",
+                        "date_update": "1004486400",
+                        "user_id": 0,
+                        "user_iq": 0,
+                        "username": "Unregistered",
+                        "type_name": "Tab",
+                        "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-guitar-pro-229904"
+                    },
+                    {
+                        "id": 202764,
+                        "song_id": 13202,
+                        "song_name": "Californication",
+                        "artist_name": "Red Hot Chili Peppers",
+                        "type": "Bass Tabs",
+                        "part": "",
+                        "version": 1,
+                        "votes": 162,
+                        "rating": 4.56,
+                        "date": "1104537600",
+                        "status": "approved",
+                        "preset_id": 10261,
+                        "tab_access_type": "public",
+                        "tp_version": 0,
+                        "tonality_name": "",
+                        "version_description": "",
+                        "verified": 0,
+                        "recording": {
+                            "is_acoustic": 0,
+                            "tonality_name": "",
+                            "performance": null,
+                            "recording_artists": []
+                        },
+                        "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                        "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-bass-202764",
+                        "date_update": "1537277983",
+                        "user_id": 0,
+                        "user_iq": 0,
+                        "username": "Unregistered",
+                        "type_name": "Bass",
+                        "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-power-310519"
+                    },
+                    {
+                        "id": 1842340,
+                        "song_id": 1660392,
+                        "song_name": "Dark Necessities",
+                        "artist_name": "Red Hot Chili Peppers",
+                        "type": "Bass Tabs",
+                        "part": "",
+                        "version": 2,
+                        "votes": 128,
+                        "rating": 4.75878,
+                        "date": "1462476096",
+                        "status": "approved",
+                        "preset_id": 1145,
+                        "tab_access_type": "public",
+                        "tp_version": 0,
+                        "tonality_name": "Ab",
+                        "version_description": "",
+                        "verified": 0,
+                        "recording": {
+                            "is_acoustic": 0,
+                            "tonality_name": "",
+                            "performance": null,
+                            "recording_artists": []
+                        },
+                        "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                        "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-bass-1842340",
+                        "date_update": "1562481396",
+                        "user_id": 4900323,
+                        "user_iq": 391,
+                        "username": "ThatWogBoy",
+                        "type_name": "Bass",
+                        "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-guitar-pro-1846511"
+                    },
+                    {
+                        "id": 8602,
+                        "song_id": 29781,
+                        "song_name": "For Whom The Bell Tolls",
+                        "artist_name": "Metallica",
+                        "type": "Tabs",
+                        "part": "",
+                        "version": 1,
+                        "votes": 261,
+                        "rating": 4.21748,
+                        "date": "1004486400",
+                        "status": "approved",
+                        "preset_id": 73,
+                        "tab_access_type": "public",
+                        "tp_version": 0,
+                        "tonality_name": "",
+                        "version_description": "",
+                        "verified": 0,
+                        "recording": {
+                            "is_acoustic": 0,
+                            "tonality_name": "",
+                            "performance": null,
+                            "recording_artists": []
+                        },
+                        "artist_url": "https://www.ultimate-guitar.com/artist/metallica_954",
+                        "tab_url": "https://tabs.ultimate-guitar.com/tab/metallica/for-whom-the-bell-tolls-tabs-8602",
+                        "date_update": "1537192768",
+                        "user_id": 0,
+                        "user_iq": 0,
+                        "username": "Unregistered",
+                        "type_name": "Tab",
+                        "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/metallica/for-whom-the-bell-tolls-guitar-pro-2670516"
+                    },
+                    {
+                        "id": 33385,
+                        "song_id": 13209,
+                        "song_name": "Cant Stop",
+                        "artist_name": "Red Hot Chili Peppers",
+                        "type": "Tabs",
+                        "part": "",
+                        "version": 1,
+                        "votes": 1098,
+                        "rating": 4.69069,
+                        "date": "1027814400",
+                        "status": "approved",
+                        "preset_id": 9929,
+                        "tab_access_type": "public",
+                        "tp_version": 0,
+                        "tonality_name": "Em",
+                        "version_description": "",
+                        "verified": 0,
+                        "recording": {
+                            "is_acoustic": 0,
+                            "tonality_name": "",
+                            "performance": null,
+                            "recording_artists": []
+                        },
+                        "artist_url": "https://www.ultimate-guitar.com/artist/red_hot_chili_peppers_554",
+                        "tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-tabs-33385",
+                        "date_update": "1559419262",
+                        "user_id": 0,
+                        "user_iq": 0,
+                        "username": "Unregistered",
+                        "type_name": "Tab",
+                        "best_pro_tab_url": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-guitar-pro-953800"
+                    }
+                ],
+                "recentry_viewed_key": "tab:704917",
+                "criticals": [],
+                "survey": null
+            },
+            "header_bidding": {
+                "page_type": "tab_desktop",
+                "ad_units": [
+                    {
+                        "code": "ad_cs_2010320_728_90",
+                        "dfpCode": "UG_ATF_728",
+                        "sizes": [
+                            [
+                                728,
+                                90
+                            ]
+                        ],
+                        "placementId": "7478445",
+                        "layoutPlacement": "top",
+                        "appnexusPlacementId": 12097756,
+                        "mediaType": "banner",
+                        "bids": [
+                            {
+                                "bidder": "appnexus",
+                                "params": {
+                                    "placementId": 7478445,
+                                    "keywords": {
+                                        "is_refresh": "false",
+                                        "artist": 554,
+                                        "instr": "bass",
+                                        "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                                    }
+                                }
+                            },
+                            {
+                                "bidder": "adform",
+                                "params": {
+                                    "mid": "434123"
+                                }
+                            },
+                            {
+                                "bidder": "aol",
+                                "params": {
+                                    "network": "9527.1",
+                                    "placement": "3211475"
+                                }
+                            },
+                            {
+                                "bidder": "indexExchange",
+                                "params": {
+                                    "id": "2",
+                                    "siteID": "179681",
+                                    "size": [
+                                        728,
+                                        90
+                                    ],
+                                    "siteId": "179681"
+                                }
+                            },
+                            {
+                                "bidder": "mantis",
+                                "params": {
+                                    "property": "58c8252bdf390a2c0c1dba34",
+                                    "zoneId": "ug-us-728x90"
+                                }
+                            },
+                            {
+                                "bidder": "openx",
+                                "params": {
+                                    "delDomain": "ultimate-guitar-d.openx.net",
+                                    "unit": "538591653"
+                                }
+                            },
+                            {
+                                "bidder": "pubmatic",
+                                "params": {
+                                    "publisherId": "72623",
+                                    "adSlot": "3131195"
+                                }
+                            },
+                            {
+                                "bidder": "rhythmone",
+                                "params": {
+                                    "placementId": "61405"
+                                }
+                            },
+                            {
+                                "bidder": "rubicon",
+                                "params": {
+                                    "accountId": "15178",
+                                    "siteId": "93918",
+                                    "zoneId": "441934"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "code": "ad_cs_2010320_160_600",
+                        "dfpCode": "UG_ATF_160",
+                        "sizes": [
+                            [
+                                160,
+                                600
+                            ]
+                        ],
+                        "placementId": "7478445",
+                        "layoutPlacement": "side",
+                        "refresh": {
+                            "delay": 30000,
+                            "delayDeviation": 10000,
+                            "maxVisibleTime": 1000,
+                            "limit": 20
+                        },
+                        "appnexusPlacementId": 12097756,
+                        "mediaType": "banner",
+                        "bids": [
+                            {
+                                "bidder": "appnexus",
+                                "params": {
+                                    "placementId": 7478445,
+                                    "keywords": {
+                                        "is_refresh": "false",
+                                        "artist": 554,
+                                        "instr": "bass",
+                                        "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                                    }
+                                }
+                            },
+                            {
+                                "bidder": "adform",
+                                "params": {
+                                    "mid": "434117"
+                                }
+                            },
+                            {
+                                "bidder": "aol",
+                                "params": {
+                                    "network": "9527.1",
+                                    "placement": "3211476"
+                                }
+                            },
+                            {
+                                "bidder": "indexExchange",
+                                "params": {
+                                    "id": "1",
+                                    "siteID": "177325",
+                                    "size": [
+                                        160,
+                                        600
+                                    ],
+                                    "siteId": "177325"
+                                }
+                            },
+                            {
+                                "bidder": "mantis",
+                                "params": {
+                                    "property": "58c8252bdf390a2c0c1dba34",
+                                    "zoneId": "ug-us-160x600"
+                                }
+                            },
+                            {
+                                "bidder": "openx",
+                                "params": {
+                                    "delDomain": "ultimate-guitar-d.openx.net",
+                                    "unit": "538591659"
+                                }
+                            },
+                            {
+                                "bidder": "pubmatic",
+                                "params": {
+                                    "publisherId": "72623",
+                                    "adSlot": "3131193"
+                                }
+                            },
+                            {
+                                "bidder": "rhythmone",
+                                "params": {
+                                    "placementId": "61405"
+                                }
+                            },
+                            {
+                                "bidder": "rubicon",
+                                "params": {
+                                    "accountId": "15178",
+                                    "siteId": "93918",
+                                    "zoneId": "441934"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "code": "ad_cs_2010319_160_600",
+                        "dfpCode": "UG_BTF_160",
+                        "sizes": [
+                            [
+                                160,
+                                600
+                            ]
+                        ],
+                        "placementId": "7478445",
+                        "dynamic": true,
+                        "layoutPlacement": "sideBottom",
+                        "appnexusPlacementId": 9493688,
+                        "mediaType": "banner",
+                        "bids": [
+                            {
+                                "bidder": "appnexus",
+                                "params": {
+                                    "placementId": 7478445,
+                                    "keywords": {
+                                        "is_refresh": "false",
+                                        "artist": 554,
+                                        "instr": "bass",
+                                        "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "code": "ad_cs_2010319_300_250",
+                        "dfpCode": "UG_BTFR_300",
+                        "sizes": [
+                            [
+                                300,
+                                250
+                            ],
+                            [
+                                610,
+                                300
+                            ],
+                            [
+                                535,
+                                300
+                            ],
+                            [
+                                535,
+                                400
+                            ]
+                        ],
+                        "placementId": "8549997",
+                        "layoutPlacement": "bottom",
+                        "refresh": {
+                            "delay": 30000,
+                            "delayDeviation": 10000,
+                            "maxVisibleTime": 1000,
+                            "limit": 20
+                        },
+                        "appnexusPlacementId": 12097784,
+                        "mediaType": "banner",
+                        "bids": [
+                            {
+                                "bidder": "appnexus",
+                                "params": {
+                                    "placementId": 8549997,
+                                    "keywords": {
+                                        "is_refresh": "false",
+                                        "artist": 554,
+                                        "instr": "bass",
+                                        "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                                    }
+                                }
+                            },
+                            {
+                                "bidder": "adform",
+                                "params": {
+                                    "mid": "434119"
+                                }
+                            },
+                            {
+                                "bidder": "aol",
+                                "params": {
+                                    "network": "9527.1",
+                                    "placement": "4136371"
+                                }
+                            },
+                            {
+                                "bidder": "indexExchange",
+                                "params": {
+                                    "id": "4",
+                                    "siteID": "179683",
+                                    "size": [
+                                        300,
+                                        250
+                                    ],
+                                    "siteId": "179683"
+                                }
+                            },
+                            {
+                                "bidder": "mantis",
+                                "params": {
+                                    "property": "58c8252bdf390a2c0c1dba34",
+                                    "zoneId": "ug-us-300x250"
+                                }
+                            },
+                            {
+                                "bidder": "openx",
+                                "params": {
+                                    "delDomain": "ultimate-guitar-d.openx.net",
+                                    "unit": "538591661"
+                                }
+                            },
+                            {
+                                "bidder": "pubmatic",
+                                "params": {
+                                    "publisherId": "72623",
+                                    "adSlot": "3131198@300x250"
+                                }
+                            },
+                            {
+                                "bidder": "rhythmone",
+                                "params": {
+                                    "placementId": "61405"
+                                }
+                            },
+                            {
+                                "bidder": "rubicon",
+                                "params": {
+                                    "accountId": "15178",
+                                    "siteId": "93918",
+                                    "zoneId": "467536"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "code": "ad_cs_13538099_1_1",
+                        "dfpCode": "UG_ATF_1x1",
+                        "sizes": [
+                            [
+                                1,
+                                1
+                            ]
+                        ],
+                        "layoutPlacement": "offSide",
+                        "refresh": {
+                            "enabled": false
+                        },
+                        "dynamic": true,
+                        "appnexusPlacementId": 12097756,
+                        "mediaType": "banner",
+                        "bids": [
+                            {
+                                "bidder": "justpremium",
+                                "params": {
+                                    "zone": "46762"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "code": "ad_cs_10000000_2_2",
+                        "dfpCode": "UG_ATG_728_BX_MASTHEAD",
+                        "sizes": [
+                            [
+                                1,
+                                1
+                            ]
+                        ],
+                        "placementId": "10000000",
+                        "layoutPlacement": "outOfPage",
+                        "refresh": {
+                            "enabled": false
+                        },
+                        "mediaType": "banner",
+                        "bids": []
+                    }
+                ]
+            }
+        },
+        "i18n": {},
+        "user": {
+            "id": 0,
+            "avatarUrl": "https://tabs.ultimate-guitar.com/static/users/0/0/0/0.gif?d=d&h=1576724457",
+            "username": "Unregistered",
+            "email": "",
+            "usergroupid": 0,
+            "contributor": {
+                "isContributor": false,
+                "first_tab": 0
+            },
+            "iq": 0,
+            "tabsCount": 0,
+            "playlistCount": 0,
+            "messagesCount": 0,
+            "rights": [],
+            "joinDate": 0,
+            "user_status": ""
+        },
+        "notifications": {
+            "count_new": 0,
+            "data": [],
+            "giveaway_id": 0,
+            "texts": {
+                "markAll": "Mark all as read",
+                "settings": "Settings",
+                "thanksForVote": "Thanks for your vote"
+            }
+        },
+        "forms": [],
+        "theme": "dark",
+        "commentForm": {
+            "is_new": 0
+        },
+        "isUgOffice": 0,
+        "ugSearch": {
+            "type": "tabs",
+            "value": ""
+        },
+        "sponsorsFooter": null,
+        "takeover": {
+            "items": [
+                {
+                    "id": 98,
+                    "start_at": 1576572913,
+                    "end_at": 1576832113,
+                    "date_updated": 1576572913,
+                    "county": [
+                        "GB",
+                        "US"
+                    ],
+                    "page_type": [
+                        "tab",
+                        "topTabs",
+                        "artist",
+                        "article",
+                        "forum",
+                        "explore"
+                    ],
+                    "platform": [
+                        "desktop"
+                    ],
+                    "track": {
+                        "pixel": "https://secure.adnxs.com/imptr?id=50121&t=2",
+                        "yandex": "",
+                        "click_left": "https://secure.adnxs.com/clktrb?id=736654",
+                        "click_right": "https://secure.adnxs.com/clktrb?id=736654"
+                    },
+                    "style": {
+                        "background": ""
+                    },
+                    "extensions": {
+                        "image_left": "jpeg",
+                        "image_right": "jpeg"
+                    },
+                    "image_right": "/storage/takeover/media/7d6954e84fd3d2a682b3712303aa23e0dc2f17bd_1.jpeg",
+                    "image_left": "/storage/takeover/media/7d6954e84fd3d2a682b3712303aa23e0dc2f17bd_0.jpeg"
+                }
+            ],
+            "debug_takeover_id": 0
+        },
+        "interstitial": false,
+        "customAlerts": []
+    },
+    "globalHelpers": [],
+    "helpers": {
+        "typeHelper": {
+            "short": {
+                "Official": "OFFICIAL",
+                "Chords": "CRD",
+                "Tabs": "TAB",
+                "Pro": "PRO",
+                "Power": "PWR",
+                "Bass Tabs": "BASS",
+                "Drum Tabs": "DRM",
+                "Video": "VID",
+                "Ukulele Chords": "UKU",
+                "Tab Pro": "TAB PRO",
+                "Chord Pro": "CRD PRO"
+            },
+            "filter": {
+                "Official": "official",
+                "Chords": "chords",
+                "Tabs": "tab",
+                "Pro": "guitar pro",
+                "Power": "power",
+                "Bass Tabs": "bass",
+                "Drum Tabs": "drums",
+                "Video": "video",
+                "Ukulele Chords": "ukulele",
+                "Tab Pro": "tab pro",
+                "Chord Pro": "chord pro"
+            },
+            "full": {
+                "Official": "official tab",
+                "Chords": "chords",
+                "Tabs": "tab",
+                "Pro": "guitar pro tab",
+                "Power": "power tab",
+                "Bass Tabs": "bass tab",
+                "Drum Tabs": "drum tab",
+                "Video": "video tab",
+                "Ukulele Chords": "ukulele chords",
+                "Tab Pro": "tab pro",
+                "Chord Pro": "chord pro"
+            }
+        }
+    },
+    "cmp": {
+        "setConsentUrl": "https://www.ultimate-guitar.com/user/security/consent"
+    },
+    "bidding": {
+        "analytics": {
+            "logUrl": "//track.ultimate-guitar.com/ug/",
+            "pageType": "tab_desktop",
+            "region": "US",
+            "device": "desktop",
+            "variation": "",
+            "hasHardRefresh": true
+        },
+        "refresh": {
+            "limit": 20,
+            "maxVisibleTime": 1000,
+            "delay": 30000,
+            "delayDeviation": 10000,
+            "enabled": true,
+            "hasHardRefresh": true,
+            "availableBidders": [
+                "appnexus",
+                "indexExchange",
+                "pubmatic",
+                "rubicon",
+                "sonobi",
+                "openx",
+                "adform",
+                "aol",
+                "brealtime",
+                "audienceNetwork",
+                "improvedigital",
+                "adkernelAdn",
+                "districtM",
+                "oftmedia",
+                "onefiftytwo",
+                "sortable",
+                "emx_digital",
+                "teads"
+            ],
+            "ignoreChangePageVisibility": false
+        },
+        "minRefreshCpm": 0.04,
+        "cpmFloor": 0.2,
+        "timeout": 2000,
+        "refreshTimeout": 1000,
+        "dfpId": 74268401,
+        "units": [
+            {
+                "code": "ad_cs_2010320_728_90",
+                "dfpCode": "UG_ATF_728",
+                "sizes": [
+                    [
+                        728,
+                        90
+                    ]
+                ],
+                "placementId": "7478445",
+                "layoutPlacement": "top",
+                "appnexusPlacementId": 12097756,
+                "mediaType": "banner",
+                "bids": [
+                    {
+                        "bidder": "appnexus",
+                        "params": {
+                            "placementId": 7478445,
+                            "keywords": {
+                                "is_refresh": "false",
+                                "artist": 554,
+                                "instr": "bass",
+                                "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                            }
+                        }
+                    },
+                    {
+                        "bidder": "adform",
+                        "params": {
+                            "mid": "434123"
+                        }
+                    },
+                    {
+                        "bidder": "aol",
+                        "params": {
+                            "network": "9527.1",
+                            "placement": "3211475"
+                        }
+                    },
+                    {
+                        "bidder": "indexExchange",
+                        "params": {
+                            "id": "2",
+                            "siteID": "179681",
+                            "size": [
+                                728,
+                                90
+                            ],
+                            "siteId": "179681"
+                        }
+                    },
+                    {
+                        "bidder": "mantis",
+                        "params": {
+                            "property": "58c8252bdf390a2c0c1dba34",
+                            "zoneId": "ug-us-728x90"
+                        }
+                    },
+                    {
+                        "bidder": "openx",
+                        "params": {
+                            "delDomain": "ultimate-guitar-d.openx.net",
+                            "unit": "538591653"
+                        }
+                    },
+                    {
+                        "bidder": "pubmatic",
+                        "params": {
+                            "publisherId": "72623",
+                            "adSlot": "3131195"
+                        }
+                    },
+                    {
+                        "bidder": "rhythmone",
+                        "params": {
+                            "placementId": "61405"
+                        }
+                    },
+                    {
+                        "bidder": "rubicon",
+                        "params": {
+                            "accountId": "15178",
+                            "siteId": "93918",
+                            "zoneId": "441934"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": "ad_cs_2010320_160_600",
+                "dfpCode": "UG_ATF_160",
+                "sizes": [
+                    [
+                        160,
+                        600
+                    ]
+                ],
+                "placementId": "7478445",
+                "layoutPlacement": "side",
+                "refresh": {
+                    "delay": 30000,
+                    "delayDeviation": 10000,
+                    "maxVisibleTime": 1000,
+                    "limit": 20
+                },
+                "appnexusPlacementId": 12097756,
+                "mediaType": "banner",
+                "bids": [
+                    {
+                        "bidder": "appnexus",
+                        "params": {
+                            "placementId": 7478445,
+                            "keywords": {
+                                "is_refresh": "false",
+                                "artist": 554,
+                                "instr": "bass",
+                                "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                            }
+                        }
+                    },
+                    {
+                        "bidder": "adform",
+                        "params": {
+                            "mid": "434117"
+                        }
+                    },
+                    {
+                        "bidder": "aol",
+                        "params": {
+                            "network": "9527.1",
+                            "placement": "3211476"
+                        }
+                    },
+                    {
+                        "bidder": "indexExchange",
+                        "params": {
+                            "id": "1",
+                            "siteID": "177325",
+                            "size": [
+                                160,
+                                600
+                            ],
+                            "siteId": "177325"
+                        }
+                    },
+                    {
+                        "bidder": "mantis",
+                        "params": {
+                            "property": "58c8252bdf390a2c0c1dba34",
+                            "zoneId": "ug-us-160x600"
+                        }
+                    },
+                    {
+                        "bidder": "openx",
+                        "params": {
+                            "delDomain": "ultimate-guitar-d.openx.net",
+                            "unit": "538591659"
+                        }
+                    },
+                    {
+                        "bidder": "pubmatic",
+                        "params": {
+                            "publisherId": "72623",
+                            "adSlot": "3131193"
+                        }
+                    },
+                    {
+                        "bidder": "rhythmone",
+                        "params": {
+                            "placementId": "61405"
+                        }
+                    },
+                    {
+                        "bidder": "rubicon",
+                        "params": {
+                            "accountId": "15178",
+                            "siteId": "93918",
+                            "zoneId": "441934"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": "ad_cs_2010319_160_600",
+                "dfpCode": "UG_BTF_160",
+                "sizes": [
+                    [
+                        160,
+                        600
+                    ]
+                ],
+                "placementId": "7478445",
+                "dynamic": true,
+                "layoutPlacement": "sideBottom",
+                "appnexusPlacementId": 9493688,
+                "mediaType": "banner",
+                "bids": [
+                    {
+                        "bidder": "appnexus",
+                        "params": {
+                            "placementId": 7478445,
+                            "keywords": {
+                                "is_refresh": "false",
+                                "artist": 554,
+                                "instr": "bass",
+                                "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "code": "ad_cs_2010319_300_250",
+                "dfpCode": "UG_BTFR_300",
+                "sizes": [
+                    [
+                        300,
+                        250
+                    ],
+                    [
+                        610,
+                        300
+                    ],
+                    [
+                        535,
+                        300
+                    ],
+                    [
+                        535,
+                        400
+                    ]
+                ],
+                "placementId": "8549997",
+                "layoutPlacement": "bottom",
+                "refresh": {
+                    "delay": 30000,
+                    "delayDeviation": 10000,
+                    "maxVisibleTime": 1000,
+                    "limit": 20
+                },
+                "appnexusPlacementId": 12097784,
+                "mediaType": "banner",
+                "bids": [
+                    {
+                        "bidder": "appnexus",
+                        "params": {
+                            "placementId": 8549997,
+                            "keywords": {
+                                "is_refresh": "false",
+                                "artist": 554,
+                                "instr": "bass",
+                                "title": "Red Hot Chili Peppers - True Men Dont Kill Coyotes (bass)"
+                            }
+                        }
+                    },
+                    {
+                        "bidder": "adform",
+                        "params": {
+                            "mid": "434119"
+                        }
+                    },
+                    {
+                        "bidder": "aol",
+                        "params": {
+                            "network": "9527.1",
+                            "placement": "4136371"
+                        }
+                    },
+                    {
+                        "bidder": "indexExchange",
+                        "params": {
+                            "id": "4",
+                            "siteID": "179683",
+                            "size": [
+                                300,
+                                250
+                            ],
+                            "siteId": "179683"
+                        }
+                    },
+                    {
+                        "bidder": "mantis",
+                        "params": {
+                            "property": "58c8252bdf390a2c0c1dba34",
+                            "zoneId": "ug-us-300x250"
+                        }
+                    },
+                    {
+                        "bidder": "openx",
+                        "params": {
+                            "delDomain": "ultimate-guitar-d.openx.net",
+                            "unit": "538591661"
+                        }
+                    },
+                    {
+                        "bidder": "pubmatic",
+                        "params": {
+                            "publisherId": "72623",
+                            "adSlot": "3131198@300x250"
+                        }
+                    },
+                    {
+                        "bidder": "rhythmone",
+                        "params": {
+                            "placementId": "61405"
+                        }
+                    },
+                    {
+                        "bidder": "rubicon",
+                        "params": {
+                            "accountId": "15178",
+                            "siteId": "93918",
+                            "zoneId": "467536"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": "ad_cs_13538099_1_1",
+                "dfpCode": "UG_ATF_1x1",
+                "sizes": [
+                    [
+                        1,
+                        1
+                    ]
+                ],
+                "layoutPlacement": "offSide",
+                "refresh": {
+                    "enabled": false
+                },
+                "dynamic": true,
+                "appnexusPlacementId": 12097756,
+                "mediaType": "banner",
+                "bids": [
+                    {
+                        "bidder": "justpremium",
+                        "params": {
+                            "zone": "46762"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": "ad_cs_10000000_2_2",
+                "dfpCode": "UG_ATG_728_BX_MASTHEAD",
+                "sizes": [
+                    [
+                        1,
+                        1
+                    ]
+                ],
+                "placementId": "10000000",
+                "layoutPlacement": "outOfPage",
+                "refresh": {
+                    "enabled": false
+                },
+                "mediaType": "banner",
+                "bids": []
+            }
+        ],
+        "priceGranularity": [
+            {
+                "precision": 2,
+                "min": 0,
+                "max": 1,
+                "increment": 0.01
+            },
+            {
+                "precision": 2,
+                "min": 1,
+                "max": 2,
+                "increment": 0.02
+            },
+            {
+                "precision": 2,
+                "min": 2,
+                "max": 5,
+                "increment": 0.05
+            },
+            {
+                "precision": 2,
+                "min": 5,
+                "max": 10,
+                "increment": 0.1
+            },
+            {
+                "precision": 2,
+                "min": 10,
+                "max": 20,
+                "increment": 0.2
+            },
+            {
+                "precision": 2,
+                "min": 20,
+                "max": 50,
+                "increment": 0.5
+            }
+        ],
+        "dynamicLoad": true,
+        "disableAdx": false,
+        "apstagEnabled": true,
+        "isGDPRAvailable": false,
+        "isForensiqDisabled": false
+    }
+}

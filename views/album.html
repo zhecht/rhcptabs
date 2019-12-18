@@ -1,16 +1,19 @@
 {% extends "base.html" %}
 {% block content %}
-<div style='background: rgba(0,0,0,.75);padding:5%'>
-  <div id='album_cover'>
-    <img src="/static/pics/{{pic_url}}" alt="{{album_name}}" />
+<div style="background: rgba(0,0,0,.75);padding:5%;padding-top:0;">
+  <div style="width:100%;padding: 2.5% 0;">
+    <div id="title">{{album_name}}</div>
   </div>
-  <div id='album_info'>
-    <div id='title'>{{album_name}}</div>
+  <div id="album_info">
+    <div id="album_cover">
+      <img src="/static/pics/{{pic_url}}" alt="{{album_name}}" />
+    </div>
     <div id="instrument_list">
-      <p style="margin-top:2.5%;">Acoustic: {{acoustic}}</p>
+      <p style="padding-top:0;">Acoustic: {{acoustic}}</p>
       <p>Electric: {{electric}}</p>
       <p>Bass: {{bass}}</p>
       <p>Drums: {{drums}}</p>
+      <p>Misc: {{misc}}</p>
     </div>
   </div>
   <table id='album_songs'>
@@ -18,15 +21,18 @@
       {% if url == "live" %}
         <th>Where</th>
       {% else %}
-        <th>No.</th>
+        <th></th>
       {% endif %}
-      <th>Title</th>
-      <th>Tabs</th>
+      <th>Title</th>      
+      <th>Guitar</th>
+      <th>Lyrics</th>
+      <th>Bass</th>
+      <th>Drums</th>
     </tr>
     {% for song in all_songs %}
       {% if song.title == "B-Sides" %}
         <tr class='header'>
-          <th colspan='3' style='text-align:center;'>{{song.title}}</th>
+          <th colspan='6' style='text-align:center;'>{{song.title}}</th>
         </tr>
       {% elif url == "live" %}
         <tr class='song {{song.id}}'>
@@ -46,16 +52,7 @@
         <tr class='song'>
           <td>{{loop.index}}.</td>
           <td>{{song.title}}</td>
-          <td>
-            {% if song.tabs == "None" %}
-              None
-            {% else %}
-              {% set outer_loop = loop %}
-              {% for tab in song.tabs %}
-                <a href="javascript:openTabsWindow('/static/tabs/{{url}}/{{outer_loop.index}}/{{tab}}')" class="{{tab}}">{{tab}}</a>
-              {% endfor %}
-            {% endif %}
-          </td>
+          {{song.tab_html|safe}}
         </tr>
       {% endif %}
     {% endfor %}
