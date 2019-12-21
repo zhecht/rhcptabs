@@ -1,3 +1,12 @@
+
+
+
+LAST 2 COMMENTS
+
+aslak.lysfjordb: Gooodie :)
+
+holziisur: Lack of formatting. Lack of accuracy. chords does not mean a riff being played the whole time. This is not the chords and is lacking greatly in chords. if I were playing this solo it would sound terrible.
+
 Around The World
 
 Capo 3rd fret
@@ -13,7 +22,7 @@ E-----------------------------------||
 Intro:
 
 (Double-Time Feel)
-|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|
+|C#5|C#5|C#5|C#5|C#5|C#5|C#5|
 (End Double-Time Feel)
 
 |Riff|Riff|
@@ -43,13 +52,13 @@ I wish I knew ya.
 
 Chorus:
 
-[ch]F[/ch]              [ch]Em[/ch]  
+F              Em  
  I know, I know  for sure,
-[ch]Dm[/ch]                        [ch]Am[/ch]
+Dm                        Am
   that life is beautiful around the world.
-[ch]F[/ch]                     [ch]Em[/ch] 
+F                     Em 
  Well, I know, I know,  it's you,
-[ch]Dm[/ch]                         [ch]Am[/ch]
+Dm                         Am
   you say hello and then I say I do.
 |Riff|
 
@@ -78,21 +87,21 @@ when they do in Sicily.
 
 Chorus:
 
-[ch]F[/ch]              [ch]Em[/ch]  
+F              Em  
  I know, I know  for sure,
-[ch]Dm[/ch]                        [ch]Am[/ch]
+Dm                        Am
   that life is beautiful around the world.
-[ch]F[/ch]                     [ch]Em[/ch] 
+F                     Em 
  Well, I know, I know,  it's you,
-[ch]Dm[/ch]                         [ch]Am[/ch]
+Dm                         Am
   you say hello and then I say I do.
 
 Bridge: 
 (Double-Time Feel)
-|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|
+|C#5|C#5|C#5|C#5|
 (End Double-Time Feel)
 
-|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|[ch]C#5[/ch]|
+|C#5|C#5|C#5|C#5|
 |Riff|Riff|
 
 Verse:
@@ -119,38 +128,30 @@ take a wife
 
 Chorus:
 
-[ch]F[/ch]              [ch]Em[/ch]  
+F              Em  
  I know, I know  for sure
 
-|[ch]Dm[/ch]|[ch]Am[/ch]|
+|Dm|Am|
 
-[ch]F[/ch]                     [ch]Em[/ch] 
+F                     Em 
  Well, I know, I know,  it's you
-|[ch]Dm[/ch]|[ch]Am[/ch]              |
+|Dm|Am              |
     dong, bing, bang.
-[ch]F[/ch]
+F
  Mother Russia, do not suffer, 
-[ch]Em[/ch]                          
+Em                          
   I know you're bold enough. 
-     [ch]Dm[/ch]
+     Dm
 I've been around the world 
-           [ch]Am[/ch]
+           Am
 and I have seen your love.
-[ch]F[/ch]              [ch]Em[/ch]
+F              Em
  I know, I know  it's you,
-[ch]Dm[/ch]                         [ch]C6[/ch]
+Dm                         C6
   you say hello and then I say I do.
 
 Outro:
-|[ch]Bm[/ch]|[ch]Bm[/ch]|[ch]F#7sus4/B[/ch]|[ch]Gmaj7/B[/ch]|
-|[ch]Bm[/ch]|[ch]Bm[/ch]|[ch]F#7sus4/B[/ch]|[ch]Gmaj7/B[/ch] [ch]Gadd9/B[/ch]|
-|[ch]Bm[/ch]|[ch]Bm[/ch]|[ch]F#7sus4/B[/ch]|[ch]Gmaj7/B[/ch]|
-|[ch]Bm[/ch]|[ch]Bm[/ch]|[ch]F#7sus4/B[/ch]|[ch]Gmaj7/B[/ch]|
-
-
-LAST 2 COMMENTS
-
-aslak.lysfjordb: Gooodie :)
-
-holziisur: Lack of formatting. Lack of accuracy. chords does not mean a riff being played the whole time. This is not the chords and is lacking greatly in chords. if I were playing this solo it would sound terrible.
-
+|Bm|Bm|F#7sus4/B|Gmaj7/B|
+|Bm|Bm|F#7sus4/B|Gmaj7/B Gadd9/B|
+|Bm|Bm|F#7sus4/B|Gmaj7/B|
+|Bm|Bm|F#7sus4/B|Gmaj7/B|

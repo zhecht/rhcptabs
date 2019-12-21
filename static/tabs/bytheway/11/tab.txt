@@ -1,3 +1,34 @@
+
+
+
+LAST 3 COMMENTS
+
+Hendrix8: Pretty good but the 
+<nobr>E|---------0------------0-----0--</nobr>
+<nobr>B|------------8------------------</nobr>
+<nobr>G|------0------------0-----0-----</nobr> (x2)
+<nobr>D|-------------------------------</nobr>
+<nobr>A|--10-----------10--------------</nobr>
+<nobr>E|-------------------------------</nobr>
+
+part is a little off
+
+pmccormack: This is my tab now im registered. Yeah the first part i hard to work out by ear. Yours sounds better Hendrix8!
+
+rockstarr66: <nobr>E|-------------------0--0--0--0--0-----|</nobr>
+<nobr>B|-------------------0--0--0--0--0-----|</nobr>
+<nobr>G|-------------------0--0--0--0--0-----|</nobr>
+<nobr>D|--12--11--9--0-----9--9--9--9--9-----|</nobr>
+<nobr>A|----------------9--9--9--9--9--9-----|</nobr>
+<nobr>E|-------------------------------------|</nobr> should be:
+
+<nobr>E|-------------------0--0--0--0--0-----|</nobr>
+<nobr>B|-------------------0--0--0--0--0-----|</nobr>
+<nobr>G|--9----------------0--0--0--0--0-----|</nobr>
+<nobr>D|-----12--11--0-----9--9--9--9--9-----|</nobr>
+<nobr>A|----------------9--9--9--9--9--9-----|</nobr>
+<nobr>E|-------------------------------------|</nobr>
+
 (/) Slide   (v) Strum Down   (^) Strum Up
 
 CAPO ON 7th FRET.
@@ -121,33 +152,3 @@ This is my first tab so please rate it and let me know if you spot any mistakes.
 | (xn)   Repeat n times
 
 ************************************
-
-
-LAST 3 COMMENTS
-
-Hendrix8: Pretty good but the 
-<nobr>E|---------0------------0-----0--</nobr>
-<nobr>B|------------8------------------</nobr>
-<nobr>G|------0------------0-----0-----</nobr> (x2)
-<nobr>D|-------------------------------</nobr>
-<nobr>A|--10-----------10--------------</nobr>
-<nobr>E|-------------------------------</nobr>
-
-part is a little off
-
-pmccormack: This is my tab now im registered. Yeah the first part i hard to work out by ear. Yours sounds better Hendrix8!
-
-rockstarr66: <nobr>E|-------------------0--0--0--0--0-----|</nobr>
-<nobr>B|-------------------0--0--0--0--0-----|</nobr>
-<nobr>G|-------------------0--0--0--0--0-----|</nobr>
-<nobr>D|--12--11--9--0-----9--9--9--9--9-----|</nobr>
-<nobr>A|----------------9--9--9--9--9--9-----|</nobr>
-<nobr>E|-------------------------------------|</nobr> should be:
-
-<nobr>E|-------------------0--0--0--0--0-----|</nobr>
-<nobr>B|-------------------0--0--0--0--0-----|</nobr>
-<nobr>G|--9----------------0--0--0--0--0-----|</nobr>
-<nobr>D|-----12--11--0-----9--9--9--9--9-----|</nobr>
-<nobr>A|----------------9--9--9--9--9--9-----|</nobr>
-<nobr>E|-------------------------------------|</nobr>
-

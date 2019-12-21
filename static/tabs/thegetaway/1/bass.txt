@@ -1,3 +1,33 @@
+
+
+
+LAST 3 COMMENTS
+
+ciho482: Good tab! Well done. :)
+
+dromejko5: Lots of missing or wrong notes. This tab needs a complete overhaul. Please review and edit! Thank you Thank youThank you
+
+robotfrom94: In the first bar of the verse
+
+
+  1 + 2 + 3 + 4 +  
+<nobr>G||----------------|</nobr>
+<nobr>D||----------------|</nobr>
+<nobr>A||0-------3---3---|</nobr>
+<nobr>E||----------------|</nobr>
+
+
+
+should be:
+
+
+  1 + 2 + 3 + 4 +  
+<nobr>G||----------------|</nobr>
+<nobr>D||----------------|</nobr>
+<nobr>A||0-------3---2---|</nobr>
+<nobr>E||----------------|</nobr>
+
+
 -------------------------------------------------------------------------------
 Red Hot Chili Peppers - The Getaway
 -------------------------------------------------------------------------------
@@ -176,32 +206,3 @@ E|----------------|----------------|----------------|----------------|
 | ~  vibrato 
 | +  harmonic 
 | x  Mute note
-
-
-LAST 3 COMMENTS
-
-ciho482: Good tab! Well done. :)
-
-dromejko5: Lots of missing or wrong notes. This tab needs a complete overhaul. Please review and edit! Thank you Thank youThank you
-
-robotfrom94: In the first bar of the verse
-[tab]
-
-  1 + 2 + 3 + 4 +  
-<nobr>G||----------------|</nobr>
-<nobr>D||----------------|</nobr>
-<nobr>A||0-------3---3---|</nobr>
-<nobr>E||----------------|</nobr>
-
-[/tab]
-
-should be:
-
-[tab]
-  1 + 2 + 3 + 4 +  
-<nobr>G||----------------|</nobr>
-<nobr>D||----------------|</nobr>
-<nobr>A||0-------3---2---|</nobr>
-<nobr>E||----------------|</nobr>
-[/tab]
-

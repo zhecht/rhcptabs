@@ -1,3 +1,48 @@
+
+
+
+LAST 3 COMMENTS
+
+Bobert5: id say its spot on
+just a little thing i find uncomfortable:
+prechorus
+G <nobr>----14--------14-----14-----|</nobr>
+<nobr>D(...)------------------------|</nobr>
+A <nobr>--------8--8-------8--------|</nobr>
+E <nobr>-------(13-13-------13-)----|</nobr> the Fs could be played much easier in the 13th fret of the E
+
+mchowelly: Yes, that's great. Thanks for your alternative fingering! It does work much better.
+
+anameofsomesort: Pretty close but some of your fingerings are dodgy and prechorus is wrong. Also the second part of the prechorus you missed out which is just the chorus played an octave higher.
+
+Main Riff easier played like this (no hand movement):
+
+G <nobr>--------7-7-----------------------|</nobr>
+D <nobr>------------------------8-8-------|</nobr>	x4
+A <nobr>--5-5-5-----5-8-7-------------7-8-|</nobr>
+E <nobr>------------------6-6-6-----6-----|</nobr>
+
+Prechorus (Break) goes like this:
+
+G <nobr>-------15-------15----15-------14-------14----14-|</nobr>
+D <nobr>-------------------------------------------------|</nobr>	
+A <nobr>-------------------------------------------------|</nobr>
+E <nobr>-15-15----15-15----15----13-13----13-13----13----|</nobr>
+
+G <nobr>-------12-------12----12-------12-------12----12-|</nobr>
+D <nobr>-------------------------------------------------|</nobr>	
+A <nobr>-------------------------------------------------|</nobr>
+E <nobr>-12-12----12-12----12----12-12----12-12----12----|</nobr>
+
+Then second prechorus bit is the chorus played an octave higher (these are the notes, listen to song for rhythm):
+
+G <nobr>-------------------------------------|</nobr>
+D <nobr>-12----------------------11---10-----|</nobr>	
+A <nobr>--------10------13-------------------|</nobr>
+E <nobr>-------------------------------------|</nobr>
+
+Then the chorus is right but again can be done with easier fingerings which i cant be bothered to tab.
+
 ANNIE WANTS A BABY
 
 Intro:
@@ -51,47 +96,3 @@ G ----------------------------------------------------------------------------|
 D ----------------------------------------------------------------------------|
 A --5---5-5---5-5-5-------------------------------------4-4-4----3-3-3--1-----|
 E -------------------3----3-3---3-3-3--6---6-6---6-6-6------------------------|
-
-
-LAST 3 COMMENTS
-
-Bobert5: id say its spot on
-just a little thing i find uncomfortable:
-prechorus
-G <nobr>----14--------14-----14-----|</nobr>
-<nobr>D(...)------------------------|</nobr>
-A <nobr>--------8--8-------8--------|</nobr>
-E <nobr>-------(13-13-------13-)----|</nobr> the Fs could be played much easier in the 13th fret of the E
-
-mchowelly: Yes, that's great. Thanks for your alternative fingering! It does work much better.
-
-anameofsomesort: Pretty close but some of your fingerings are dodgy and prechorus is wrong. Also the second part of the prechorus you missed out which is just the chorus played an octave higher.
-
-Main Riff easier played like this (no hand movement):
-
-G <nobr>--------7-7-----------------------|</nobr>
-D <nobr>------------------------8-8-------|</nobr>	x4
-A <nobr>--5-5-5-----5-8-7-------------7-8-|</nobr>
-E <nobr>------------------6-6-6-----6-----|</nobr>
-
-Prechorus (Break) goes like this:
-
-G <nobr>-------15-------15----15-------14-------14----14-|</nobr>
-D <nobr>-------------------------------------------------|</nobr>	
-A <nobr>-------------------------------------------------|</nobr>
-E <nobr>-15-15----15-15----15----13-13----13-13----13----|</nobr>
-
-G <nobr>-------12-------12----12-------12-------12----12-|</nobr>
-D <nobr>-------------------------------------------------|</nobr>	
-A <nobr>-------------------------------------------------|</nobr>
-E <nobr>-12-12----12-12----12----12-12----12-12----12----|</nobr>
-
-Then second prechorus bit is the chorus played an octave higher (these are the notes, listen to song for rhythm):
-
-G <nobr>-------------------------------------|</nobr>
-D <nobr>-12----------------------11---10-----|</nobr>	
-A <nobr>--------10------13-------------------|</nobr>
-E <nobr>-------------------------------------|</nobr>
-
-Then the chorus is right but again can be done with easier fingerings which i cant be bothered to tab.
-

@@ -1,3 +1,21 @@
+
+
+
+LAST 3 COMMENTS
+
+Jaz.: So, I posted up this tab last night, and I messed one thing up: The interlude between the verses is played THREE times, not four. My bad.
+
+AndreBracisievi: best tab of this song!!!
+
+rjjena: It goes like this. <nobr>13-13-11-11-9</nobr> (not <nobr>-12-12-)</nobr>
+
+<nobr>e|--------------------------------------------------------------------------|</nobr>
+<nobr>B|--------------------------------------------------------------------------|</nobr>
+<nobr>G|------------------99------------------13-13-11-11-9-----------------99----|</nobr>
+<nobr>D|-------9--------9---11-------9-------9--------------------9-------9---11--|</nobr>
+<nobr>A|---9h11-----9h11---------9h11----9h11-----------------9h11----9h11--------|</nobr>
+<nobr>E|-0--------0-------------0-------0--------------------0-------0------------|</nobr>
+
 Gong Li is a fantastic B-Side by the Red Hot Chili Peppers.
 
 I've seen a few tabs on the site, and one came very close, though was still off pitch 
@@ -23,42 +41,42 @@ A|---9h11-------------------------------------------------------------------|
 E|-0------------------------------------------------------------------------|
 
 
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people say you hate me,
-[ch]B[/ch]               [ch]A[/ch]          [ch]E[/ch]
+B               A          E
 I don't believe it's true, things that you're going through
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people say you hate me,
-[ch]B[/ch]               [ch]A[/ch]         [ch]C#m[/ch]
+B               A         C#m
 I don't believe it's you, things that you're going through,
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people said a prayer for,
-[ch]B[/ch]                [ch]A[/ch]        [ch]E[/ch]
+B                A        E
 The one you want to live, the eyes that once were his
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people said a prayer for,
-[ch]B[/ch]                [ch]A[/ch]        [ch]C#m[/ch]
+B                A        C#m
 The way you want to live, the eyes you want to give
 
 
 [ Repeat Intro Riff Four Times ]
 
 
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people say you played me,
-[ch]B[/ch]                [ch]A[/ch]         [ch]E[/ch]
+B                A         E
 I don't care if it's true, I'm waiting here for you,
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people say you made it,
-[ch]B[/ch]                [ch]A[/ch]        [ch]C#m[/ch]
+B                A        C#m
 I'm not afraid to know, when things are getting low
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people say you hate me,
-[ch]B[/ch]                [ch]A[/ch]         [ch]E[/ch]
+B                A         E
 I don't believe it's true, things that you're going through
-[ch]C#m[/ch]         [ch]B[/ch]       [ch]E[/ch]
+C#m         B       E
 Some people say you hate me,
-[ch]B[/ch]                [ch]A[/ch]        [ch]C#m[/ch]
+B                A        C#m
 I don't believe it's you, things that you're going through
 
 OUTRO [ Repeat Four Times, on fourth time add the bracketed section of the last bar ]
@@ -80,27 +98,10 @@ E|-0------------------------------------------------------------------------|
 
 
 CHORD SHAPES
-     [ch]C#m[/ch]     [ch]B[/ch]     [ch]E[/ch]    [ch]A[/ch]
+     C#m     B     E    A
 e|----9------7-----7----5---------------------------------------------------|
 B|----9------7-----9----5---------------------------------------------------|
 G|----9------8-----9----6---------------------------------------------------|
 D|----11-----9-----9----7---------------------------------------------------|
 A|----11-----9-----7----7---------------------------------------------------|
 E|----x------x-----x----x---------------------------------------------------|
-
-
-LAST 3 COMMENTS
-
-Jaz.: So, I posted up this tab last night, and I messed one thing up: The interlude between the verses is played THREE times, not four. My bad.
-
-AndreBracisievi: best tab of this song!!!
-
-rjjena: It goes like this. <nobr>13-13-11-11-9</nobr> (not <nobr>-12-12-)</nobr>
-
-<nobr>e|--------------------------------------------------------------------------|</nobr>
-<nobr>B|--------------------------------------------------------------------------|</nobr>
-<nobr>G|------------------99------------------13-13-11-11-9-----------------99----|</nobr>
-<nobr>D|-------9--------9---11-------9-------9--------------------9-------9---11--|</nobr>
-<nobr>A|---9h11-----9h11---------9h11----9h11-----------------9h11----9h11--------|</nobr>
-<nobr>E|-0--------0-------------0-------0--------------------0-------0------------|</nobr>
-

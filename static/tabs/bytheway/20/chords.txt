@@ -1,8 +1,8 @@
-[ch]G#(b5)[/ch] = 456xxx
+G#(b5) = 456xxx
 
 [Intro]
 
-[ch]Am[/ch]  [ch]G[/ch]  [ch]F[/ch]  [ch]E[/ch]  x4
+Am  G  F  E  x4
 
 
 e|-----5h7-8-7-5h7p5---5------4------|-----5h7-8-7-5h7p5---5------4-----4----|
@@ -22,128 +22,128 @@ E|--------------------------------------------|---------------------------------
 
 [Verse]
 
-[ch]Am[/ch]  [ch]G[/ch]           [ch]F[/ch]        [ch]E[/ch]
+Am  G           F        E
  In the name of it's for you I
-[ch]Am[/ch]         [ch]G[/ch]       [ch]F[/ch]          [ch]E[/ch]
+Am         G       F          E
  Bought it all and it's all untrue I
-[ch]Am[/ch] [ch]G[/ch]  [ch]F[/ch]    [ch]E[/ch]        [ch]Am[/ch]   [ch]G[/ch]
+Am G  F    E        Am   G
  Know, I'm a little slow
-[ch]F[/ch]         [ch]E[/ch]      [ch]Am[/ch]     [ch]G[/ch]   [ch]F[/ch]   [ch]E[/ch]
+F         E      Am     G   F   E
 Desparate and it shows
 
-[ch]Am[/ch]  [ch]G[/ch]           [ch]F[/ch]      [ch]E[/ch]
+Am  G           F      E
  In the name of Spindustry a
-[ch]Am[/ch]  [ch]G[/ch]                 [ch]F[/ch]    [ch]E[/ch]
+Am  G                 F    E
  Burning bush and a busted knee you
-[ch]Am[/ch]  [ch]G[/ch]  [ch]F[/ch]    [ch]E[/ch]            [ch]Am[/ch]     [ch]G[/ch]
+Am  G  F    E            Am     G
  Stole, all the rain and snow
 
 
 [Pre-chorus]
 
-[ch]F[/ch]    [ch]E[/ch]          [ch]Dm[/ch]
+F    E          Dm
  Who will be my Eskimo
-            [ch]Am[/ch]
+            Am
 It's what I wanna know
-             [ch]Dm[/ch]
+             Dm
 It's time to under go
-             [ch]Am[/ch]
+             Am
 Somewhere in Mexico
-           [ch]E[/ch]
+           E
 I'm making room for you
-         [ch]Am[/ch]
+         Am
 A simple point of view
-           [ch]E[/ch]
+           E
 Someone to defer to
-[ch]E7[/ch]
+E7
 Aw
 
 
 [Chorus]
 
-[ch]A5[/ch] [ch]G#(b5)[/ch]
+A5 G#(b5)
       Searching for an Eskimo
-[ch]B5[/ch]  [ch]A5[/ch]
+B5  A5
       Searching and I wanna know
-[ch]A5[/ch]  [ch]G#(b5)[/ch] [ch]B5[/ch]   [ch]A5[/ch]
+A5  G#(b5) B5   A5
 Someone,   like you ( )
-[ch]A5[/ch] [ch]G#(b5)[/ch]
+A5 G#(b5)
       Desperate and I gotta go
-[ch]B5[/ch]  [ch]A5[/ch]
+B5  A5
       Searching for an Eskimo
-[ch]A5[/ch]  [ch]G#(b5)[/ch] [ch]B5[/ch]   [ch]A5[/ch]
+A5  G#(b5) B5   A5
 Someone,   like you
 
 
 [Instrumental]
 
-[ch]Am[/ch]  [ch]G[/ch]  [ch]F[/ch]  [ch]E[/ch]  x4
+Am  G  F  E  x4
 
 
 [Verse]
 
-[ch]Am[/ch]  [ch]G[/ch]           [ch]F[/ch]     [ch]E[/ch]
+Am  G           F     E
  In the name of Jesus Christ I
-[ch]Am[/ch]    [ch]G[/ch]            [ch]F[/ch]        [ch]E[/ch]
+Am    G            F        E
  Sold my son and I named my price I
-[ch]Am[/ch]  [ch]G[/ch] [ch]F[/ch]     [ch]E[/ch]        [ch]Am[/ch]     [ch]G[/ch]
+Am  G F     E        Am     G
  Sold, just a little low
 
 
 [Pre-chorus]
 
-[ch]F[/ch]    [ch]E[/ch]          [ch]Dm[/ch]
+F    E          Dm
  Who will be my Eskimo
-            [ch]Am[/ch]
+            Am
 It's what I wanna know
-             [ch]Dm[/ch]
+             Dm
 It's time to under go
-             [ch]Am[/ch]
+             Am
 Somewhere in Mexico
-           [ch]E[/ch]
+           E
 I'm making room for you
-         [ch]Am[/ch]
+         Am
 A simple point of view
-           [ch]E[/ch]
+           E
 Someone to defer to
-[ch]E7[/ch]
+E7
 Ooooooh aw
 
 
 [Chorus]
 
-[ch]A5[/ch] [ch]G#(b5)[/ch]
+A5 G#(b5)
       Searching for an Eskimo
-[ch]B5[/ch]  [ch]A5[/ch]
+B5  A5
       Searching and I wanna know
-[ch]A5[/ch]  [ch]G#(b5)[/ch] [ch]B5[/ch]   [ch]A5[/ch]
+A5  G#(b5) B5   A5
 Someone,   like you (Hey, hey, hey)
-[ch]A5[/ch] [ch]G#(b5)[/ch]
+A5 G#(b5)
       Desperate and I gotta go
-[ch]B5[/ch]  [ch]A5[/ch]
+B5  A5
       Searching for an Eskimo
-[ch]A5[/ch]  [ch]G#(b5)[/ch] [ch]B5[/ch]   [ch]A5[/ch]
+A5  G#(b5) B5   A5
 Someone,   like you
 
 
 [Solo]
 
-[ch]C5[/ch]  [ch]B5[/ch]  [ch]B5[/ch]  [ch]A5[/ch]  x4
+C5  B5  B5  A5  x4
 
 
 [Outro]
-[ch]Am[/ch]  [ch]G[/ch]           [ch]F[/ch]     [ch]E[/ch]
+Am  G           F     E
  In the name of Oscar Wilde I
-[ch]Am[/ch]   [ch]G[/ch]              [ch]F[/ch]      [ch]E[/ch]
+Am   G              F      E
  Saw the mess and I saw he smiled I
-[ch]Am[/ch]  [ch]G[/ch] [ch]F[/ch]    [ch]E[/ch]                [ch]Am[/ch]   [ch]G[/ch]
+Am  G F    E                Am   G
  Go-o, toe to toe in the whole
-[ch]F[/ch]        [ch]E[/ch]       [ch]Am[/ch]  [ch]G[/ch]  [ch]F[/ch]  [ch]E[/ch]
+F        E       Am  G  F  E
 World to find an Eskimo
 
-[ch]Am[/ch]  [ch]G[/ch]  [ch]F[/ch]  [ch]E[/ch]  x11
+Am  G  F  E  x11
 
-[ch]E[/ch]  [ch]E[/ch]  [ch]E[/ch]  [ch]E[/ch]  [ch]Am[/ch]
+E  E  E  E  Am
 
 
 ************************************

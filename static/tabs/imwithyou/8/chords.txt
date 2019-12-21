@@ -1,8 +1,15 @@
+
+
+
+LAST 1 COMMENTS
+
+javalom: To use with Capo on 3rd frt use the transpose tool, set it to DOWN 3 HALF STEPS ;)
+
 (Acoustic Version)
 
  Intro
 
- [ch]Cm[/ch]
+ Cm
 
  e----------------------------I
  B-----3-----6-3--------------I
@@ -11,9 +18,9 @@
  A----------------------------I
  E----------------------------I
  
- [ch]Bb[/ch]-[ch]Bbsus4[/ch]-[ch]Bb[/ch]-[ch]Bbsus4[/ch] 
+ Bb-Bbsus4-Bb-Bbsus4 
 
- [ch]Cm[/ch] 
+ Cm 
 
  e----------------------------I
  B-----3-----6p3-3-6p3-3------I
@@ -22,15 +29,15 @@
  A----------------------------I
  E----------------------------I
 
- [ch]Bb[/ch]-[ch]Bbsus4[/ch]-[ch]Bb[/ch]-[ch]Bbsus4[/ch]
+ Bb-Bbsus4-Bb-Bbsus4
 
- [ch]Cm[/ch]
+ Cm
  I'm coming for ya 'cause,'cause I adore ya and,
- [ch]Bb[/ch]         [ch]Bbsus4[/ch]         [ch]Bb[/ch]       [ch]Bbsus4[/ch]
+ Bb         Bbsus4         Bb       Bbsus4
  I like to get inside your mass production
- [ch]Cm[/ch]
+ Cm
  This indecision has,has got me cringing well,
- [ch]Bb[/ch]         [ch]Bbsus4[/ch]         [ch]Bb[/ch]       [ch]Bbsus4[/ch]
+ Bb         Bbsus4         Bb       Bbsus4
  I can't resist the smell of your seduction.
  
  (same as before)*
@@ -41,13 +48,13 @@
  I wanna dance to every days' occasion
 
  -Chorus-
- [ch]F[/ch]                 [ch]Gm[/ch]  
+ F                 Gm  
  This I know! Yeah this I know!
- [ch]F[/ch]                 [ch]Gm[/ch]
+ F                 Gm
  (Take me home well take me home)
- [ch]Bb[/ch]                 [ch]Cm[/ch] 
+ Bb                 Cm 
  This I know, we're not alone
- [ch]Gm[/ch]               
+ Gm               
  (Take me home, take me home)
 
 *When we envision a, lack of division and,
@@ -58,7 +65,7 @@
 
  (Keep the same ryhtm -Trumpet Solo-)
 
- [ch]Cm[/ch] [ch]Bb[/ch]-[ch]Bbsus4[/ch]-[ch]Bb[/ch]-[ch]Bbsus4[/ch]
+ Cm Bb-Bbsus4-Bb-Bbsus4
  
  I'm coming at you well, you are the cap to and,
  I like the sound of your articulations.
@@ -66,26 +73,26 @@
  she showed me love without the stipulations.
 
  -Chorus-
- [ch]F[/ch]                 [ch]Gm[/ch]  
+ F                 Gm  
  This I know! Yeah this I know!
- [ch]F[/ch]                 [ch]Gm[/ch]
+ F                 Gm
  (Take me home well take me home)
- [ch]Bb[/ch]                 [ch]Cm[/ch] 
+ Bb                 Cm 
  This I know, we're not alone
- [ch]Gm[/ch]               
+ Gm               
  (Take me home, take me home)
 
  -Interlude trhu Guitar Solo-
 
- [ch]G[/ch] - [ch]D#[/ch] - [ch]Bb[/ch] - [ch]Cm[/ch]- [ch]D#[/ch] - [ch]Bb[/ch] - [ch]F[/ch] - [ch]G[/ch] - [ch]D#[/ch] - [ch]Bb[/ch]
+ G - D# - Bb - Cm- D# - Bb - F - G - D# - Bb
 
- [ch]Cm[/ch]
+ Cm
  I wanna lean on ya, get Jan and Dean on ya,
- [ch]Bb[/ch]           [ch]Bbsus4[/ch]         [ch]Bb[/ch]       [ch]Bbsus4[/ch]
+ Bb           Bbsus4         Bb       Bbsus4
  it's time to sway a little mass perception
- [ch]Cm[/ch] 
+ Cm 
  I liked you cheeky well, so mose and peaky and,
- [ch]Bb[/ch]           [ch]Bbsus4[/ch]         [ch]Bb[/ch]       [ch]Bbsus4[/ch]
+ Bb           Bbsus4         Bb       Bbsus4
  I think the world could use a clear connection.
 
  -Chorus x 2 -
@@ -95,12 +102,12 @@
  (Take me home, take me home)
 
  x3
- [ch]Cm[/ch]
+ Cm
  Did I let you know?
- [ch]Bb[/ch]           [ch]Bbsus4[/ch]         [ch]Bb[/ch]       [ch]Bbsus4[/ch]
+ Bb           Bbsus4         Bb       Bbsus4
  Would you like to go?
  
- [ch]Cm[/ch]
+ Cm
  
  e----------------------------I
  B-----3-----6-3--------------I
@@ -112,9 +119,3 @@
   
  *Note* it's easier if you use a Capo on 3rd Frt... just transpose it,
  it'll start in Am... Enjoy!
-
-
-LAST 1 COMMENTS
-
-javalom: To use with Capo on 3rd frt use the transpose tool, set it to DOWN 3 HALF STEPS ;)
-

@@ -21,17 +21,18 @@ def scrape_html(downloads):
 			print("ERROR", tab_data)
 			continue
 
-		soup = BS(html, "lxml")	
+		soup = BS(html, "lxml")
 		j = json.loads(soup.find("div", class_="js-store").get("data-content"))
-		tab = j["store"]["page"]["data"]["tab_view"]["wiki_tab"]["content"]
-		tab = tab.replace("[tab]", "").replace("[/tab]", "")
-		
 		comments = j["store"]["page"]["data"]["tab_view"]["last_comments"]
+		tab = ""
 		if comments:
 			tab += "\n\n\nLAST {} COMMENTS\n\n".format(len(comments))
 			for comment in comments:
 				tab += "{}: {}\n\n".format(comment["username"], comment["text"])
-
+		tab += j["store"]["page"]["data"]["tab_view"]["wiki_tab"]["content"]
+		tab = tab.replace("[tab]", "").replace("[/tab]", "")
+		tab = tab.replace("[ch]", "").replace("[/ch]", "")
+		
 		dir_ = "static/tabs/{}/{}".format(tab_data["album"], tab_data["track"])
 		if "live" in tab_data:
 			dir_ = "static/tabs/live/{}/{}".format(tab_data["where"], tab_data["track"])

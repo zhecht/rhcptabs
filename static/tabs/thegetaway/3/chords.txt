@@ -1,7 +1,7 @@
 How To Play Chords Here:
 
         VERSE:                                  CHORUS CHORD VARIATION:
-    [ch]Cm[/ch]         [ch]Gm[/ch]               [ch]C[/ch]     [ch]A#[/ch]           [ch]Gm[/ch]             [ch]Gm[/ch] 
+    Cm         Gm               C     A#           Gm             Gm 
 e|-------| e|--3-----3-------3----------|       e|--6--|      e|------|
 B|----4-4| B|--3-----3-------3-5-5--5-3~|       B|--3--|      B|--11--|
 G|----5-5| G|--3-----3-------3-5-5--5-3~|       G|--3--|  or  G|--12--|
@@ -10,119 +10,119 @@ A|1/3-3-3| A|------------------3-3--3-1~|       A|-----|      A|--10--|
 E|-------| E|---------------------------|       E|-----|      E|------|
 
 [Intro]
-[ch]Cm[/ch]
+Cm
 We got large and we got small
-[ch]Cm[/ch]
+Cm
 We got a swimming pool and a cannon ball
-[ch]Cm[/ch]
+Cm
 We turn red and we turn green
-[ch]Cm[/ch]
+Cm
 It’s the craziest thing I’ve ever seen
 
 [Verse 1]
-[ch]Gm[/ch]
+Gm
 Lost my mind ’cause I’m on the plastic
-[ch]Gm[/ch]                    [ch]C[/ch]  [ch]A#[/ch]
+Gm                    C  A#
 Who knew it’s so damn drastic
-[ch]Gm[/ch]
+Gm
 Show me what it is you believe in
-[ch]Gm[/ch]                         [ch]C[/ch]  [ch]A#[/ch]
+Gm                         C  A#
 Slowly she sinks all your teeth in
-[ch]Gm[/ch]
+Gm
 Do you want to go fishing in New Orleans
-[ch]Gm[/ch]                               [ch]C[/ch]  [ch]A#[/ch]
+Gm                               C  A#
 Do you want to get up early in the morning
-[ch]Gm[/ch]
+Gm
 Take me to the river where we do the little storming
-[ch]Gm[/ch]                      [ch]C[/ch]  [ch]A#[/ch]
+Gm                      C  A#
 Hallelujah, I feel it warming
 
 [Pre-Chorus]
-[ch]Gm[/ch]
+Gm
 Sitting here I count the moons
-[ch]Gm[/ch]             [ch]C[/ch]  [ch]A#[/ch]
+Gm             C  A#
 The orders we obeyed
-[ch]Gm[/ch]
+Gm
 Every night ’fore we go to bed
-[ch]Gm[/ch]                       [ch]C[/ch]  [ch]A#[/ch]
+Gm                       C  A#
 I watch while the others pray
 
 [Chorus]
-[ch]A#[/ch]
+A#
 Send it off through Delaware just
-[ch]Gm[/ch]
+Gm
 Make it fair for the legionnaires
-[ch]Dm[/ch]                           [ch]Am[/ch]
+Dm                           Am
 Paint a simple portrait of my kind
-[ch]A#[/ch]
+A#
 Permission to the heartless bombs
-[ch]Gm[/ch]
+Gm
 Gold Plated Hate and the waitress moms
-[ch]Dm[/ch]                          [ch]Am[/ch]
+Dm                          Am
 Serving up the stories of my mind
 
 [Verse 2]
-[ch]Gm[/ch]
+Gm
 Mexico, you are my neighbor
-[ch]Gm[/ch]                    [ch]C[/ch]  [ch]A#[/ch]
+Gm                    C  A#
 Home of the let’s be braver
-[ch]Gm[/ch]
+Gm
 Give me all your sick and your tired
-[ch]Gm[/ch]             [ch]C[/ch]  [ch]A#[/ch]
+Gm             C  A#
 Races that we admire
-[ch]Gm[/ch]
+Gm
 Do you want to go dancing in Chicago
-[ch]Gm[/ch]                        [ch]C[/ch]  [ch]A#[/ch] 
+Gm                        C  A# 
 Trinidad’s got it bad for Tobago
-[ch]Gm[/ch]
+Gm
 Take me to the lake where we do the Avocado
-[ch]Gm[/ch]                [ch]C[/ch]  [ch]A#[/ch]
+Gm                C  A#
 Hallelujah, a desparado
 
 [Pre-Chorus]
-[ch]Gm[/ch]
+Gm
 Sitting here I count the moons
-[ch]Gm[/ch]             [ch]C[/ch]  [ch]A#[/ch]
+Gm             C  A#
 The orders we obeyed
-[ch]Gm[/ch]
+Gm
 Every night ’fore we go to bed
-[ch]Gm[/ch]                       [ch]C[/ch]  [ch]A#[/ch]
+Gm                       C  A#
 I watch while the others pray
 
 [Chorus]
-[ch]A#[/ch]
+A#
 Send it off through Delaware just
-[ch]Gm[/ch]
+Gm
 Make it fair for the legionnaires
-[ch]Dm[/ch]                           [ch]Am[/ch]
+Dm                           Am
 Paint a simple portrait of my kind
-[ch]A#[/ch]
+A#
 Permission to the heartless bombs
-[ch]Gm[/ch]
+Gm
 Gold Plated Hate and the waitress moms
-[ch]Dm[/ch]                          [ch]Am[/ch]
+Dm                          Am
 Serving up the stories of my mind
 
 [Bridge]
-[ch]A#[/ch]
+A#
 Coming down from the deserts where you
-[ch]Gm[/ch]
+Gm
 Caught a glimpse of the billionaire
-[ch]Dm[/ch]                              [ch]Am[/ch]
+Dm                              Am
 Tell me I’m the right one for the ride
-[ch]A#[/ch]
+A#
 Paper signs out on the lawns
-[ch]Gm[/ch]
+Gm
 Gold minds and the priceless pawns
-[ch]Dm[/ch]                          [ch]Am[/ch]
+Dm                          Am
 Does your canyon really open wide
 
 [Outro]
-[ch]Cm[/ch]
+Cm
 We got large and we got small
-[ch]Cm[/ch]
+Cm
 We got a swimming pool and a cannon ball
-[ch]Cm[/ch]
+Cm
 We turn red and we turn green
-[ch]Cm[/ch]
+Cm
 It’s the craziest thing I’ve ever seen

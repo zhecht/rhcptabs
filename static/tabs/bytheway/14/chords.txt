@@ -1,101 +1,101 @@
-[Intro] [ch]F#m[/ch] [ch]C#m[/ch] [ch]D[/ch] [ch]Bm[/ch]
+[Intro] F#m C#m D Bm
 
-[ch]F#m[/ch]
+F#m
 I change the key from C to D
-                   [ch]C#m[/ch]    [ch]D[/ch]
+                   C#m    D
 You see to me it's just a minor thing, y'all
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]F#m[/ch]
+F#m
 To readjust you've got to trust
-                     [ch]C#m[/ch]    [ch]D[/ch]
+                     C#m    D
 That all the fuss is just a minor thing, y'all
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]F#m[/ch]
+F#m
 It's just a minor thing 
-                [ch]C#m[/ch] [ch]D[/ch]
+                C#m D
 And I'm a minor     king
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]A[/ch]      [ch]E[/ch]  [ch]D[/ch]
+A      E  D
 Ooooh, oh oh...
 
-[ch]D[/ch]               [ch]F#m[/ch]
+D               F#m
 You've got your bit part, Mozart
-            [ch]A5[/ch]  [ch]B5[/ch]
+            A5  B5
 Hot dart acceleration
-[ch]F#m[/ch]
+F#m
 Pop art, pistol chasin'
-            [ch]A5[/ch]  [ch]B5[/ch]
+            A5  B5
 Cat fight intimidation
-[ch]F#m[/ch]             [ch]C#m[/ch] [ch]D[/ch] [ch]Bm[/ch]
+F#m             C#m D Bm
     Oh, oh, oh, oh...
 
-[ch]F#m[/ch]
+F#m
 To read a mind you've got to
-                     [ch]C#m[/ch]       [ch]D[/ch]
+                     C#m       D
 Redefine the line to make your circle sing, y'all
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]F#m[/ch]
+F#m
 You make a sound, the spell is bound to come around
-     [ch]C#m[/ch]    [ch]D[/ch]
+     C#m    D
 It's just a minor thing, y'all
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]F#m[/ch]
+F#m
 It's just a minor thing
-                [ch]C#m[/ch] [ch]D[/ch]
+                C#m D
 And I'm a minor     king
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]A[/ch]      [ch]E[/ch]   [ch]D[/ch]       
+A      E   D       
 Ooooh, oh, oh...
 
-[ch]D[/ch]               [ch]F#m[/ch]
+D               F#m
 You've got your bit part, Mozart
-            [ch]A5[/ch]  [ch]B5[/ch]
+            A5  B5
 Hot dart acceleration
-[ch]F#m[/ch]
+F#m
 Pop art, pistol chasin'
-            [ch]A5[/ch]  [ch]B5[/ch]
+            A5  B5
 Cat fight intimidation
-[ch]F#m[/ch]
+F#m
 All out interfacing
-           [ch]A5[/ch]  [ch]B5[/ch]
+           A5  B5
 Black star motivation
-[ch]F#m[/ch]
+F#m
 Vampire sugar junkie
-            [ch]A5[/ch]   [ch]E[/ch]
+            A5   E
 Data basin' infiltration
 
-[Solo] [ch]F#5[/ch] [ch]C#5[/ch] [ch]D5[/ch] [ch]B5[/ch]
+[Solo] F#5 C#5 D5 B5
 
-[ch]F#m[/ch]
+F#m
 I change the key from C to D
-                   [ch]C#m[/ch]    [ch]D[/ch]
+                   C#m    D
 You see to me it's just a minor thing, y'all
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]F#m[/ch]
+F#m
 To readjust you've got to trust
-                     [ch]C#m[/ch]    [ch]D[/ch]
+                     C#m    D
 That all the fuss is just a minor thing, y'all
-            [ch]Bm[/ch]
+            Bm
 He knows ev-rything
-[ch]F#m[/ch]
+F#m
 It's just a minor thing
-                [ch]C#m[/ch] [ch]D[/ch]
+                C#m D
 And I'm a minor     king
 
-[ch]F#m[/ch]
+F#m
 It's just a minor thing 
-                [ch]C#m[/ch] [ch]D[/ch]
+                C#m D
 And I'm a minor     king
 
 [Outro]
-| [ch]E[/ch] | [ch]E[/ch] [ch]F#m[/ch] | [ch]F#m[/ch] | [ch]F#m[/ch] |
-| [ch]E[/ch] [ch]E7[/ch] | [ch]F#m[/ch] | [ch]F#m[/ch] |
-| [ch]E[/ch] | [ch]E[/ch] [ch]F#m[/ch] | [ch]F#m[/ch] | [ch]F#m[/ch] |
-| [ch]E[/ch] [ch]E7[/ch] | [ch]F#m[/ch] |
+| E | E F#m | F#m | F#m |
+| E E7 | F#m | F#m |
+| E | E F#m | F#m | F#m |
+| E E7 | F#m |

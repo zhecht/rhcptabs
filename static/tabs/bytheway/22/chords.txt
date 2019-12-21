@@ -1,13 +1,13 @@
 Red Hot Chili Peppers - OUT OF RANGE
 
-Intro: [ch]D[/ch]
+Intro: D
 
-[ch]Am[/ch]                      [ch]F[/ch]                     [ch]C[/ch]
+Am                      F                     C
 Leaving town I found a flower that I could deserve
 someone moves and someone's bound to get their feelings hurt
-[ch]G[/ch]                              [ch]Am[/ch]     [ch]Em[/ch]
+G                              Am     Em
 I'm loving you you're out of range
-[ch]G[/ch]                          [ch]Am[/ch]     [ch]E[/ch]
+G                          Am     E
 wanted you you're out of range
 
 
@@ -18,15 +18,15 @@ wanted to you're out of range
 
 
 Chorus:
-[ch]Dm[/ch] - [ch]C[/ch] - [ch]G[/ch]
+Dm - C - G
 
-[ch]G[/ch]                        [ch]Dm[/ch] - [ch]C[/ch] - [ch]G[/ch]
+G                        Dm - C - G
 I don't want too much more than
-[ch]G[/ch]           [ch]F[/ch]-[ch]Am[/ch]-[ch]F[/ch]-[ch]E[/ch]   
+G           F-Am-F-E   
 than to be reborn  the morning 
-[ch]G[/ch]                   [ch]Dm[/ch] - [ch]C[/ch]- [ch]G[/ch]   
+G                   Dm - C- G   
 reborn so I can feel ya
-[ch]G[/ch]              [ch]F[/ch]-[ch]Am[/ch]-[ch]F[/ch]-  [ch]E[/ch]
+G              F-Am-F-  E
 the thorns of bogenvilia I feel ya
 
 
@@ -39,8 +39,8 @@ A |---------------------------------------------|
 E |---------------------------------------------|
 
 Bridge:
-|    [ch]F[/ch]    |  [ch]C[/ch]    [ch]G[/ch]   |  x2
-|    [ch]Dm[/ch]   |  [ch]C[/ch]    [ch]Am[/ch]  |  x2
+|    F    |  C    G   |  x2
+|    Dm   |  C    Am  |  x2
 
 
 I have your number and I dialed it up a hundred times

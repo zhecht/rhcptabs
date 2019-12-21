@@ -13,7 +13,6 @@
       <p>Electric: {{electric}}</p>
       <p>Bass: {{bass}}</p>
       <p>Drums: {{drums}}</p>
-      <p>Misc: {{misc}}</p>
     </div>
   </div>
   <table id='album_songs'>
@@ -34,23 +33,13 @@
         <tr class='header'>
           <th colspan='6' style='text-align:center;'>{{song.title}}</th>
         </tr>
-      {% elif url == "live" %}
-        <tr class='song {{song.id}}'>
-          <td>{{song.where}} ({{song.when}})</td>
-          <td>{{song.title}}</td>
-          <td>
-            {% if song.tabs == "None" %}
-              None
-            {% else %}
-              {% for tab in song.tabs %}
-                <a href="javascript:openTabsWindow('/static/tabs/{{url}}/{{song.id}}/{{song.idx}}/{{tab}}')" class="{{tab}}">{{tab}}</a>
-              {% endfor %}
-            {% endif %}
-          </td>
-        </tr>
       {% else %}
         <tr class='song'>
-          <td>{{loop.index}}.</td>
+          {% if url == "live" %}
+            <td>{{song.where}} ({{song.when}})</td>
+          {% else %}
+            <td>{{loop.index}}.</td>
+          {% endif %}
           <td>{{song.title}}</td>
           {{song.tab_html|safe}}
         </tr>

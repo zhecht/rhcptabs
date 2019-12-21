@@ -1,103 +1,103 @@
 [Intro]
-[ch]F#7[/ch] [ch]G7[/ch] [ch]D7[/ch]
+F#7 G7 D7
 
 [Verse 1]
-[ch]B7[/ch]                 [ch]E7[/ch]
+B7                 E7
   Persistent mystic  faults my vision
-[ch]B7[/ch]                          [ch]E7[/ch]
+B7                          E7
   Its like always this point  of collision
-[ch]B7[/ch]                 [ch]E7[/ch]
+B7                 E7
   Its raining in my  cranium
-    [ch]F#7[/ch]        [ch]G7[/ch]     [ch]D7[/ch]
+    F#7        G7     D7
 My head feels like a stadium
 
 [Verse 2]
-[ch]B7[/ch]                   [ch]E7[/ch]
+B7                   E7
   Three pound of love  about to burst
-[ch]B7[/ch]                     [ch]E7[/ch]
+B7                     E7
   Inside my three pound  Universe
-[ch]B7[/ch]                 [ch]E7[/ch]
+B7                 E7
   Its raining in my ranium
-    [ch]F#7[/ch]        [ch]G7[/ch]     [ch]D7[/ch]
+    F#7        G7     D7
 My head feels like a stadium
 
 [Chorus]
-[ch]F#[/ch]                            [ch]E[/ch]      [ch]G#m[/ch]    [ch]F#[/ch]
+F#                            E      G#m    F#
   These are the melancholy mechanics  of my mind
-[ch]F#[/ch]                            [ch]E[/ch]      [ch]G#m[/ch]    [ch]F#[/ch]
+F#                            E      G#m    F#
   These are the melancholy mechanics  of my mind
 
 [Instrumental 1]
-[ch]B7[/ch] [ch]E7[/ch]
-[ch]B7[/ch] [ch]E7[/ch]
-[ch]B7[/ch] [ch]E7[/ch]
-[ch]F#7[/ch] [ch]G7[/ch] [ch]D7[/ch]
+B7 E7
+B7 E7
+B7 E7
+F#7 G7 D7
 
 [Verse 3]
-[ch]B7[/ch]                        [ch]E7[/ch]
+B7                        E7
   Symbols I've been given to express my goal
-[ch]B7[/ch]                             [ch]E7[/ch]
+B7                             E7
   Always come up short You know they just don't get that low
-[ch]B7[/ch]                 [ch]E7[/ch]
+B7                 E7
   Its raining in my ranium
-    [ch]F#7[/ch]        [ch]G7[/ch]     [ch]D7[/ch]
+    F#7        G7     D7
 My head feels like a stadium
 
 [Chorus]
-[ch]F#[/ch]                            [ch]E[/ch]      [ch]G#m[/ch]    [ch]F#[/ch]
+F#                            E      G#m    F#
   These are the melancholy mechanics  of my mind
-[ch]F#[/ch]                            [ch]E[/ch]      [ch]G#m[/ch]    [ch]F#[/ch]
+F#                            E      G#m    F#
   These are the melancholy mechanics  of my mind
 
 [Solo 1]
-[ch]E[/ch] [ch]D[/ch] [ch]A[/ch] [ch]D[/ch]
-[ch]E[/ch] [ch]D[/ch] [ch]A[/ch] [ch]D[/ch]
+E D A D
+E D A D
 
 [Instrumental 2]
-[ch]B[/ch] [ch]A[/ch] [ch]D[/ch] [ch]A[/ch]  [ch]F#7[/ch]
-[ch]B[/ch] [ch]A[/ch] [ch]D[/ch] [ch]A[/ch]  [ch]F#7[/ch]
-[ch]B[/ch]     [ch]E[/ch]
-[ch]B[/ch]     [ch]E[/ch]  [ch]B7[/ch]
-[ch]B[/ch]     [ch]E7[/ch]
-[ch]F#7[/ch] [ch]G7[/ch] [ch]D7[/ch]
+B A D A  F#7
+B A D A  F#7
+B     E
+B     E  B7
+B     E7
+F#7 G7 D7
 
 [Solo 2]
-[ch]B[/ch] [ch]E[/ch]
-[ch]B[/ch] [ch]E[/ch]
-[ch]B7[/ch] [ch]E7[/ch]
-[ch]F#7[/ch] [ch]G7[/ch] [ch]D7[/ch]
+B E
+B E
+B7 E7
+F#7 G7 D7
 
 [Chorus]
-[ch]F#[/ch]                            [ch]E[/ch]      [ch]G#m[/ch]    [ch]F#[/ch]
+F#                            E      G#m    F#
   These are the melancholy mechanics  of my mind
-[ch]F#[/ch]                            [ch]E[/ch]      [ch]G#m[/ch]    [ch]F#[/ch]
+F#                            E      G#m    F#
   These are the melancholy mechanics  of my mind
 
 [Outro]
-[ch]F#7[/ch] [ch]G7[/ch] [ch]D7[/ch]
+F#7 G7 D7
 
 [Post-Chorus]
-                [ch]A[/ch]                                        [ch]E[/ch]
+                A                                        E
 Quick release chemicals strike with incomprehensible precision
-                                 [ch]E7[/ch]
+                                 E7
 Bio organic electronics targeting microscopic destinations of devastation
-                  [ch]B7[/ch]                                           [ch]E7[/ch]
+                  B7                                           E7
 Cleaner than light  meaner than a laser fight in the night 2000
-                             [ch]F#[/ch]                         [ch]G[/ch]
+                             F#                         G
 Billions of micro maniacs unknown to most as the uncontrollable soldiers
-     [ch]D[/ch]
+     D
 Of suffering succotash
-               [ch]Bm[/ch]
+               Bm
 Instantaneous infiltration leaves me with a case of bustation, frustration,
-[ch]B[/ch]                                                       [ch]E[/ch]
+B                                                       E
  Alone in the constellation of alienation detached from empty conversation
-   [ch]B[/ch]           [ch]E[/ch]
+   B           E
 I wait I wait
-[ch]F#7[/ch]         [ch]G7[/ch]  [ch]D7[/ch]
+F#7         G7  D7
     For the waaaaaave to break.
 
 [Solo 2]
-[ch]A[/ch] [ch]B[/ch]
-[ch]F#7[/ch] [ch]D[/ch]
-[ch]B[/ch] [ch]E[/ch]
-[ch]B[/ch] [ch]E[/ch]
+A B
+F#7 D
+B E
+B E

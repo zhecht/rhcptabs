@@ -1,3 +1,19 @@
+
+
+
+LAST 2 COMMENTS
+
+zachine: for the opening riff i like to do 
+E <nobr>---------------------|</nobr>
+B <nobr>-------------------6-|</nobr>
+G <nobr>-------------------7-|</nobr>
+D <nobr>-------------------7-|</nobr>
+A <nobr>-----3--0-5/7-3/5----|</nobr>
+E <nobr>-3/5-----------------|</nobr>
+good tabbing though my friend
+
+sethgreen: I'm not bigger than life . Play a C then a G .
+
 I was awed into dismay when I saw no trace of this song on the internet.  So 
 I decided to figure it out (guitar-wise).  I find that some of the lead 
 guitar lines are difficult to figure out so I have just transcribed the
@@ -10,35 +26,35 @@ light.
 
      E  A  D  G  B  E
      ----------------
-[ch]Dm[/ch]   x  5  7  7  6  x
-[ch]Am7[/ch]  5  7  5  5  5  x
-[ch]Gm7[/ch]  3  5  3  3  3  x
-[ch]C[/ch]    x  3  5  5  5  x
-[ch]Bb[/ch]   x  1  3  3  3  x
-[ch]A5[/ch]   5  7  7  x  x  x
-[ch]Em7[/ch]  0  2  2  4  3  3  &lt;-- a very weird way to play the Em7 chord
-[ch]Bm7[/ch]  x  2  4  2  3  2
-[ch]Am7[/ch]* x  0  2  0  1  0
-[ch]D[/ch]    x  x  0  2  3  2
-[ch]B5[/ch]   x  2  4  4  x  x
-[ch]D5[/ch]   x  5  7  7  x  x
-[ch]C5[/ch]   x  3  5  5  x  x
-[ch]Am[/ch]   x  0  2  2  1  0
-[ch]Em[/ch]   0  2  2  0  0  0
-[ch]C#m7[/ch] x  4  6  4  5  4
-[ch]G#m7[/ch] 4  6  4  4  4  x
-[ch]F#m7[/ch] 2  4  2  2  2  x
-[ch]Bb5[/ch]  6  7  7  x  x  x
-[ch]G5[/ch]   3  5  5  x  x  x
-[ch]F5[/ch]   x  8 10 10  x  x
-[ch]F[/ch]    1  3  3  2  x  x
-[ch]A[/ch]    5  7  7  6  x  x
-[ch]F#5[/ch]  x  9 11 11  x  x
-[ch]E5[/ch]   x  7  9  9  x  x
-[ch]C#m[/ch]  x  4  6  6  5  4
-[ch]G#m[/ch]  4  6  6  4  4  x
-[ch]E[/ch]    0  2  2  1  0  0
-[ch]B[/ch]    x  2  4  4  4  x
+Dm   x  5  7  7  6  x
+Am7  5  7  5  5  5  x
+Gm7  3  5  3  3  3  x
+C    x  3  5  5  5  x
+Bb   x  1  3  3  3  x
+A5   5  7  7  x  x  x
+Em7  0  2  2  4  3  3  &lt;-- a very weird way to play the Em7 chord
+Bm7  x  2  4  2  3  2
+Am7* x  0  2  0  1  0
+D    x  x  0  2  3  2
+B5   x  2  4  4  x  x
+D5   x  5  7  7  x  x
+C5   x  3  5  5  x  x
+Am   x  0  2  2  1  0
+Em   0  2  2  0  0  0
+C#m7 x  4  6  4  5  4
+G#m7 4  6  4  4  4  x
+F#m7 2  4  2  2  2  x
+Bb5  6  7  7  x  x  x
+G5   3  5  5  x  x  x
+F5   x  8 10 10  x  x
+F    1  3  3  2  x  x
+A    5  7  7  6  x  x
+F#5  x  9 11 11  x  x
+E5   x  7  9  9  x  x
+C#m  x  4  6  6  5  4
+G#m  4  6  6  4  4  x
+E    0  2  2  1  0  0
+B    x  2  4  4  4  x
 
 The opening riff is:
 E|---------------------|-------------------------|---------------------|---|
@@ -50,76 +66,76 @@ E|-3h5-----------------|-3h5---------------------|-3h5-----------------|-1-|
 
 Of course you hold the F chord at the end then the verse appears:
 
-[ch]Dm[/ch]        [ch]Am7[/ch]  [ch]Gm7[/ch]
+Dm        Am7  Gm7
 Never too soon to be through
-      [ch]Dm[/ch]       [ch]C[/ch]        [ch]Bb[/ch]
+      Dm       C        Bb
 Being cool too much too soon
-[ch]Dm[/ch]           [ch]Am7[/ch]     [ch]Gm7[/ch]
+Dm           Am7     Gm7
 Too much for me, too much for you
-             [ch]A5[/ch]       [ch]Bb[/ch]
+             A5       Bb
 You~re gonna lose in time
-[ch]Em7[/ch]      [ch]Bm7[/ch]       [ch]Am7[/ch]*
+Em7      Bm7       Am7*
 Don~t be afraid to show your friends
-         [ch]Em7[/ch]    [ch]D[/ch]       [ch]C[/ch]
+         Em7    D       C
 That you hurt inside, inside
-[ch]Em7[/ch]            [ch]Bm7[/ch]
+Em7            Bm7
 Pain~s part of life
-           [ch]Am7[/ch]*
+           Am7*
 Don~t hide behind your false pride
-       [ch]B5[/ch]       [ch]C[/ch]
+       B5       C
 It~s a lie, you lie
 
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
 
-[ch]Dm[/ch]   [ch]Am7[/ch]   [ch]Gm7[/ch]          [ch]Dm[/ch]   [ch]C[/ch]   [ch]Bb[/ch]
+Dm   Am7   Gm7          Dm   C   Bb
 
-[ch]Dm[/ch]           [ch]Am7[/ch]     [ch]Gm7[/ch]
+Dm           Am7     Gm7
 I~m tired of being untouchable
-        [ch]Dm[/ch]   [ch]C[/ch]    [ch]Bb[/ch]
+        Dm   C    Bb
 I~m not above the love
-[ch]Dm[/ch]          [ch]Am7[/ch]            [ch]Gm7[/ch]
+Dm          Am7            Gm7
 I~m part of you and you~re part of me
-            [ch]A5[/ch]  [ch]Bb[/ch]
+            A5  Bb
 Why did you go away
-[ch]Em7[/ch]          [ch]Bm7[/ch]            [ch]Am7[/ch]*
+Em7          Bm7            Am7*
 Finding what you~re looking for can end up
-[ch]C#m7[/ch]  [ch]G#m7[/ch]   [ch]F#m7[/ch]
+C#m7  G#m7   F#m7
 Being such a bore
-[ch]Em7[/ch]        [ch]Bm7[/ch]      [ch]Am7[/ch]*
+Em7        Bm7      Am7*
 I pray for you most everyday, I pray for you
-[ch]C#m7[/ch] [ch]G#m7[/ch]  [ch]F#m7[/ch]
+C#m7 G#m7  F#m7
 Now  fly  away
 
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
 
 (very quickly now, the guitar and bass plays:
@@ -129,85 +145,85 @@ D|---------|  When the guitar plays the 6th fret (the Bb note), it also plays
 A|-5p0-7---|  a power chord on it and therefore from that note the guitar
 E|-------6-|  plays a series of chords that go:
 
-[ch]Bb5[/ch]   [ch]G5[/ch]  G5/Bb5   [ch]F5[/ch]    [ch]C5[/ch]    [ch]Bb5[/ch]
+Bb5   G5  G5/Bb5   F5    C5    Bb5
 
-[Cool solo part]   [ch]A5[/ch]   [ch]F[/ch]    [ch]A5[/ch]    [ch]F[/ch]    [ch]G5[/ch]    [ch]F[/ch]     [ch]A[/ch]
+[Cool solo part]   A5   F    A5    F    G5    F     A
 
 all I just did here was to write down the rhythm chords, I have and will not
 do the solo (as little as it may seem).  If you listen to the album, you can
 figure out how these chords come in.  The G5/Bb5 part is when the guitar
-slides from [ch]G5[/ch] to [ch]Bb5[/ch].  Listen and you shall hear, my child.  Anyway, the 
+slides from G5 to Bb5.  Listen and you shall hear, my child.  Anyway, the 
 rest goes something like this:
 
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
 
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
 
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
 
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting mighty
-       [ch]D5[/ch]             [ch]C5[/ch]
+       D5             C5
 If you see me getting high
-         [ch]Am[/ch]   [ch]Em[/ch]
+         Am   Em
 Knock me down
-[ch]Em[/ch](?)
+Em(?)
 I~m not bigger than life
 
-       [ch]F#5[/ch]            [ch]E5[/ch]
+       F#5            E5
 If you see me getting mighty
-       [ch]F#5[/ch]            [ch]E5[/ch]
+       F#5            E5
 If you see me getting high
-         [ch]C#m[/ch]  [ch]G#m[/ch]
+         C#m  G#m
 Knock me down
-[ch]E[/ch]                   [ch]B[/ch]
+E                   B
 I~m not bigger than life
 
-       [ch]F#5[/ch]            [ch]E5[/ch]
+       F#5            E5
 If you see me getting mighty
-       [ch]F#5[/ch]            [ch]E5[/ch]
+       F#5            E5
 If you see me getting high
-         [ch]C#m[/ch]  [ch]G#m[/ch]
+         C#m  G#m
 Knock me down
-[ch]E[/ch]                   [ch]B[/ch]
+E                   B
 I~m not bigger than life
 
-[ch]C#m[/ch]           [ch]E[/ch]    [ch]B[/ch]
-[ch]C#m[/ch]           [ch]E[/ch]    [ch]B[/ch]
+C#m           E    B
+C#m           E    B
 
-[ch]C#m[/ch]                                     [ch]E[/ch]                 [ch]B[/ch]
+C#m                                     E                 B
 It~s so lonely when you don~t even know yourself, it~s so lonely
-[ch]C#m[/ch]                                     [ch]E[/ch]                 [ch]B[/ch]
+C#m                                     E                 B
 It~s so lonely when you don~t even know yourself, it~s so lonely...
 
 Please escuse all the redudancy and other things.  I shall explain the 
 chords now and how I play them.  Please remember that this is my best 
 estimate of this sad song.  If you find any errors or so on could you please
 email me.  Anyway, before explaining every chords, I must explain that the
-[ch]Em[/ch](?) chord does not really exist.  I am not sure if there is another chord
-that ends the normal chorus so I presume that the [ch]Em[/ch] chord sustains.  So my
-denoting [ch]Em[/ch](?) means that I am not sure if it is the [ch]Em[/ch] chord that is 
+Em(?) chord does not really exist.  I am not sure if there is another chord
+that ends the normal chorus so I presume that the Em chord sustains.  So my
+denoting Em(?) means that I am not sure if it is the Em chord that is 
 playing at that time.  And also, my ways of playing these chords are not by
 gospel.  Anyway, here we go:
 
@@ -217,18 +233,3 @@ gospel.  Anyway, here we go:
 | p  Pull-off
 
 ************************************
-
-
-LAST 2 COMMENTS
-
-zachine: for the opening riff i like to do [tab]
-E <nobr>---------------------|</nobr>
-B <nobr>-------------------6-|</nobr>
-G <nobr>-------------------7-|</nobr>
-D <nobr>-------------------7-|</nobr>
-A <nobr>-----3--0-5/7-3/5----|</nobr>
-E <nobr>-3/5-----------------|[/tab]</nobr>
-good tabbing though my friend
-
-sethgreen: I'm not bigger than life . Play a C then a G .
-

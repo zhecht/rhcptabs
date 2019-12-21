@@ -1,3 +1,27 @@
+
+
+
+LAST 1 COMMENTS
+
+nirvananess5: In the verse theres a bit extra
+Verse:
+<nobr>e|--------------------------|</nobr>
+<nobr>B|-6666-xx--------11(11)----|</nobr>
+<nobr>G|---------3-x-5-(10-10)----|</nobr>
+<nobr>D|----------------(9--9)----|</nobr>
+<nobr>A|--------------------------|</nobr>
+<nobr>E|--------------------------|</nobr> 
+
+then
+
+Verse:
+<nobr>e|--------------------------|</nobr>
+<nobr>B|-6666-xx--------(8--8)----|</nobr>
+<nobr>G|---------3-x-5--(7--7)----|</nobr>
+<nobr>D|----------------(8--8)----|</nobr>
+<nobr>A|--------------------------|</nobr>
+<nobr>E|--------------------------|</nobr>
+
 Right, i don't do many tabs but the the tab for this song was just awfull...
 Here's how to really play it.
 Tuning: standard
@@ -47,26 +71,3 @@ G|-----xxxxxx--probably-----|
 D|-----xxxxxx--not the -----|
 A|-----xxxxxx--correct no.--|
 E|-6-8--------of muted notes|
-
-
-LAST 1 COMMENTS
-
-nirvananess5: In the verse theres a bit extra
-Verse:
-<nobr>e|--------------------------|</nobr>
-<nobr>B|-6666-xx--------11(11)----|</nobr>
-<nobr>G|---------3-x-5-(10-10)----|</nobr>
-<nobr>D|----------------(9--9)----|</nobr>
-<nobr>A|--------------------------|</nobr>
-<nobr>E|--------------------------|</nobr> 
-
-then
-
-Verse:
-<nobr>e|--------------------------|</nobr>
-<nobr>B|-6666-xx--------(8--8)----|</nobr>
-<nobr>G|---------3-x-5--(7--7)----|</nobr>
-<nobr>D|----------------(8--8)----|</nobr>
-<nobr>A|--------------------------|</nobr>
-<nobr>E|--------------------------|</nobr>
-

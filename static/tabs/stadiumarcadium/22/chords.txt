@@ -1,25 +1,39 @@
+
+
+
+LAST 2 COMMENTS
+
+Blackmood: The Bm must be above ONLY ;)
+
+like this:
+
+Em                       Bm
+She's the one, she's the only one
+
+nbish11: @Blackmood Nice catch. Fixed.
+
 Notes: I am not the original tabber. This is an update to version 1 to 
 include the bridge and correct song structure.
 
 [Intro]
-[ch]Em[/ch]  [ch]Bm[/ch]  [ch]C[/ch]  [ch]G[/ch]  [x2]
+Em  Bm  C  G  [x2]
 
 [Verse 1]
-[ch]Em[/ch]                       [ch]Bm[/ch]
+Em                       Bm
 She's the one, she's the only one
-[ch]C[/ch]                            [ch]G[/ch]
+C                            G
 She's got ripped back light, Gonna make me come
-       [ch]Em[/ch]                 [ch]Bm[/ch]
+       Em                 Bm
 I say, when I smile, I'm a really smile
-      [ch]C[/ch]                      [ch]G[/ch]
+      C                      G
 I got dreams so wide, like a country mile
-       [ch]Em[/ch]        [ch]Bm[/ch]
+       Em        Bm
 I said now, I'll take it
-     [ch]C[/ch]          [ch]G[/ch]
+     C          G
 It's better for you
-    [ch]Em[/ch]         [ch]Bm[/ch]
+    Em         Bm
 Somehow, we'll make it
-       [ch]C[/ch]              [ch]G[/ch]
+       C              G
 'cause that's what we do
 
 [Verse 2]
@@ -33,21 +47,21 @@ Somehow, we'll make it
 'cause that's what we do
 
 [Chorus]
-[ch]G[/ch]             [ch]D[/ch]
+G             D
 Something out there
-      [ch]Em[/ch]           [ch]C[/ch]
+      Em           C
 Where love is your only friend and
-[ch]G[/ch]          [ch]D[/ch]
+G          D
 We are the ones
-          [ch]Em[/ch]            [ch]C[/ch]
+          Em            C
 That will make you feel better and
-[ch]G[/ch]          [ch]D[/ch]
+G          D
 Someone to spare
-     [ch]Em[/ch]               [ch]C[/ch]
+     Em               C
 When love is the only end and
-[ch]G[/ch]          [ch]D[/ch]
+G          D
 We are the ones
-     [ch]Em[/ch]                 [ch]C[/ch]
+     Em                 C
 That will make you feel better
 
 [Verse 3]
@@ -63,7 +77,7 @@ Do the sea of stars make a diagram, and
 [Chorus]
 
 [Bridge]
-[ch]D[/ch]     [ch]Em[/ch]     [ch]C[/ch]       [ch]Am[/ch]      [ch]C[/ch]
+D     Em     C       Am      C
 Oh... Yeah.. Yeah... Yeah... Yeah
 
 [Verse 4]
@@ -79,18 +93,5 @@ Somehow, we'll make it
 [Chorus]
 
 [Outro]
-[ch]G[/ch]          [ch]D[/ch]          [ch]Em[/ch]                 [ch]C[/ch]
+G          D          Em                 C
 We are the ones, that will make you feel better  (x4)
-
-
-LAST 2 COMMENTS
-
-Blackmood: The Bm must be above ONLY ;)
-
-like this:
-
-Em                       Bm
-She's the one, she's the only one
-
-nbish11: @Blackmood Nice catch. Fixed.
-

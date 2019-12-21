@@ -1,6 +1,6 @@
 Hey should be the whole song:
 
-chords used: [ch]C[/ch], [ch]Am[/ch], [ch]F[/ch], [ch]G[/ch] - 
+chords used: C, Am, F, G - 
 you can play the regular open chords, or as I reckon like that:
 
 1. Cmajor:    X,15,17,17,17,15
@@ -12,22 +12,22 @@ you can play the regular open chords, or as I reckon like that:
 4. Gmajor:    X,10,12,12,12,10
 
 
-Intro: [ch]C[/ch], [ch]Am[/ch], [ch]F[/ch], [ch]G[/ch]
+Intro: C, Am, F, G
 
 
-[ch]C[/ch]       [ch]Am[/ch]
+C       Am
 Someone
-[ch]F[/ch]            [ch]G[/ch]
+F            G
 There are no worries for
-[ch]C[/ch]      [ch]Am[/ch]
+C      Am
 Someone
-[ch]F[/ch]            [ch]G[/ch]
+F            G
 Life's in no hurry for
-[ch]C[/ch]      [ch]Am[/ch]
+C      Am
 Someone
-[ch]F[/ch]            [ch]G[/ch]
+F            G
 There are no worries for
-[ch]C[/ch]   [ch]Am[/ch]  [ch]F[/ch]        [ch]G[/ch]         [ch]C[/ch]    [ch]Am[/ch]
+C   Am  F        G         C    Am
 Nothing major or too complicated
 
 etc.
