@@ -1,0 +1,116 @@
+OUT IN LA
+
+Artist:  Red Hot Chili Peppers
+Album:   The Red Hot Chili Peppers
+Year:    1984
+Drummer: Cliff Martinez
+
+tabbed by maolars (maolars@gmail.com) on 15.11.2016
+
+
+[Intro]
+
+
+H|----------------|
+S|----------------|
+B|----------------|(x2)
+
+C|X---------------|----------------|----------------|----------------|
+H|-xxx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+
+[Verse 1]
+
+H|xxxx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+H|xxxx-xxxxxxx-xxx|xxxx-xxxXxxx-xxx|xxxx-xxxxxxx-xxx|Xxxx-XxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+H|xxxx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+
+[Bridge]
+
+H|XxxxXxxxXxxxXxxx|XxxxXxxxXxxxXxxx|XxxxXxxxXxxxXxxx|XxxxXxx-X-x-X---|
+S|----------------|----------------|----------------|--------o---o-oo|
+B|o---o-------o---|----o-----o-o---|----o-------o---|----o-----------|
+
+
+[Verse 3]
+
+C|X---------------|----------------|----------------|----------------|
+H|--xx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+
+[Bridge 2]
+
+H|xxxx-xxxxxxx-Xxx|xxxx-xxxXxxX-xXx|xxxx-xxxxxxx-Xxx|xxxx-xxxxxxX----|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o-oo|
+B|o-----o--o------|o-oo-o-o--------|o-----o--o------|o-oo-o-o--------|
+
+
+[Verse 3]
+
+C|X---------------|----------------|----------------|----------------|
+H|--xx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+H|xxxx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o---o---|
+
+
+[Interlude]
+
+H|----------------|
+S|----------------|
+B|----------------|(x4)
+
+
+[Verse 4]
+
+C|X---------------|----------------|----------------|----------------|
+H|--xx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+C|X---------------|----------------|----------------|----------------|
+H|--xx-xxxxxxx-xxx|xxxx-xxxXxxx-xxx|xxxx-xxxxxxx-xxx|Xxxx-xxxxxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+H|xxxx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o--o----|
+
+[Solo]
+
+H|xxxx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|xxxx-xxxXxx-X---|
+S|----o-------o---|----o-------o---|----o-------o---|----o-------o---|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o-o--o--o-------|
+
+[Verse 5]
+
+C|X---------------|----------------|----------------|--------X-------|
+H|--xx-xxxxxxx-xxx|xxxx-xxxX-xx-xxx|xxxx-xxxxxxx-xxx|x----X----------|
+S|----o-------o---|----o-------o---|----o-------o---|--ooo-----------|
+B|o-------o--o--o-|--o--o----o--o--|o-------o-oo----|o----o--o-------|
+
+
+************************************
+
+| B  bass drum 
+| H  hi-hat
+| S  snare 
+
+************************************
