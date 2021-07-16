@@ -1,9 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
 <div style="background: rgba(0,0,0,.75);padding:5%;padding-top:0;">
-  <div style="width:100%;padding: 2.5% 0;">
-    <div id="title">{{album_name}}</div>
-  </div>
   <div id="album_info">
     <div id="album_cover">
       <img src="/static/pics/{{pic_url}}" alt="{{album_name}}" />
@@ -47,4 +44,8 @@
     {% endfor %}
   </table>
 </div>
+
+<script>
+  document.getElementById("subtitle").getElementsByTagName("i")[0].innerText = "{{album_name}}";
+</script>
 {% endblock %}

@@ -15,15 +15,14 @@ body,html {
 
 #header {
   width:100%;
-  height:75px;
   background: #F00;
   position: relative;
 }
+
 #header h1 {
-  line-height: 75px;
-  color:white;
-  font-size: 40px;
-  padding-left:5%;
+  color: white;
+  padding-left: 2.5rem;
+  font-size: 3rem;
 }
 #header a {
   text-decoration: none;
@@ -68,8 +67,11 @@ body,html {
 }
 
 #subtitle {
-  margin: 2.5% 0;
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
+  font-size: 1.5rem;
 }
 
 .arrow {
@@ -117,8 +119,6 @@ body,html {
 }
 
 #album_cover {
-  width:250px;
-  height:250px;
 }
 #album_cover img {
   width:200px;
@@ -127,7 +127,7 @@ body,html {
 }
 #album_info {
   padding: 0 15%;
-  height:250px;
+  padding-top: 1rem;
   color:white;
   display: flex;
 }
@@ -138,6 +138,7 @@ body,html {
 #album_songs {
   width:70%;
   margin-left: 15%;
+  margin-top: 1rem;
   border-collapse: collapse;
 }
 
@@ -175,23 +176,30 @@ body,html {
   margin-right: 7px;
 }
 
+#thumbnail_div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
 #thumbnail_div div {
-  width:calc(100% / 5);
-  float: left;
-  padding: 10px 0;
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
 }
 
 #thumbnail_div div img {
-  margin-left:calc((100% - 140px) / 2);
   cursor: pointer;
-  width:140px; height:140px;
+  width: 90%;
+  border-radius: 2rem;
 }
 #thumbnail_div div a {
-  float: left;
-  text-align: center;
-  width:100%;
-  overflow-x: hidden;
   font-family: TitleFont;
+  text-decoration: none;
+  font-size: 18px;
 }
 
 @media (max-width: 700px) {
@@ -205,8 +213,6 @@ body,html {
     width:60px;
   }
   #thumbnail_div div img {
-    width:100px; height:100px;
-    margin-left:calc((100% - 100px) / 2);
   }
   #album_cover, #album_cover img, #album_info {
     width:125px; height:125px;
