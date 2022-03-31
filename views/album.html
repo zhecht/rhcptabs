@@ -12,6 +12,10 @@
       <p>Drums: {{drums}}</p>
     </div>
   </div>
+  <div id="tracklistTable">
+    
+  </div>
+  <!--
   <table id='album_songs'>
     <tr class='header'>
       {% if url == "live" %}
@@ -43,9 +47,43 @@
       {% endif %}
     {% endfor %}
   </table>
+  -->
 </div>
 
 <script>
+  const table = new Tabulator("#tracklistTable", {
+    height: "auto",
+    data: JSON.parse('{{all_songs | tojson}}'),
+    layout:"fitColumns",
+    initialSort: [
+      {column: "trackNo", "dir": "asc"}
+    ],
+    columns:[
+      {title:"#", field:"trackNo", width:50, hozAlign: "center", sorter: "number"},
+      {title:"Title", field:"title"},
+      {title:"Tabs", field:"tabs", hozAlign: "center", formatter: tabFormatter},
+      {title:"Lyrics", field:"lyrics", width: 100, hozAlign: "center", formatter: lyricsFormatter}
+    ],
+  });
+
+  function lyricsFormatter(cell, formatterParams, onRendered) {
+    const data = cell.getData();
+    const tabs = data.tabs;
+    return `<a href="/static/tabs/${'{{album_name}}'}/${data.trackNo}/lyrics.pdf" target="_blank">Lyrics</a>`;
+  }
+
+  function tabFormatter(cell, formatterParams, onRendered) {
+    const data = cell.getData();
+    const tabs = data.tabs;
+    let html = "";
+    for (tabType of ["chord", "tab", "solo", "bass", "drums"]) {
+      if (tabs.indexOf(tabType+".pdf") >= 0) {
+        html += `<a href="/static/tabs/${'{{album_name}}'}/${data.trackNo}/${tabType}.pdf" target="_blank">${tabType}</a>`
+      }
+    }
+    return html;
+  }
+
   document.getElementById("subtitle").getElementsByTagName("i")[0].innerText = "{{album_name}}";
 </script>
 {% endblock %}

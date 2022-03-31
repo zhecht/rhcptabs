@@ -40,13 +40,25 @@ def album_route(name):
 	else:
 		for idx, song in enumerate(song_list):
 			tabs = get_tab_names(name, name, idx + 1)
-			tab_html = get_tab_html(name, None, idx + 1, tabs)
-			all_songs.append({'title':song, 'tabs':tabs, "tab_html": tab_html})
+			#tab_html = get_tab_html(name, None, idx + 1, tabs)
+			if idx == 0:
+				print(tabs)
+			all_songs.append({
+				"trackNo": idx+1,
+				"title": song,
+				"lyrics": "lyrics" if "lyrics.pdf" in tabs else "",
+				"tabs": tabs
+			})
 
 	if not album_instruments:
 		return render_template("album.html", all_songs=all_songs, url=name, pic_url=album_data['url'], album_name=album_data['name'])
 
-	return render_template("album.html",all_songs=all_songs,url=name,pic_url=album_data['url'],album_name=album_data['name'], acoustic=album_instruments['acoustic'],electric=album_instruments['electric'],bass=album_instruments['bass'],drums=album_instruments['drums'])
+	return render_template(
+		"album.html",
+		all_songs=all_songs,
+		album_name=album_data['name'],
+		url=name,pic_url=album_data['url'], acoustic=album_instruments['acoustic'],electric=album_instruments['electric'],bass=album_instruments['bass'],drums=album_instruments['drums']
+	)
 
 
 @album.route('/album/<name>/<num>',methods=["GET"])
