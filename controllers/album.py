@@ -30,25 +30,25 @@ def album_route(name):
 
 	if name == "live":
 		for concert in song_list:
-			for idx, song in enumerate(concert['songs']):
-				tabs = get_tab_names(name, concert['id'], idx + 1)
-				tab_html = get_tab_html(name, concert['id'], idx + 1, tabs)
-				if len(tabs) == 0:
-					tabs = "None"
-				
-				all_songs.append({'id': concert['id'], 'where': concert['where'], 'when': concert['when'], 'title': song, 'tabs': tabs, 'idx': idx, "tab_html": tab_html})
+			for idx, data in enumerate(concert["songs"]):
+				all_songs.append({
+					"title": data["title"],
+					"tabs": data,
+					"trackNo": idx+1,
+					"type": f"{concert['where']} ({concert['when']})"
+				})
 	else:
-		for idx, song in enumerate(song_list):
-			tabs = get_tab_names(name, name, idx + 1)
-			#tab_html = get_tab_html(name, None, idx + 1, tabs)
-			if idx == 0:
-				print(tabs)
-			all_songs.append({
-				"trackNo": idx+1,
-				"title": song,
-				"lyrics": "lyrics" if "lyrics.pdf" in tabs else "",
-				"tabs": tabs
-			})
+		trackType = "Album"
+		for idx, data in enumerate(song_list):
+			if data["title"] == "B-Sides":
+				trackType = "B-Side"
+			else:
+				all_songs.append({
+					"trackNo": idx+1,
+					"title": data["title"],
+					"tabs": data,
+					"type": trackType
+				})
 
 	if not album_instruments:
 		return render_template("album.html", all_songs=all_songs, url=name, pic_url=album_data['url'], album_name=album_data['name'])

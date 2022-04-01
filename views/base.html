@@ -8,17 +8,18 @@
 	<link rel="stylesheet" href="/static/css/tabulator_midnight.css" type="text/css">
 	<script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.1.7/dist/js/tabulator.min.js"></script>
 	<script src="/static/js/jquery-3.2.1.min.js"></script>
-	<script src="/static/js/vue.js"></script>
   </head>
   <body style='font-size:14px;'>
-	<div id='header'>
+	<header>
 		<h1><a href='/'>RHCP Tabs</a></h1>
 		<div id="subtitle"><i>Choose Album</i></div>
-	</div>
+	</header>
 	<div id='content'>
 	  {% block content %}{% endblock %}
 	</div>
+	<footer>
+		<a href="mailto:rhcptabs@protonmail.com">rhcptabs@protonmail.com</a>
+	</footer>
 	<script src="/static/js/main.js"></script>
   </body>
-
 </html>

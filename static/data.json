@@ -1,270 +1,1467 @@
 {
     "all_songs": {
         "redhotchilipeppers": [
-            "True Men Don't Kill Coyotes",
-            "Baby Appeal",
-            "Buckle Down",
-            "Get Up and Jump",
-            "Why Don't You Love Me",
-            "Green Heaven",
-            "Mommy, Where's Daddy?",
-            "Out in L.A.",
-            "Police Helicopter",
-            "You Always Sing the Same",
-            "Grand Pappy Du Plenty",
-            "B-Sides",
-            "What It Is"
+            {
+                "title": "True Men Don't Kill Coyotes",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-tabs-32459",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-chords-2903219",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/true-men-dont-kill-coyotes-bass-704917"
+
+            },
+            {
+                "title": "Baby Appeal",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/baby-appeal-tabs-108453",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/baby-appeal-bass-765290"
+            },
+            {
+                "title": "Buckle Down",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/buckle-down-tabs-551412",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/buckle-down-bass-826133"
+            },
+            {
+                "title": "Get Up and Jump",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/get-up-and-jump-tabs-1183705",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/get-up-and-jump-bass-263935"
+            },
+            {
+                "title": "Why Don't You Love Me",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/why-dont-you-love-me-tabs-32443",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/why-dont-you-love-me-bass-700227"
+            },
+            {
+                "title": "Green Heaven",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/green-heaven-tabs-1838200",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/green-heaven-bass-3627"
+            },
+            {
+                "title": "Mommy, Where's Daddy?",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/mommy-wheres-daddy-tabs-976078",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/mommy-wheres-daddy-bass-4069069"
+            },
+            {
+                "title": "Out in L.A.",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/out-in-la-tabs-132101",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/out-in-la-bass-133198",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/out-in-la-drums-1903634"
+            },
+            {
+                "title": "Police Helicopter",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/police-helicopter-tabs-1836453",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/police-helicopter-bass-567194"
+            },
+            {
+                "title": "You Always Sing the Same"
+            },
+            {
+                "title": "Grand Pappy Du Plenty",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/grand-pappy-du-plenty-tabs-32450",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/grand-pappy-du-plenty-bass-172933"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "What It Is",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/what-it-is-bass-133966"
+            }
         ],
         "freakystyley": [
-            "Jungle Man",
-            "Hollywood (Africa)",
-            "American Ghost Dance",
-            "If You Want Me to Stay",
-            "Nevermind",
-            "Freaky Styley",
-            "Blackeyed Blonde",
-            "The Brothers Cup",
-            "Battleship",
-            "Lovin' and Touchin'",
-            "Catholic School Girls Rule",
-            "Sex Rap",
-            "Thirty Dirty Birds",
-            "Yertle the Turtle",
-            "B-Sides",
-            "Bone",
-            "Millionaires Against Hunger",
-            "Prince of Sadness",
-            "Set It Straight"
+            {
+                "title": "Jungle Man",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/jungle-man-tabs-170895",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/jungle-man-chords-2993444",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/jungle-man-bass-523907"
+            },
+            {
+                "title": "Hollywood (Africa)",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hollywood-guitar-pro-407929",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hollywood-bass-3669"
+            },
+            {
+                "title": "American Ghost Dance",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/american-ghost-dance-tabs-178571",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/american-ghost-dance-bass-534799"
+            },
+            {
+                "title": "If You Want Me to Stay",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-you-want-me-to-stay-guitar-pro-1186532",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-you-want-me-to-stay-bass-691591"
+            },
+            {
+                "title": "Nevermind",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/nevermind-tabs-544833",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/nevermind-bass-700230",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/nevermind-chords-2969222"
+            },
+            {
+                "title": "Freaky Styley",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/freaky-styley-guitar-pro-1000759",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/freaky-styley-bass-37529"
+            },
+            {
+                "title": "Blackeyed Blonde",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blackeyed-blonde-tabs-80911",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blackeyed-blonde-chords-3814478",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blackeyed-blonde-bass-55740"
+            },
+            {
+                "title": "The Brothers Cup",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-brothers-cup-guitar-pro-1781975",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-brothers-cup-chords-3967273",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-brothers-cup-bass-350827"
+            },
+            {
+                "title": "Battleship"
+            },
+            {
+                "title": "Lovin' and Touchin'",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/lovin-and-touchin-guitar-pro-229812",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/lovin-and-touchin-bass-627590"
+            },
+            {
+                "title": "Catholic School Girls Rule",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/catholic-school-girls-rule-tabs-127738",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/catholic-school-girls-rule-bass-276930",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/catholic-school-girls-rule-chords-3967219"
+            },
+            {
+                "title": "Sex Rap",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sex-rap-tabs-179215",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sex-rap-bass-3688"
+            },
+            {
+                "title": "Thirty Dirty Birds"
+            },
+            {
+                "title": "Yertle the Turtle",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/yertle-the-turtle-tabs-1007467",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/yertle-the-turtle-bass-408846"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Bone"
+            },
+            {
+                "title": "Millionaires Against Hunger",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/millionaires-against-hunger-tabs-3840",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/millionaires-against-hunger-bass-639156"
+            },
+            {
+                "title": "Prince of Sadness",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/prince-of-sadness-tabs-806625"
+            },
+            {
+                "title": "Set It Straight"
+            }
         ],
         "theupliftmofopartyplan": [
-            "Fight Like a Brave",
-            "Funky Crime",
-            "Me and My Friends",
-            "Backwoods",
-            "Skinny Sweaty Man",
-            "Behind the Sun",
-            "Subterranean Homesick Blues",
-            "Party on Your Pussy",
-            "No Chump Love Sucker",
-            "Walkin' on Down the Road",
-            "Love Trilogy",
-            "Organic Anti-Beat Box Band",
-            "B-Sides",
-            "Blues For Meister"
+            {
+                "title": "Fight Like a Brave",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/fight-like-a-brave-chords-654827",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/fight-like-a-brave-tabs-824502",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/fight-like-a-brave-bass-451039"
+            },
+            {
+                "title": "Funky Crime",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funky-crime-tabs-799062",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funky-crime-bass-3621"
+            },
+            {
+                "title": "Me and My Friends",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/me-and-my-friends-tabs-80924",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/me-and-my-friends-chords-3994738",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/me-and-my-friends-bass-80930",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/me-and-my-friends-drums-1480695"
+            },
+            {
+                "title": "Backwoods",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/backwoods-tabs-102723",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/backwoods-bass-627621",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/backwoods-chords-2909330"
+            },
+            {
+                "title": "Skinny Sweaty Man",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/skinny-sweaty-man-tabs-1067547",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/skinny-sweaty-man-bass-437139"
+            },
+            {
+                "title": "Behind the Sun",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/behind-the-sun-tabs-38515",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/behind-the-sun-bass-100208",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/behind-the-sun-chords-3965620"
+            },
+            {
+                "title": "Subterranean Homesick Blues",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/subterranean-homesick-blues-tabs-483116",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/subterranean-homesick-blues-bass-3692"
+            },
+            {
+                "title": "Party on Your Pussy",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/party-on-your-pussy-special-secret-song-inside-power-310599"
+            },
+            {
+                "title": "No Chump Love Sucker",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/no-chump-love-sucker-tabs-799023",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/no-chump-love-sucker-bass-1139552"
+            },
+            {
+                "title": "Walkin' on Down the Road",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/walkin-on-down-the-road-guitar-pro-229955",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/walkin-on-down-the-road-bass-3704"
+            },
+            {
+                "title": "Love Trilogy",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/love-trilogy-guitar-pro-412014",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/love-trilogy-bass-3676"
+            },
+            {
+                "title": "Organic Anti-Beat Box Band",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/organic-anti-beat-box-band-tabs-3783",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/organic-anti-beat-box-band-bass-418538"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Blues For Meister",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blues-for-meister-guitar-pro-407930",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blues-for-meister-bass-3660"
+            }
         ],
         "mothersmilk": [
-            "Good Time Boys",
-            "Higher Ground",
-            "Subway to Venus",
-            "Magic Johnson",
-            "Nobody Weird Like Me",
-            "Knock Me Down",
-            "Taste the Pain",
-            "Stone Cold Bush",
-            "Fire",
-            "Pretty Little Ditty",
-            "Punk Rock Classic",
-            "Sexy Mexican Maid",
-            "Johnny, Kick a Hole in the Sky",
-            "B-Sides",
-            "Salute to Kareem",
-            "Show Me Your Soul",
-            "Song That Made Us What We Are Today"
+            {
+                "title": "Good Time Boys",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/good-time-boys-tabs-122240",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/good-time-boys-chords-3108497",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/good-time-boys-bass-3701"
+            },
+            {
+                "title": "Higher Ground",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/higher-ground-tabs-163561",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/higher-ground-bass-325527",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/higher-ground-chords-1047974"
+            },
+            {
+                "title": "Subway to Venus",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/subway-to-venus-tabs-1022017",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/subway-to-venus-tabs-98969",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/subway-to-venus-bass-49200"
+            },
+            {
+                "title": "Magic Johnson",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/magic-johnson-guitar-pro-229813",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/magic-johnson-bass-547035"
+            },
+            {
+                "title": "Nobody Weird Like Me",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/nobody-weird-like-me-chords-3039144",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/nobody-weird-like-me-guitar-pro-229829",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/nobody-weird-like-me-bass-548273"
+            },
+            {
+                "title": "Knock Me Down",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/knock-me-down-chords-3770",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/knock-me-down-tabs-147445",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/knock-me-down-bass-986964"
+            },
+            {
+                "title": "Taste the Pain",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/taste-the-pain-guitar-pro-336629",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/taste-the-pain-bass-651599",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/taste-the-pain-drums-1481057"
+            },
+            {
+                "title": "Stone Cold Bush",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/stone-cold-bush-chords-3965575",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/stone-cold-bush-guitar-pro-229898",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/stone-cold-bush-drums-1480696",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/stone-cold-bush-bass-58007"
+            },
+            {
+                "title": "Fire",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/fire-tabs-111782",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/fire-bass-37527"
+            },
+            {
+                "title": "Pretty Little Ditty",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pretty-little-ditty-tabs-58288",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pretty-little-ditty-bass-694235"
+            },
+            {
+                "title": "Punk Rock Classic",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/punk-rock-classic-tabs-3804",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/punk-rock-classic-bass-3685"
+            },
+            {
+                "title": "Sexy Mexican Maid",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sexy-mexican-maid-guitar-pro-229882",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sexy-mexican-maid-bass-365808"
+            },
+            {
+                "title": "Johnny, Kick a Hole in the Sky",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/johnny-kick-a-hole-in-the-sky-guitar-pro-229805",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/johnny-kick-a-hole-in-the-sky-bass-37435"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Salute to Kareem",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/salute-to-kareem-tabs-600824",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/salute-to-kareem-bass-963927"
+            },
+            {
+                "title": "Show Me Your Soul",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/show-me-your-soul-tabs-694237",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/show-me-your-soul-bass-2289353"
+            },
+            {
+                "title": "Song That Made Us What We Are Today",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/song-that-made-us-what-we-are-today-guitar-pro-462354"
+            }
         ],
         "bloodsugarsexmagik": [
-            "The Power of Equality",
-            "If You Have to Ask",
-            "Breaking the Girl",
-            "Funky Monks",
-            "Suck My Kiss",
-            "I Could Have Lied",
-            "Mellowship Slinky in B Major",
-            "The Righteous & the Wicked",
-            "Give It Away",
-            "Blood Sugar Sex Magik",
-            "Under the Bridge",
-            "Naked in the Rain",
-            "Apache Rose Peacock",
-            "The Greeting Song",
-            "My Lovely Man",
-            "Sir Psycho Sexy",
-            "They're Red Hot",
-            "B-Sides",
-            "Castles Made of Sand",
-            "Fela's Cock",
-            "Little Miss Lover",
-            "Search & Destroy",
-            "Sikamikanico",
-            "Soul to Squeeze"
+            {
+                "title": "The Power of Equality",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-power-of-equality-tabs-1976297",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-power-of-equality-chords-1103945",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-power-of-equality-bass-916600"
+            },
+            {
+                "title": "If You Have to Ask",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-you-have-to-ask-tabs-3769",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-you-have-to-ask-tabs-1830193",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-you-have-to-ask-chords-3234623",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-you-have-to-ask-bass-694994"
+            },
+            {
+                "title": "Breaking the Girl",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/breaking-the-girl-tabs-35463",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/breaking-the-girl-chords-114314",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/breaking-the-girl-bass-92589"
+            },
+            {
+                "title": "Funky Monks",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funky-monks-drums-1480122",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funky-monks-tabs-495585",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funky-monks-chords-1104432",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funky-monks-bass-608263"
+            },
+            {
+                "title": "Suck My Kiss",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-chords-1104433",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-tabs-41468",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-bass-22280",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/suck-my-kiss-drums-864702"
+            },
+            {
+                "title": "I Could Have Lied",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-could-have-lied-chords-1104658",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-could-have-lied-tabs-130878",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-could-have-lied-bass-54647",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-could-have-lied-drums-869381"
+            },
+            {
+                "title": "Mellowship Slinky in B Major",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/mellowship-slinky-in-b-major-tabs-155189",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/mellowship-slinky-in-b-major-drums-1480697",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/mellowship-slinky-in-b-major-bass-53378"
+            },
+            {
+                "title": "The Righteous & the Wicked",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-righteous-and-the-wicked-chords-2694912",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-righteous-and-the-wicked-tabs-80948",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-righteous-and-the-wicked-bass-3703",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-righteous-and-the-wicked-drums-1482872"
+            },
+            {
+                "title": "Give It Away",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/give-it-away-chords-1989635",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/give-it-away-tabs-481399",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/give-it-away-bass-202825",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/give-it-away-drums-859040"
+            },
+            {
+                "title": "Blood Sugar Sex Magik",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blood-sugar-sex-magik-chords-4052929",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blood-sugar-sex-magik-tabs-484369",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blood-sugar-sex-magik-bass-140261",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/blood-sugar-sex-magik-drums-1730094"
+            },
+            {
+                "title": "Under the Bridge",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-chords-703476",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-tabs-3832",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-bass-119530",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-drums-891504"
+            },
+            {
+                "title": "Naked in the Rain",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/naked-in-the-rain-tabs-664506",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/naked-in-the-rain-bass-139690",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/naked-in-the-rain-chords-2801147"
+            },
+            {
+                "title": "Apache Rose Peacock",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/apache-rose-peacock-chords-3227261",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/apache-rose-peacock-tabs-526104",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/apache-rose-peacock-bass-3657",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/apache-rose-peacock-drums-865122"
+            },
+            {
+                "title": "The Greeting Song",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-greeting-song-tabs-45367",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-greeting-song-bass-912862",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-greeting-song-drums-1480698"
+            },
+            {
+                "title": "My Lovely Man",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-lovely-man-chords-1970531",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-lovely-man-tabs-189524",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-lovely-man-bass-212421",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-lovely-man-drums-1480699"
+            },
+            {
+                "title": "Sir Psycho Sexy",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sir-psycho-sexy-chords-2096525",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sir-psycho-sexy-tabs-542926",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sir-psycho-sexy-bass-994157",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sir-psycho-sexy-drums-1965857"
+            },
+            {
+                "title": "They're Red Hot",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/theyre-red-hot-tabs-1060184",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/theyre-red-hot-bass-3696"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Castles Made of Sand",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/castles-made-of-sand-chords-48483",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/castles-made-of-sand-tabs-209685",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/castles-made-of-sand-tabs-1917097",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/castles-made-of-sand-bass-402570"
+            },
+            {
+                "title": "Fela's Cock",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/felas-cock-tabs-1076546",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/felas-cock-bass-340394"
+            },
+            {
+                "title": "Little Miss Lover"
+            },
+            {
+                "title": "Search & Destroy",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/search-and-destroy-tabs-3820",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/search-and-destroy-bass-824862"
+            },
+            {
+                "title": "Sikamikanico",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sikamikanico-tabs-80931",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sikamikanico-bass-737692"
+            },
+            {
+                "title": "Soul to Squeeze",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/soul-to-squeeze-chords-127662",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/soul-to-squeeze-tabs-177659",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/soul-to-squeeze-bass-137793",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/soul-to-squeeze-drums-880697"
+            }
         ],
         "onehotminute": [
-            "Warped",
-            "Aeroplane",
-            "Deep Kick",
-            "My Friends",
-            "Coffee Shop",
-            "Pea",
-            "One Big Mob",
-            "Walkabout",
-            "Tearjerker",
-            "One Hot Minute",
-            "Falling into Grace",
-            "Shallow Be Thy Game",
-            "Transcending",
-            "B-Sides",
-            "Bob",
-            "I Found Out",
-            "I've Been Down",
-            "Let's Make Evil",
-            "Melancholy Mechanics",
-            "Strech"
+            {
+                "title": "Warped",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warped-tabs-39868",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warped-bass-3654",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warped-drums-1480123"
+            },
+            {
+                "title": "Aeroplane",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/aeroplane-chords-880507",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/aeroplane-tabs-3724",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/aeroplane-bass-99909",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/aeroplane-drums-1481233"
+            },
+            {
+                "title": "Deep Kick",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/deep-kick-guitar-pro-229751",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/deep-kick-bass-3664"
+            },
+            {
+                "title": "My Friends",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-friends-chords-98993",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-friends-tabs-195908",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-friends-bass-700217",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/my-friends-drums-1729485"
+            },
+            {
+                "title": "Coffee Shop",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/coffee-shop-chords-1732986",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/coffee-shop-tabs-1972853",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/coffee-shop-bass-3618",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/coffee-shop-drums-1730974"
+            },
+            {
+                "title": "Pea",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pea-chords-3919145",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pea-guitar-pro-229847",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pea-bass-36471"
+            },
+            {
+                "title": "One Big Mob",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/one-big-mob-chords-3781",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/one-big-mob-bass-3635",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/one-big-mob-guitar-pro-229831"
+            },
+            {
+                "title": "Walkabout",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/walkabout-tabs-489695",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/walkabout-bass-208412"
+            },
+            {
+                "title": "Tearjerker",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tearjerker-chords-1848986",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tearjerker-guitar-pro-229908",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tearjerker-bass-3695"
+            },
+            {
+                "title": "One Hot Minute",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/one-hot-minute-bass-3681",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/one-hot-minute-guitar-pro-900733"
+            },
+            {
+                "title": "Falling into Grace",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/falling-into-grace-chords-3708326",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/falling-into-grace-bass-814349",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/falling-into-grace-tabs-130120"
+            },
+            {
+                "title": "Shallow Be Thy Game",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/shallow-be-thy-game-guitar-pro-229884",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/shallow-be-thy-game-bass-3641"
+            },
+            {
+                "title": "Transcending",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/transcending-tabs-57975",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/transcending-bass-3652"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Bob",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bob-tabs-1107682",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bob-bass-552752"
+            },
+            {
+                "title": "I Found Out",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-found-out-chords-718862",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-found-out-tabs-730591",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-found-out-bass-1034875"
+            },
+            {
+                "title": "I've Been Down",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/ive-been-down-tabs-664296"
+            },
+            {
+                "title": "Let's Make Evil",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/lets-make-evil-guitar-pro-700401",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/lets-make-evil-bass-98595"
+            },
+            {
+                "title": "Melancholy Mechanics",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/melancholy-mechanics-chords-2784253"
+                ,
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/melancholy-mechanics-guitar-pro-406395"
+            },
+            {
+                "title": "Strech"   
+            }
         ],
         "californication": [
-            "Around the World",
-            "Parallel Universe",
-            "Scar Tissue",
-            "Otherside",
-            "Get on Top",
-            "Californication",
-            "Easily",
-            "Porcelain",
-            "Emit Remmus",
-            "I Like Dirt",
-            "This Velvet Glove",
-            "Savior",
-            "Purple Stain",
-            "Right on Time",
-            "Road Trippin'",
-            "B-Sides",
-            "Bunker Hill",
-            "Fat Dance",
-            "Gong Li",
-            "How Strong",
-            "Instrumental #1",
-            "Instrumental #2",
-            "Over Funk",
-            "Quixoticelixer",
-            "Teatro Jam"
+            {
+                "title": "Around the World",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/around-the-world-chords-1401451",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/around-the-world-tabs-173157",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/around-the-world-bass-58525",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/around-the-world-drums-956069"
+            },
+            {
+                "title": "Parallel Universe",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/parallel-universe-chords-1248702",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/parallel-universe-tabs-80893",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/parallel-universe-bass-507642",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/parallel-universe-drums-864664"
+            },
+            {
+                "title": "Scar Tissue",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/scar-tissue-chords-717911",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/scar-tissue-tabs-24735",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/scar-tissue-bass-149658",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/scar-tissue-drums-864845"
+            },
+            {
+                "title": "Otherside",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/otherside-chords-983702",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/otherside-tabs-21973",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/otherside-bass-1455297",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/otherside-drums-880544"
+            },
+            {
+                "title": "Get on Top",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/get-on-top-chords-3005465",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/get-on-top-tabs-99421",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/get-on-top-bass-1152083"
+            },
+            {
+                "title": "Californication",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-chords-202765",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-tabs-202770",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-tabs-202786",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-bass-202778",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-drums-864705"
+            },
+            {
+                "title": "Easily",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/easily-chords-1052073",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/easily-tabs-25247",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/easily-bass-968369",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/easily-drums-956068"
+            },
+            {
+                "title": "Porcelain",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/porcelain-chords-708239",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/porcelain-tabs-321976",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/porcelain-bass-155048"
+            },
+            {
+                "title": "Emit Remmus",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/emit-remmus-chords-3105101",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/emit-remmus-tabs-122314",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/emit-remmus-bass-3708"
+            },
+            {
+                "title": "I Like Dirt",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-like-dirt-chords-2898203",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-like-dirt-guitar-pro-229803",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-like-dirt-bass-3670"
+            },
+            {
+                "title": "This Velvet Glove",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-velvet-glove-chords-2108097",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-velvet-glove-tabs-139471",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-velvet-glove-bass-1519160"
+            },
+            {
+                "title": "Savior",
+                "chords": "https://tabs.ultimate-guitar.com/tab/rise-against/savior-chords-1012686",
+                "tab": "https://tabs.ultimate-guitar.com/tab/rise-against/savior-tabs-746060",
+                "bass": "https://tabs.ultimate-guitar.com/tab/rise-against/savior-bass-746025",
+                "drums": "https://tabs.ultimate-guitar.com/tab/rise-against/savior-drums-954991"
+            },
+            {
+                "title": "Purple Stain",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/purple-stain-tabs-149327",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/purple-stain-bass-805852",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/purple-stain-drums-869182"
+            },
+            {
+                "title": "Right on Time",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/right-on-time-chords-2964587",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/right-on-time-tabs-463786",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/right-on-time-bass-3686"
+            },
+            {
+                "title": "Road Trippin'",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/road-trippin-chords-1009501",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/road-trippin-tabs-1184296",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/road-trippin-bass-3714"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Bunker Hill",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bunker-hill-chords-2801486",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bunker-hill-tabs-383222",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bunker-hill-bass-1487842"
+            },
+            {
+                "title": "Fat Dance",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/fat-dance-tabs-1511264",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/fat-dance-bass-364071"
+            },
+            {
+                "title": "Gong Li",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/gong-li-chords-903480",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/gong-li-tabs-3761",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/gong-li-bass-1432693"
+            },
+            {
+                "title": "How Strong",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/how-strong-chords-2862221",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/how-strong-tabs-684105",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/how-strong-bass-666362"
+            },
+            {
+                "title": "Instrumental #1",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/instrumental-1-guitar-pro-250001"
+            },
+            {
+                "title": "Instrumental #2",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/instrumental-2-guitar-pro-3719654"
+            },
+            {
+                "title": "Over Funk",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/over-funk-tabs-1511265",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/over-funk-bass-2258519"
+            },
+            {
+                "title": "Quixoticelixer",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/quixoticelixer-chords-1000816",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/quixoticelixer-tabs-1511274",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/quixoticelixer-bass-1125315"
+            },
+            {
+                "title": "Teatro Jam",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/teatro-jam-tabs-3838",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/teatro-jam-bass-1217621"
+            }
         ],
         "bytheway": [
-            "By the Way",
-            "Universally Speaking",
-            "This Is the Place",
-            "Dosed",
-            "Don't Forget Me",
-            "The Zephyr Song",
-            "Can't Stop",
-            "I Could Die for You",
-            "Midnight",
-            "Throw Away Your Television",
-            "Cabron",
-            "Tear",
-            "On Mercury",
-            "Minor Thing",
-            "Warm Tape",
-            "Venice Queen",
-            "B-Sides",
-            "Bicycle Song",
-            "Body Of Water",
-            "Eskimo",
-            "Havana Affair",
-            "Out Of Range",
-            "Rivers Of Avalon",
-            "Runaway",
-            "Slowly Deeply",
-            "Someone",
-            "Teenager In Love",
-            "Time"
+            {
+                "title": "By the Way",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-chords-954593",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-tabs-202744",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-bass-258562",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-drums-869195"
+            },
+            {
+                "title": "Universally Speaking",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/universally-speaking-chords-54022",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/universally-speaking-tabs-266282",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/universally-speaking-bass-57490",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/universally-speaking-drums-880774"
+            },
+            {
+                "title": "This Is the Place",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-is-the-place-chords-1766017",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-is-the-place-guitar-pro-1178143",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-is-the-place-bass-380668"
+            },
+            {
+                "title": "Dosed",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dosed-chords-202797",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dosed-tabs-202792",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dosed-tabs-1410796",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dosed-bass-380667"
+            },
+            {
+                "title": "Don't Forget Me",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-chords-34382",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-38192",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-bass-35615"
+            },
+            {
+                "title": "The Zephyr Song",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-zephyr-song-chords-39183",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-zephyr-song-tabs-133983",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-zephyr-song-drums-951344",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-zephyr-song-bass-546281"
+            },
+            {
+                "title": "Can't Stop",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-chords-792862",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-tabs-33385",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-bass-699840",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cant-stop-drums-951239"
+            },
+            {
+                "title": "I Could Die for You",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-could-die-for-you-chords-898085",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-could-die-for-you-tabs-80904",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-could-die-for-you-bass-367725"
+            },
+            {
+                "title": "Midnight",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/midnight-chords-330177",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/midnight-bass-404836",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/midnight-drums-865086",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/midnight-guitar-pro-1937813"
+            },
+            {
+                "title": "Throw Away Your Television",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/throw-away-your-television-chords-1762290",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/throw-away-your-television-tabs-156058",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/throw-away-your-television-bass-404848"
+            },
+            {
+                "title": "Cabron",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cabron-chords-39864",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cabron-tabs-977143",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cabron-bass-546285"
+            },
+            {
+                "title": "Tear",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tear-chords-134443",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tear-tabs-47606",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tear-tabs-496578",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tear-bass-404692"
+            },
+            {
+                "title": "On Mercury",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/on-mercury-chords-58847",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/on-mercury-tabs-47140",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/on-mercury-bass-266832"
+            },
+            {
+                "title": "Minor Thing",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/minor-thing-chords-1418132",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/minor-thing-tabs-41598",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/minor-thing-tabs-44796",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/minor-thing-bass-34324",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/minor-thing-drums-1718737"
+            },
+            {
+                "title": "Warm Tape",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warm-tape-chords-1485581",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warm-tape-tabs-2764090",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warm-tape-bass-34322"
+            },
+            {
+                "title": "Venice Queen",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/venice-queen-chords-112255",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/venice-queen-tabs-45744",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/venice-queen-bass-131503",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/venice-queen-drums-1771629"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Bicycle Song",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bicycle-song-chords-759979",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bicycle-song-tabs-684104",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/bicycle-song-bass-686683"
+            },
+            {
+                "title": "Body Of Water",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/body-of-water-tabs-389406",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/body-of-water-bass-364556"
+            },
+            {
+                "title": "Eskimo",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/eskimo-chords-2136173",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/eskimo-tabs-432765"
+            },
+            {
+                "title": "Havana Affair",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/havana-affair-chords-167139",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/havana-affair-tabs-569945",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/havana-affair-bass-441399",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/havana-affair-drums-1735207"
+            },
+            {
+                "title": "Out Of Range",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/out-of-range-chords-1077352",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/out-of-range-guitar-pro-229841"
+            },
+            {
+                "title": "Rivers Of Avalon",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/rivers-of-avalon-chords-894693",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/rivers-of-avalon-tabs-40533"
+            },
+            {
+                "title": "Runaway",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/runaway-chords-1468348",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/runaway-tabs-652035",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/runaway-bass-2603286"
+            },
+            {
+                "title": "Slowly Deeply",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/slowly-deeply-guitar-pro-229892"
+            },
+            {
+                "title": "Someone",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/someone-chords-893934",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/someone-tabs-80959"
+            },
+            {
+                "title": "Teenager In Love",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/teenager-in-love-chords-94343",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/teenager-in-love-bass-545544",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/teenager-in-love-guitar-pro-229912"
+            },
+            {
+                "title": "Time",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/time-chords-2833108",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/time-guitar-pro-229930",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/time-bass-711577"
+            }
         ],
         "stadiumarcadium": [
-            "Dani California",
-            "Snow ((Hey Oh))",
-            "Charlie",
-            "Stadium Arcadium",
-            "Hump de Bump",
-            "She's Only 18",
-            "Slow Cheetah",
-            "Torture Me",
-            "Strip My Mind",
-            "Especially in Michigan",
-            "Warlocks",
-            "C'mon Girl",
-            "Wet Sand",
-            "Hey",
-            "Desecration Smile",
-            "Tell Me Baby",
-            "Hard to Concentrate",
-            "21st Century",
-            "She Looks to Me",
-            "Readymade",
-            "If",
-            "Make You Feel Better",
-            "Animal Bar",
-            "So Much I",
-            "Storm in a Teacup",
-            "We Believe",
-            "Turn It Again",
-            "Death of a Martian",
-            "B-Sides",
-            "Million Miles of Water",
-            "Whatever We Want",
-            "Lately",
-            "A Certain Someone",
-            "Mercy Mercy",
-            "Funny Face",
-            "I'll Be Your Domino",
-            "Joe",
-            "Save this Lady"
+            {
+                "title": "Dani California",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dani-california-chords-351326",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dani-california-tabs-349282",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dani-california-tabs-350011",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dani-california-bass-349751",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dani-california-drums-871608"
+            },
+            {
+                "title": "Snow ((Hey Oh))",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/snow-hey-oh-chords-497382",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/snow-hey-oh-tabs-360889",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/snow-hey-oh-bass-371210",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/snow-hey-oh-drums-1728956"
+            },
+            {
+                "title": "Charlie",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/charlie-chords-3005432",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/charlie-tabs-358058",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/charlie-bass-544844",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/charlie-drums-865059"
+            },
+            {
+                "title": "Stadium Arcadium",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/stadium-arcadium-chords-401035",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/stadium-arcadium-tabs-361604",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/stadium-arcadium-bass-379488"
+            },
+            {
+                "title": "Hump de Bump",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hump-de-bump-chords-1847314",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hump-de-bump-tabs-371741",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hump-de-bump-bass-1103881",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hump-de-bump-drums-1481234"
+            },
+            {
+                "title": "She's Only 18",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/shes-only-18-chords-1115841",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/shes-only-18-tabs-526589",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/shes-only-18-bass-364036"
+            },
+            {
+                "title": "Slow Cheetah",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/slow-cheetah-chords-372854",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/slow-cheetah-tabs-368421",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/slow-cheetah-bass-379494"
+            },
+            {
+                "title": "Torture Me",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/torture-me-chords-431022",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/torture-me-tabs-367443",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/torture-me-tabs-660957",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/torture-me-bass-364788"
+            },
+            {
+                "title": "Strip My Mind",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/strip-my-mind-chords-517273",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/strip-my-mind-tabs-1714408",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/strip-my-mind-bass-375377"
+            },
+            {
+                "title": "Especially in Michigan",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/especially-in-michigan-chords-1454791",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/especially-in-michigan-tabs-478518",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/especially-in-michigan-tabs-977560",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/especially-in-michigan-bass-379496"
+            },
+            {
+                "title": "Warlocks",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warlocks-chords-2708907",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warlocks-tabs-537072",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/warlocks-bass-365400"
+            },
+            {
+                "title": "C'mon Girl",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cmon-girl-chords-433941",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cmon-girl-tabs-605009",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/cmon-girl-bass-364220"
+            },
+            {
+                "title": "Wet Sand",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/wet-sand-chords-356738",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/wet-sand-tabs-386084",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/wet-sand-tabs-823189",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/wet-sand-bass-365646",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/wet-sand-drums-1888327"
+            },
+            {
+                "title": "Hey",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hey-chords-2283643",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hey-tabs-438009",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hey-bass-363581"
+            },
+            {
+                "title": "Desecration Smile",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/desecration-smile-chords-363645",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/desecration-smile-tabs-365394",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/desecration-smile-bass-371215"
+            },
+            {
+                "title": "Tell Me Baby",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tell-me-baby-chords-672096",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tell-me-baby-tabs-395090",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tell-me-baby-bass-365166",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tell-me-baby-drums-865024"
+            },
+            {
+                "title": "Hard to Concentrate",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hard-to-concentrate-chords-366488",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hard-to-concentrate-tabs-851662",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hard-to-concentrate-bass-368536"
+            },
+            {
+                "title": "21st Century",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/21st-century-chords-2372693",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/21st-century-tabs-356736",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/21st-century-bass-373834"
+            },
+            {
+                "title": "She Looks to Me",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/she-looks-to-me-chords-925610",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/she-looks-to-me-tabs-925603"
+                ,
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/she-looks-to-me-bass-368006"
+            },
+            {
+                "title": "Readymade",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/readymade-chords-3853619",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/readymade-tabs-363694",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/readymade-bass-386976"
+            },
+            {
+                "title": "If",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-chords-1061927",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-tabs-938397",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/if-bass-365317"
+            },
+            {
+                "title": "Make You Feel Better",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/make-you-feel-better-chords-366607",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/make-you-feel-better-tabs-363723",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/make-you-feel-better-bass-371344"
+            },
+            {
+                "title": "Animal Bar",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/animal-bar-chords-1762285",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/animal-bar-tabs-488544",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/animal-bar-tabs-571113",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/animal-bar-bass-386981"
+            },
+            {
+                "title": "So Much I",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/so-much-i-chords-2916485",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/so-much-i-tabs-366057",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/so-much-i-bass-373338"
+            },
+            {
+                "title": "Storm in a Teacup",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/storm-in-a-teacup-chords-4114180",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/storm-in-a-teacup-tabs-365647",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/storm-in-a-teacup-bass-363413"
+            },
+            {
+                "title": "We Believe",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/we-believe-chords-2707485",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/we-believe-tabs-986549",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/we-believe-bass-386984"
+            },
+            {
+                "title": "Turn It Again",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/turn-it-again-chords-2735451",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/turn-it-again-tabs-368870",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/turn-it-again-bass-434957"
+            },
+            {
+                "title": "Death of a Martian",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/death-of-a-martian-chords-1466650",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/death-of-a-martian-tabs-438468",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/death-of-a-martian-bass-368000"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Million Miles of Water",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/million-miles-of-water-chords-537010",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/million-miles-of-water-tabs-472037",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/million-miles-of-water-bass-485398"
+            },
+            {
+                "title": "Whatever We Want",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/whatever-we-want-tabs-830929",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/whatever-we-want-bass-468341"
+            },
+            {
+                "title": "Lately",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/lately-chords-417827",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/lately-bass-586440"
+            },
+            {
+                "title": "A Certain Someone"
+            },
+            {
+                "title": "Mercy Mercy",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/mercy-mercy-tabs-964791",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/mercy-mercy-bass-450522"
+            },
+            {
+                "title": "Funny Face",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funny-face-chords-508657",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funny-face-tabs-548022",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/funny-face-bass-546811"
+            },
+            {
+                "title": "I'll Be Your Domino",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/ill-be-your-domino-tabs-494447",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/ill-be-your-domino-bass-450778"
+            },
+            {
+                "title": "Joe",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/joe-chords-3016418",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/joe-tabs-677354",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/joe-bass-566231"
+            },
+            {
+                "title": "Save this Lady",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/save-this-lady-chords-897597",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/save-this-lady-tabs-675794",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/save-this-lady-bass-537000"
+            }
         ],
         "imwithyou": [
-            "Monarchy of Roses",
-            "Factory of Faith",
-            "Brendan's Death Song",
-            "Ethiopia",
-            "Annie Wants a Baby",
-            "Look Around",
-            "The Adventures of Rain Dance Maggie",
-            "Did I Let You Know",
-            "Goodbye Hooray",
-            "Happiness Loves Company",
-            "Police Station",
-            "Even You Brutus?",
-            "Meet Me at the Corner",
-            "Dance, Dance, Dance"
+            {
+                "title": "Monarchy of Roses",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/monarchy-of-roses-chords-1089435",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/monarchy-of-roses-tabs-1091476",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/monarchy-of-roses-bass-1089062",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/monarchy-of-roses-drums-1480706"
+            },
+            {
+                "title": "Factory of Faith",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/factory-of-faith-chords-1099283",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/factory-of-faith-tabs-1128540",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/factory-of-faith-bass-1086371"
+            },
+            {
+                "title": "Brendan's Death Song",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/brendans-death-song-chords-1087174",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/brendans-death-song-guitar-pro-1124134",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/brendans-death-song-bass-1667515"
+            },
+            {
+                "title": "Ethiopia",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/ethiopia-chords-1096384",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/ethiopia-tabs-1090560",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/ethiopia-bass-1089055"
+            },
+            {
+                "title": "Annie Wants a Baby",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/annie-wants-a-baby-chords-1099375",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/annie-wants-a-baby-tabs-1108395",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/annie-wants-a-baby-bass-1093003"
+            },
+            {
+                "title": "Look Around",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/look-around-chords-1927469",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/look-around-tabs-1089834",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/look-around-bass-1086731"
+            },
+            {
+                "title": "The Adventures of Rain Dance Maggie",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-adventures-of-rain-dance-maggie-chords-1075851",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-adventures-of-rain-dance-maggie-tabs-1076895",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-adventures-of-rain-dance-maggie-bass-1076683"
+            },
+            {
+                "title": "Did I Let You Know",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/did-i-let-you-know-chords-1088618",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/did-i-let-you-know-tabs-1091331",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/did-i-let-you-know-bass-1098414"
+            },
+            {
+                "title": "Goodbye Hooray",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-hooray-chords-1141647",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-hooray-tabs-1114530",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-hooray-bass-1090488"
+            },
+            {
+                "title": "Happiness Loves Company",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/happiness-loves-company-chords-1087536"
+            },
+            {
+                "title": "Police Station",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/police-station-chords-1089384",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/police-station-tabs-1211586",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/police-station-bass-1153426"
+            },
+            {
+                "title": "Even You Brutus?",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/even-you-brutus-chords-1088705",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/even-you-brutus-tabs-1149613",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/even-you-brutus-bass-1166143"
+            },
+            {
+                "title": "Meet Me at the Corner",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/meet-me-at-the-corner-chords-1139970",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/meet-me-at-the-corner-tabs-1098190",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/meet-me-at-the-corner-bass-1174459"
+            },
+            {
+                "title": "Dance, Dance, Dance",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dance-dance-dance-chords-2693031",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dance-dance-dance-bass-1188023",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dance-dance-dance-tabs-1087179"
+            }
         ],
         "imbesideyou": [
-            "Strange Man",
-            "Long Progression",
-            "Magpies on Fire",
-            "Victorian Machinery",
-            "Never is a Long Time",
-            "Love of Your Life",
-            "The Sunset Sleeps",
-            "Hometown Gypsy",
-            "Pink as Floyd",
-            "Your Eyes Girl",
-            "In Love Dying",
-            "Catch My Death",
-            "How It Ends",
-            "Brave from Afar",
-            "This Is the Kitt",
-            "Hanalei",
-            "Open/Close"
+            {
+                "title": "Strange Man",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/strange-man-chords-2885675",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/strange-man-tabs-1174573",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/strange-man-bass-3166565"
+            },
+            {
+                "title": "Long Progression",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/long-progression-chords-1206433",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/long-progression-tabs-1205517",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/long-progression-bass-1174392"
+            },
+            {
+                "title": "Magpies on Fire",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/magpies-on-fire-chords-1450362",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/magpies-on-fire-chords-1450362"
+            },
+            {
+                "title": "Victorian Machinery",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/victorian-machinery-tabs-1213914"
+            },
+            {
+                "title": "Never is a Long Time",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/never-is-a-long-time-chords-1190466",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/never-is-a-long-time-tabs-1236601"
+            },
+            {
+                "title": "Love of Your Life",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/love-of-your-life-chords-1236883",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/love-of-your-life-tabs-1197863"
+            },
+            {
+                "title": "The Sunset Sleeps",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-sunset-sleeps-chords-2833045",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-sunset-sleeps-tabs-1194015"
+            },
+            {
+                "title": "Hometown Gypsy",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hometown-gypsy-chords-1458401",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hometown-gypsy-tabs-1406360",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hometown-gypsy-bass-1467483"
+            },
+            {
+                "title": "Pink as Floyd",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pink-as-floyd-chords-1205730",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pink-as-floyd-tabs-1207781",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/pink-as-floyd-bass-3010016"
+            },
+            {
+                "title": "Your Eyes Girl",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/your-eyes-girl-chords-3127301",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/your-eyes-girl-tabs-1247119",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/your-eyes-girl-bass-2600256"
+            },
+            {
+                "title": "In Love Dying",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/in-love-dying-chords-1231366",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/in-love-dying-bass-1400310"
+            },
+            {
+                "title": "Catch My Death",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/catch-my-death-chords-1800472"
+            },
+            {
+                "title": "How It Ends",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/how-it-ends-chords-3073832",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/how-it-ends-tabs-1406348",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/how-it-ends-bass-2908622"
+            },
+            {
+                "title": "Brave from Afar",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/brave-from-afar-chords-1406526"
+            },
+            {
+                "title": "This Is the Kitt",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-is-the-kitt-tabs-1407751"
+            },
+            {
+                "title": "Hanalei",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hanalei-chords-2396545",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hanalei-tabs-1408465",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/hanalei-bass-1493836"
+            },
+            {
+                "title": "Open/Close",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/open-close-tabs-1409770"
+            }
         ],
         "thegetaway": [
-            "The Getaway",
-            "Dark Necessities",
-            "We Turn Red",
-            "The Longest Wave",
-            "Goodbye Angels",
-            "Sick Love",
-            "Go Robot",
-            "Feasting on the Flowers",
-            "Detroit",
-            "The Ticonderoga",
-            "Encore",
-            "The Hunter",
-            "Dreams of a Samurai"
+            {
+                "title": "The Getaway",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-getaway-chords-1849458",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-getaway-tabs-1849456",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-getaway-bass-1849798"
+            },
+            {
+                "title": "Dark Necessities",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-chords-1842513",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-tabs-1842553",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-bass-1842340",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dark-necessities-drums-1845143"
+            },
+            {
+                "title": "We Turn Red",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/we-turn-red-chords-1852997",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/we-turn-red-tabs-1853112",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/we-turn-red-bass-1853048",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/we-turn-red-drums-1856618"
+            },
+            {
+                "title": "The Longest Wave",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-longest-wave-chords-1854508",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-longest-wave-tabs-1854836",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-longest-wave-bass-1855615",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-longest-wave-drums-2379511"
+            },
+            {
+                "title": "Goodbye Angels",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-angels-chords-1879512",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-angels-tabs-1854230",
+                "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-angels-tabs-1866208",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-angels-bass-1854730",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/goodbye-angels-drums-2316585"
+            },
+            {
+                "title": "Sick Love",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sick-love-chords-1854130",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sick-love-tabs-1854411",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/sick-love-bass-1854790"
+            },
+            {
+                "title": "Go Robot",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/go-robot-chords-1854655",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/go-robot-tabs-1855501",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/go-robot-bass-1854269",
+                "drums": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/go-robot-drums-1861459"
+            },
+            {
+                "title": "Feasting on the Flowers",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/feasting-on-the-flowers-chords-1856775",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/feasting-on-the-flowers-tabs-1854558"
+            },
+            {
+                "title": "Detroit",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/detroit-chords-1856307",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/detroit-tabs-1856498",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/detroit-bass-1873995"
+            },
+            {
+                "title": "The Ticonderoga",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-ticonderoga-chords-1861543",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-ticonderoga-tabs-1854110",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/this-ticonderoga-bass-1862371"
+            },
+            {
+                "title": "Encore",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/encore-chords-1978331",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/encore-tabs-1854452",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/encore-bass-2755041"
+            },
+            {
+                "title": "The Hunter",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-hunter-chords-1854760",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-hunter-tabs-1898371",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-hunter-bass-1878317"
+            },
+            {
+                "title": "Dreams of a Samurai",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dreams-of-a-samurai-chords-1935825",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dreams-of-a-samurai-bass-1854646"
+            }
+        ],
+        "unlimitedlove": [
+            {
+                "title": "Black Summer",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/black-summer-chords-4057015",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/black-summer-tabs-4059172",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/black-summer-bass-4060921"
+            },
+            {
+                "title": "Here Ever After",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/here-ever-after-chords-4133455"
+            },
+            {
+                "title": "Aquatic Mouth Dance",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/aquatic-mouth-dance-chords-4133440"
+            },
+            {
+                "title": "Not the One",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/not-the-one-chords-4123888",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/not-the-one-bass-4125721"
+            },
+            {
+                "title": "Poster Child",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/poster-child-chords-4095520",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/poster-child-bass-4113379",
+                "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/poster-child-tabs-4097083"
+            },
+            {
+                "title": "The Great Apes"
+            },
+            {
+                "title": "It's Only Natural",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/its-only-natural-chords-4133416"
+            },
+            {
+                "title": "She's a Lover",
+                "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/shes-a-lover-bass-4098151"
+            },
+            {
+                "title": "These Are the Ways",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/these-are-the-ways-chords-4133398"
+            },
+            {
+                "title": "Watchu Thinkin'"
+            },
+            {
+                "title": "Bastards of Light"
+            },
+            {
+                "title": "White Braids & Pillow Chair",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/white-braids-and-pillow-chair-chords-4133359"
+            },
+            {
+                "title": "One Way Traffic"
+            },
+            {
+                "title": "Veronica",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/veronica-chords-4131343"
+            },
+            {
+                "title": "Let 'Em Cry",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/let-em-cry-chords-4133365"
+            },
+            {
+                "title": "The Heavy Wing",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-heavy-wing-chords-4133374"
+            },
+            {
+                "title": "Tangelo",
+                "chords": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/tangelo-chords-4129234"
+            }
         ]
     },
     "all_urls": {
@@ -319,6 +1516,10 @@
         "thegetaway": {
             "url": "getaway.jpg",
             "name": "The Getaway"
+        },
+        "unlimitedlove": {
+            "url": "unlimitedlove.jpg",
+            "name": "Unlimited Love"
         }
     },
     "live_concerts": [
@@ -327,13 +1528,37 @@
             "where": "Hyde Park",
             "when": "2004",
             "songs": [
-                "Brandy",
-                "By The Way",
-                "Don't Forget Me",
-                "I Feel Love",
-                "Leverage of Space",
-                "Right on Time",
-                "Rolling Sly Stone"
+                {
+                    "title": "Brandy",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/brandy-tabs-396385",
+                    "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/brandy-bass-273723"
+                },
+                {
+                    "title": "By the Way",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-tabs-202747",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-live-tabs-202748",
+                    "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-bass-1707755"
+                },
+                {
+                    "title": "Don't Forget Me",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-435882"
+                },
+                {
+                    "title": "I Feel Love",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-feel-love-guitar-pro-229801",
+                    "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/i-feel-love-bass-140011"
+                },
+                {
+                    "title": "Leverage of Space",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/leverage-of-space-tabs-128991",
+                    "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/leverage-of-space-bass-129576"
+                },
+                {
+                    "title": "Rolling Sly Stone",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/rolling-sly-stone-tabs-129914",
+                    "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/rolling-sly-stone-bass-149842",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/rolling-sly-stone-live-tabs-174690"
+                }
             ]
         },
         {
@@ -341,15 +1566,40 @@
             "where": "Slane Castle",
             "when": "2003",
             "songs": [
-                "Californication",
-                "Can't Stop",
-                "Don't Forget Me",
-                "Give It Away",
-                "Parallel Universe",
-                "Under The Bridge",
-                "The Zephyr Song",
-                "By The Way",
-                "Throw Away Your Television"
+                {
+                    "title": "Californication",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-tabs-844926",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-tabs-2924402"
+                },
+                {
+                    "title": "Don't Forget Me",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-726761",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-1707133"
+                },
+                {
+                    "title": "Parallel Universe",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/parallel-universe-tabs-734779"
+                },
+                {
+                    "title": "Under The Bridge",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-tabs-80920"
+                },
+                {
+                    "title": "The Zephyr Song",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/the-zephyr-song-tabs-1940905"
+                },
+                {
+                    "title": "Right on Time",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/right-on-time-tabs-1940873"
+                },
+                {
+                    "title": "By The Way",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/by-the-way-tabs-1991843"
+                },
+                {
+                    "title": "Throw Away Your Television",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/throw-away-your-television-tabs-504161"
+                }
             ]
         },
         {
@@ -357,8 +1607,14 @@
             "where": "La Cigale",
             "when": "2006",
             "songs": [
-                "Don't Forget Me",
-                "Soul to Squeeze"
+                {
+                    "title": "Don't Forget Me",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-1026001"
+                },
+                {
+                    "title": "Soul to Squeeze",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/soul-to-squeeze-tabs-848622"
+                }
             ]
         },
         {
@@ -366,7 +1622,32 @@
             "where": "Pink Pop",
             "when": "2006",
             "songs": [
-                "Californication"
+                {
+                    "title": "Californication",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-tabs-2914199"
+                }
+            ]
+        },
+        {
+            "id": "chili_santiago",
+            "where": "Chili Santiago",
+            "when": "2002",
+            "songs": [
+                {
+                    "title": "Californication",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-tabs-1947921"
+                }
+            ]
+        },
+        {
+            "id": "rock_in_rio",
+            "where": "Rock in Rio",
+            "when": "2006",
+            "songs": [
+                {
+                    "title": "Don't Forget Me",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-1926961"
+                }
             ]
         },
         {
@@ -374,9 +1655,18 @@
             "where": "Off The Map",
             "when": "2001",
             "songs": [
-                "Easily",
-                "Under The Bridge",
-                "Californication"
+                {
+                    "title": "Easily",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/easily-tabs-3226688"
+                },
+                {
+                    "title": "Under The Bridge",
+                    "bass": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-bass-153811"
+                },
+                {
+                    "title": "Californication",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/californication-tabs-202768"
+                }
             ]
         },
         {
@@ -384,7 +1674,10 @@
             "where": "Reading",
             "when": "2006",
             "songs": [
-                "Don't Forget Me"
+                {
+                    "title": "Don't Forget Me",
+                    "solo": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-1903824"
+                }
             ]
         },
         {
@@ -392,7 +1685,10 @@
             "where": "Montreal",
             "when": "2006",
             "songs": [
-                "Don't Forget Me"
+                {
+                    "title": "Don't Forget Me",
+                    "tab": "https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/dont-forget-me-tabs-969736"
+                }
             ]
         }
     ],
@@ -446,7 +1742,7 @@
             "drums": ""
         },
         "stadiumarcadium": {
-            "acoustic": "",
+            "acoustic": "Martin 0-15",
             "electric": "1963 Fender Stratocaster, 1969 Gibson Les Paul Custom, 1961 Rickenbacker 365 Deluxe",
             "bass": "",
             "drums": ""
@@ -464,6 +1760,12 @@
             "drums": ""
         },
         "thegetaway": {
+            "acoustic": "",
+            "electric": "",
+            "bass": "",
+            "drums": ""
+        },
+        "unlimitedlove": {
             "acoustic": "",
             "electric": "",
             "bass": "",

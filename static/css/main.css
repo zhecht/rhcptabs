@@ -9,38 +9,70 @@ body,html {
   height: 100vh;
 }
 
+body {
+  position: relative;
+}
+
 @font-face {
   font-family: TitleFont;
   src: url("/static/fonts/Courgette-Regular.ttf");
 }
 
-#header {
+header {
   width:100%;
   background: #F00;
   position: relative;
 }
 
-#header h1 {
+header h1 {
   color: white;
   padding-left: 2.5rem;
   font-size: 3rem;
 }
-#header a {
+header a {
   text-decoration: none;
   color:white;
   font-family: TitleFont;
 }
 
+footer {
+  display: flex;
+  justify-content: right;
+  position: fixed;
+  bottom: 0;
+  right: 1rem;
+  width: 100%;
+}
+
+footer a {
+  background-color: #f00;
+  color: #fff;
+  text-decoration: none;
+  border-radius: .5rem .5rem 0 0;
+  padding: 0 .5rem;
+}
+
 #content {
-  background: #F1f1f1;
+  background: black;
+}
+
+#albumDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(0,0,0,.75);
+  padding:5%;
+  padding-top:0;
 }
 
 #tracklistTable {
+  width: 75%;
   margin-top: 1rem;
 }
 
-#tracklistTable a {
+#thumbnail_div a, #tracklistTable a {
   color: #8ab4f8;
+  font-weight: bold;
 }
 
 #All {
@@ -138,6 +170,7 @@ body,html {
   height:200px;
 }
 #album_info {
+  width: 75%;
   padding-top: 1rem;
   color:white;
   display: flex;
@@ -221,27 +254,30 @@ body,html {
   }
 }
 
-@media (max-width: 400px) {
-  nav a {
-    width:60px;
+@media (max-width: 450px) {
+  header h1 {
+    padding: 0;
+    text-align: center;
   }
-  #thumbnail_div div img {
-  }
-  #album_cover, #album_cover img, #album_info {
-    width:125px; height:125px;
-  }
-  #album_cover img {
-    margin:0;
-  }
-  #album_songs {
-    margin: 0;
+  #albumDiv {
+    padding: 0;
   }
   #album_info {
-    padding: 0;
-    width:calc(100% - 125px);
+    justify-content: center;
+    width: 100%;
   }
-  #album_info #title {
-    font-size:18px;
+  #album_cover img {
+    width: 150px; height: 150px;
+  }
+  #tracklistTable {
+    width: 100%;
+  }
+  #subtitle, #instrument_list {
+    display: none;
+  }
+  footer {
+    justify-content: center;
+    right: 0;
   }
 }
 

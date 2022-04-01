@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
-<div style="background: rgba(0,0,0,.75);padding:5%;padding-top:0;">
+<div id="albumDiv">
   <div id="album_info">
     <div id="album_cover">
       <img src="/static/pics/{{pic_url}}" alt="{{album_name}}" />
@@ -12,78 +12,50 @@
       <p>Drums: {{drums}}</p>
     </div>
   </div>
-  <div id="tracklistTable">
-    
-  </div>
-  <!--
-  <table id='album_songs'>
-    <tr class='header'>
-      {% if url == "live" %}
-        <th>Where</th>
-      {% else %}
-        <th></th>
-      {% endif %}
-      <th>Title</th>      
-      <th>Guitar</th>
-      <th>Lyrics</th>
-      <th>Bass</th>
-      <th>Drums</th>
-    </tr>
-    {% for song in all_songs %}
-      {% if song.title == "B-Sides" %}
-        <tr class='header'>
-          <th colspan='6' style='text-align:center;'>{{song.title}}</th>
-        </tr>
-      {% else %}
-        <tr class='song'>
-          {% if url == "live" %}
-            <td>{{song.where}} ({{song.when}})</td>
-          {% else %}
-            <td>{{loop.index}}.</td>
-          {% endif %}
-          <td>{{song.title}}</td>
-          {{song.tab_html|safe}}
-        </tr>
-      {% endif %}
-    {% endfor %}
-  </table>
-  -->
+  <div id="tracklistTable"></div>
 </div>
 
 <script>
   const table = new Tabulator("#tracklistTable", {
     height: "auto",
     data: JSON.parse('{{all_songs | tojson}}'),
+    groupBy: "type",
     layout:"fitColumns",
     initialSort: [
       {column: "trackNo", "dir": "asc"}
     ],
     columns:[
       {title:"#", field:"trackNo", width:50, hozAlign: "center", sorter: "number"},
-      {title:"Title", field:"title"},
-      {title:"Tabs", field:"tabs", hozAlign: "center", formatter: tabFormatter},
-      {title:"Lyrics", field:"lyrics", width: 100, hozAlign: "center", formatter: lyricsFormatter}
+      {title:"Title", field:"title", headerSort: false, minWidth: 200},
+      {title:"Tab", field:"tab", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
+      {title:"Chords", field:"chords", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
+      {title:"Solo", field:"solo", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
+      {title:"Bass", field:"bass", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
+      {title:"Drums", field:"drums", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
+      {title:"Lyrics", field:"lyrics", width: 100, hozAlign: "center", formatter: lyricsFormatter, headerSort: false}
     ],
   });
 
-  function lyricsFormatter(cell, formatterParams, onRendered) {
-    const data = cell.getData();
-    const tabs = data.tabs;
-    return `<a href="/static/tabs/${'{{album_name}}'}/${data.trackNo}/lyrics.pdf" target="_blank">Lyrics</a>`;
-  }
-
   function tabFormatter(cell, formatterParams, onRendered) {
     const data = cell.getData();
+    const field = cell.getField();
     const tabs = data.tabs;
-    let html = "";
-    for (tabType of ["chord", "tab", "solo", "bass", "drums"]) {
-      if (tabs.indexOf(tabType+".pdf") >= 0) {
-        html += `<a href="/static/tabs/${'{{album_name}}'}/${data.trackNo}/${tabType}.pdf" target="_blank">${tabType}</a>`
-      }
+    if (tabs[field] == null) {
+      return "";
     }
-    return html;
+    return `<a href="${tabs[field]}" target="_blank">${field}</a>`;
   }
 
-  document.getElementById("subtitle").getElementsByTagName("i")[0].innerText = "{{album_name}}";
+  function encodeLyricsTitle(title) {
+    return title.replace("'", "-");
+  }
+
+  function lyricsFormatter(cell, formatterParams, onRendered) {
+    const data = cell.getData();
+    const link = `https://www.songlyrics.com/red-hot-chili-peppers/${encodeLyricsTitle(data.title)}-lyrics/`
+    return `<a href="${link}" target="_blank">lyrics</a>`;
+  }
+
+  document.getElementById("subtitle").getElementsByTagName("i")[0].innerText = "{{album_name|safe}}";
 </script>
 {% endblock %}
