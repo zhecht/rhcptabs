@@ -2,7 +2,7 @@ import os
 import json
 
 url = "/home/zhecht/rhcptabs/"
-url = ""
+#url = ""
 
 def read_data():
 	with open("{}static/data.json".format(url)) as fh:
