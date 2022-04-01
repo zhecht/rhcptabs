@@ -35,7 +35,7 @@ def album_route(name):
 					"title": data["title"],
 					"tabs": data,
 					"trackNo": idx+1,
-					"type": f"{concert['where']} ({concert['when']})"
+					"type": concert['where']+" ("+concert['when']+")"
 				})
 	else:
 		trackType = "Album"
