@@ -19,7 +19,7 @@ def get_tab_names(path,album_name,num):
 	try:
 		if path == "live":
 			return os.listdir("{}static/tabs/live/{}/{}".format(url, album_name,num))
-		return os.listdir(f"{url}static/tabs/{album_name}/{num}")
+		return os.listdir("{}static/tabs/{}/{}".format(url, album_name,num))
 	except:
 		return []
 	
