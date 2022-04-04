@@ -35,7 +35,8 @@ def album_route(name):
 					"title": data["title"],
 					"tabs": data,
 					"trackNo": idx+1,
-					"type": concert['where']+" ("+concert['when']+")"
+					"type": concert['where']+" ("+concert['when']+")",
+					"video": data["video"]
 				})
 	else:
 		trackType = "Album"
@@ -47,7 +48,8 @@ def album_route(name):
 					"trackNo": idx+1,
 					"title": data["title"],
 					"tabs": data,
-					"type": trackType
+					"type": trackType,
+					"video": data["video"]
 				})
 
 	if not album_instruments:

@@ -26,7 +26,7 @@
     ],
     columns:[
       {title:"#", field:"trackNo", width:50, hozAlign: "center", sorter: "number"},
-      {title:"Title", field:"title", headerSort: false, minWidth: 200},
+      {title:"Title", field:"", headerSort: false, formatter: titleFormatter, minWidth: 200},
       {title:"Tab", field:"tab", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
       {title:"Chords", field:"chords", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
       {title:"Solo", field:"solo", width: 100, hozAlign: "center", formatter: tabFormatter, headerSort: false},
@@ -35,6 +35,17 @@
       {title:"Lyrics", field:"lyrics", width: 100, hozAlign: "center", formatter: lyricsFormatter, headerSort: false}
     ],
   });
+
+  function titleFormatter(cell, formatterParams, onRendered) {
+    const data = cell.getData();
+    const url = data["video"];
+    return  "<div style='display:flex;'>"+
+              `<a href='${url}' target='_blank' style='display:flex;margin-right:.5rem;'>`+
+                "<img src='/static/pics/youtube-icon.png' height=20 />"+
+              "</a>"+
+            data["title"]+
+            "</div>";
+  }
 
   function tabFormatter(cell, formatterParams, onRendered) {
     const data = cell.getData();

@@ -1,5 +1,6 @@
 import os
 import json
+from sys import platform
 
 url = "/home/zhecht/rhcptabs/"
 #url = ""
