@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<div id='thumbnail_div'>
+  {% for album in albums %}
+    {% with id = album.title.lower().replace(" ", "").replace("-", "") %}
+    <div>
+      <a href="#" onclick="click_link('{{id}}');">{{album.title}} ({{album.year}})</a>
+      <img src="/static/pics/{{id}}.jpg" alt="{{album.title}}" onclick="click_link('{{id}}');"/>
+    </div>
+    {% endwith %}
+  {% endfor %}
+
+  <script>
+    document.title = "JF Tabs";
+    const a = document.getElementById("mainLink");
+    a.href = "/frusciante";
+    a.innerText = "JF Tabs"
+  </script>
+</div>
+{% endblock %}

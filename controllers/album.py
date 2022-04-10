@@ -28,11 +28,16 @@ def album_route(name):
 	song_list,album_data,album_instruments = get_songs(name)
 	all_songs = []
 
+	artist = "red-hot-chili-peppers"
+	if name in ["asphereintheheartofsilence", "curtains", "dcep", "fromthesoundsinside", "insideofemptiness", "leturlefr", "niandraladesandusuallyjustatshirt", "omarrodriguezlopez&johnfrusciante", "pbxfunicularintagliozone", "smilefromthestreetsyouhold", "shadowscollidewithpeople", "theempyrean", "thewilltodeath", "torecordonlywaterfortendays"]:
+		artist = "john-frusciante"
+
 	if name == "live":
 		for concert in song_list:
 			for idx, data in enumerate(concert["songs"]):
 				all_songs.append({
 					"title": data["title"],
+					"artist": artist,
 					"tabs": data,
 					"trackNo": idx+1,
 					"type": concert['where']+" ("+concert['when']+")",
@@ -46,10 +51,11 @@ def album_route(name):
 			else:
 				all_songs.append({
 					"trackNo": idx+1,
+					"artist": artist,
 					"title": data["title"],
 					"tabs": data,
 					"type": trackType,
-					"video": data["video"]
+					"video": data.get("video", "")
 				})
 
 	if not album_instruments:

@@ -39,9 +39,9 @@
   function titleFormatter(cell, formatterParams, onRendered) {
     const data = cell.getData();
     const url = data["video"];
-    return  "<div style='display:flex;'>"+
+    return  "<div style='display:flex;align-items:center;'>"+
               `<a href='${url}' target='_blank' style='display:flex;margin-right:.5rem;'>`+
-                "<img src='/static/pics/youtube-icon.png' height=20 />"+
+                "<img src='/static/pics/youtube-icon.png' height=15 />"+
               "</a>"+
             data["title"]+
             "</div>";
@@ -63,7 +63,7 @@
 
   function lyricsFormatter(cell, formatterParams, onRendered) {
     const data = cell.getData();
-    const link = `https://www.songlyrics.com/red-hot-chili-peppers/${encodeLyricsTitle(data.title)}-lyrics/`
+    const link = `https://www.songlyrics.com/${data.artist}/${encodeLyricsTitle(data.title)}-lyrics/`
     return `<a href="${link}" target="_blank">lyrics</a>`;
   }
 

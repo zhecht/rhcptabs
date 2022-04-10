@@ -1,5 +1,923 @@
 {
     "all_songs": {
+        "niandraladesandusuallyjustatshirt": [
+            {
+                "title": "As Can Be",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/as-can-be-chords-261368",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/as-can-be-tabs-329448",
+                "video": "https://www.youtube.com/watch?v=kwnySJ-mlFY"
+            },
+            {
+                "title": "My Smile is a Rifle",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/my-smile-is-a-rifle-tabs-444637",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/my-smile-is-a-rifle-chords-2988959",
+                "video": "https://www.youtube.com/watch?v=3UsnfkAG52s"
+            },
+            {
+                "title": "Head (Beach Arab)",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/head-beach-arab-tabs-68303",
+                "video": "https://www.youtube.com/watch?v=fezLx992FwI"
+            },
+            {
+                "title": "Big Takeover",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/big-takeover-tabs-759036",
+                "video": "https://www.youtube.com/watch?v=q42-10BZyRQ"
+            },
+            {
+                "title": "Curtains",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/curtains-chords-259354",
+                "video": "https://www.youtube.com/watch?v=HwRgbMffODo"
+            },
+            {
+                "title": "Running Away into You",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/running-away-into-you-tabs-1120781",
+                "video": "https://www.youtube.com/watch?v=4RA6jd1sxYA"
+            },
+            {
+                "title": "Mascara",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/mascara-chords-1210626",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/mascara-tabs-13504",
+                "video": "https://www.youtube.com/watch?v=fnJNY4adY6c"
+            },
+            {
+                "title": "Been Insane",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/been-insane-chords-171010",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/been-insane-guitar-pro-219645",
+                "video": "https://www.youtube.com/watch?v=pQ7Mu3StyxA"
+            },
+            {
+                "title": "Skin Blues",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/skin-blues-tabs-558890",
+                "video": "https://www.youtube.com/watch?v=DIE_PKzffc8"
+            },
+            {
+                "title": "Your Pussy's Glued to a Building on Fire",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/your-pussys-glued-to-a-building-on-fire-chords-863159",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/your-pussys-glued-to-a-building-on-fire-tabs-1781806",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/your-pussys-glued-to-a-building-on-fire-tabs-1818563",
+                "video": "https://www.youtube.com/watch?v=iRVFYYeA7a4"
+            },
+            {
+                "title": "Blood on My Neck from Success",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/blood-on-my-neck-from-success-chords-517400",
+                "video": "https://www.youtube.com/watch?v=SZzWe6B1LIU"
+            },
+            {
+                "title": "Ten to Butter Blood Voodoo",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ten-to-butter-blood-voodoo-tabs-565376",
+                "video": "https://www.youtube.com/watch?v=aNFnDvPPy_M"
+            },
+            {
+                "title": "B-Sides"
+            },
+            {
+                "title": "Untitled #1",
+                "video": "https://www.youtube.com/watch?v=o1V8P67mID4"
+            },
+            {
+                "title": "Untitled #2",
+                "video": "https://www.youtube.com/watch?v=y82esJcFxb8"
+            },
+            {
+                "title": "Untitled #3",
+                "video": "https://www.youtube.com/watch?v=5d2cNBpDd3k"
+            },
+            {
+                "title": "Untitled #4",
+                "video": "https://www.youtube.com/watch?v=cR6vY8BIIK4"
+            },
+            {
+                "title": "Untitled #5",
+                "video": "https://www.youtube.com/watch?v=VKvRty2l6rQ"
+            },
+            {
+                "title": "Untitled #6",
+                "video": "https://www.youtube.com/watch?v=vUrRRg8JqWM"
+            },
+            {
+                "title": "Untitled #7",
+                "video": "https://www.youtube.com/watch?v=hWg36MfNkYc"
+            },
+            {
+                "title": "Untitled #8",
+                "video": "https://www.youtube.com/watch?v=tNnMg8LiOo4"
+            },
+            {
+                "title": "Untitled #9",
+                "video": "https://www.youtube.com/watch?v=zdDecDGEe5I"
+            },
+            {
+                "title": "Untitled #10",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/untitled-10-tabs-366297",
+                "video": "https://www.youtube.com/watch?v=grvrPGsfWrI"
+            },
+            {
+                "title": "Untitled #11",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/untitled-11-chords-1186978",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/untitled-11-tabs-508109",
+                "video": "https://www.youtube.com/watch?v=LPx_I8yZxSQ"
+            },
+            {
+                "title": "Untitled #12",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/untitled-12-guitar-pro-251058",
+                "video": "https://www.youtube.com/watch?v=7BX03a0zfos"
+            },
+            {
+                "title": "Untitled #13",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/untitled-13-guitar-pro-1748286",
+                "video": "https://www.youtube.com/watch?v=xag69yBxvXA"
+            }
+        ],
+        "smilefromthestreetsyouhold": [
+            {
+                "title": "Enter a Uh",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/enter-a-uh-tabs-189957",
+                "video": "https://www.youtube.com/watch?v=xn9tnSgylqc"
+            },
+            {
+                "title": "The Other",
+                "video": "https://www.youtube.com/watch?v=sQn7azTidP0"
+            },
+            {
+                "title": "Life's a Bath",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/lifes-a-bath-tabs-449174",
+                "video": "https://www.youtube.com/watch?v=6dcGAcGUS9o"
+            },
+            {
+                "title": "A Fall Thru the Ground",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-fall-thru-the-ground-chords-1491794",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-fall-thru-the-ground-guitar-pro-219644",
+                "video": "https://www.youtube.com/watch?v=VtBSuD4Qc8w"
+            },
+            {
+                "title": "Poppy Man",
+                "video": "https://www.youtube.com/watch?v=jqDr2tia6wY"
+            },
+            {
+                "title": "I May Again Know John",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/i-may-again-know-john-guitar-pro-2588724",
+                "video": "https://www.youtube.com/watch?v=Wcs25dP9b5g"
+            },
+            {
+                "title": "I'm Always",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/im-always-chords-622120",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/im-always-tabs-1011273",
+                "video": "https://www.youtube.com/watch?v=dV7k8dYIsqg"
+            },
+            {
+                "title": "Nigger Song",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/nigger-song-chords-3573863",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/nigger-song-tabs-575858",
+                "video": "https://www.youtube.com/watch?v=G9zHx4WSmkI"
+            },
+            {
+                "title": "Femininity",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/femininity-chords-1051089",
+                "video": "https://www.youtube.com/watch?v=UZYLIyeCdzI"
+            },
+            {
+                "title": "Breathe",
+                "video": "https://www.youtube.com/watch?v=ZEAoTZEeWZw"
+            },
+            {
+                "title": "More",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/more-tabs-2859614",
+                "video": "https://www.youtube.com/watch?v=4cLVaBuOEgk"
+            },
+            {
+                "title": "For Air",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/for-air-tabs-575856",
+                "video": "https://www.youtube.com/watch?v=LVB8qbaE2nU"
+            },
+            {
+                "title": "Height Down",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/height-down-tabs-646515",
+                "video": "https://www.youtube.com/watch?v=QVU4O7AQmls"
+            },
+            {
+                "title": "Well, I've Been",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/well-ive-been-guitar-pro-751745",
+                "video": "https://www.youtube.com/watch?v=kdPJIFN7Ixo"
+            },
+            {
+                "title": "Smile from the Streets You Hold",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/smile-from-the-streets-you-hold-chords-803691",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/smile-from-the-streets-you-hold-tabs-68302",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/smile-from-the-streets-you-hold-tabs-539829",
+                "video": "https://www.youtube.com/watch?v=Ei-DLhBVnLQ"
+            },
+            {
+                "title": "I Can't See Until I See Your Eyes",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/i-cant-see-until-i-see-your-eyes-chords-1669973",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/i-cant-see-until-i-see-your-eyes-tabs-575857",
+                "video": "https://www.youtube.com/watch?v=f_qVbz05Rco"
+            }
+        ],
+        "fromthesoundsinside": [
+            {
+                "title": "So Would Have I",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/so-would-have-i-chords-353754",
+                "video": "https://www.youtube.com/watch?v=eb7Yurm2z7E"
+            },
+            {
+                "title": "Three Thoughts",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/three-thoughts-chords-328176",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/three-thoughts-tabs-539809",
+                "video": "https://www.youtube.com/watch?v=nmdbBox3Mog"
+            },
+            {
+                "title": "I Go Through These Walls",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/i-go-through-these-walls-chords-555010",
+                "video": "https://www.youtube.com/watch?v=_nkEa9Qbgkk"
+            },
+            {
+                "title": "Murmur",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/murmur-tabs-537871",
+                "video": "https://www.youtube.com/watch?v=X0h5yqv8tyw"
+            },
+            {
+                "title": "Saturation",
+                "video": "https://www.youtube.com/watch?v=JNncCEDqaiQ"
+            },
+            {
+                "title": "Interstate Sex",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/interstate-sex-chords-1063389",
+                "video": "https://www.youtube.com/watch?v=USD_qTm5yNw"
+            },
+            {
+                "title": "Dying (I Don't Mind)",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/dying-i-dont-mind-chords-538196",
+                "video": "https://www.youtube.com/watch?v=_2RaMtMZNtM"
+            },
+            {
+                "title": "The Battle of Time",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-battle-of-time-chords-827481",
+                "video": "https://www.youtube.com/watch?v=JN2aNm3bo3w"
+            },
+            {
+                "title": "With Love",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/with-love-tabs-684854",
+                "video": "https://www.youtube.com/watch?v=j7zVivtBi4c"
+            },
+            {
+                "title": "I Will Always Be Beat Down",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/i-will-always-be-beat-down-tabs-684850",
+                "video": "https://www.youtube.com/watch?v=c7WJ6gIcNNk"
+            },
+            {
+                "title": "Fallout",
+                "video": "https://www.youtube.com/watch?v=kX1mzIbZf_4"
+            },
+            {
+                "title": "Penetrate Time",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/penetrate-time-tabs-110586",
+                "video": "https://www.youtube.com/watch?v=WEy3xh6x6BM"
+            },
+            {
+                "title": "Slow Down",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/slow-down-tabs-132185",
+                "video": "https://www.youtube.com/watch?v=0GXl8ZvZKkY"
+            },
+            {
+                "title": "Nature Falls",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/nature-falls-tabs-579840",
+                "video": "https://www.youtube.com/watch?v=RRDuCg_eaH0"
+            },
+            {
+                "title": "Beginning Again",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/beginning-again-tabs-565375",
+                "video": "https://www.youtube.com/watch?v=bv0W5ogr8tE"
+            },
+            {
+                "title": "Leave All the Days Behind",
+                "video": "https://www.youtube.com/watch?v=DMbKrLcW4rU"
+            },
+            {
+                "title": "Place to Drive",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/place-to-drive-chords-778483",
+                "video": "https://www.youtube.com/watch?v=JtxAgD-3gj0"
+            },
+            {
+                "title": "How High",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/how-high-tabs-634751",
+                "video": "https://www.youtube.com/watch?v=EyLMMQCwpsA"
+            },
+            {
+                "title": "Leaving You",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/leaving-you-tabs-23495",
+                "video": "https://www.youtube.com/watch?v=YQzJZmARbho"
+            },
+            {
+                "title": "Sailing Outdoors",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/sailing-outdoors-chords-574127",
+                "video": "https://www.youtube.com/watch?v=S2Sf8PFn5SA"
+            }
+        ],
+        "torecordonlywaterfortendays": [
+            {
+                "title": "Going Inside",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/going-inside-chords-1704056",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/going-inside-tabs-13510",
+                "video": "https://www.youtube.com/watch?v=xDkBcvPkZVI"
+            },
+            {
+                "title": "Someone's",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/someones-chords-13503",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/someones-tabs-23646",
+                "video": "https://www.youtube.com/watch?v=u6xHicxtevY"
+            },
+            {
+                "title": "The First Season",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-first-season-chords-1466621",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-first-season-tabs-23647",
+                "video": "https://www.youtube.com/watch?v=CYwSW1eS8Uo"
+            },
+            {
+                "title": "Wind Up Space",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/wind-up-space-tabs-23648",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/wind-up-space-chords-3582125",
+                "video": "https://www.youtube.com/watch?v=9kvO5ilpgjg"
+            },
+            {
+                "title": "Away & Anywhere",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/away-and-anywhere-chords-2258753",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/away-and-anywhere-tabs-712341",
+                "video": "https://www.youtube.com/watch?v=Ax7lPIzI8hs"
+            },
+            {
+                "title": "Remain",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/remain-chords-3656597",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/remain-tabs-685214",
+                "video": "https://www.youtube.com/watch?v=F4J_sgvihZQ"
+            },
+            {
+                "title": "Fallout",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/fallout-chords-1733502",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/fallout-tabs-1901786",
+                "video": "https://www.youtube.com/watch?v=eYyAsBZ3eW4"
+            },
+            {
+                "title": "Ramparts",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ramparts-tabs-25085",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ramparts-bass-1194680",
+                "video": "https://www.youtube.com/watch?v=S4nXL81S_oY"
+            },
+            {
+                "title": "With No One",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/with-no-one-chords-13511",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/with-no-one-tabs-23651",
+                "video": "https://www.youtube.com/watch?v=xXDZT3x-eWI"
+            },
+            {
+                "title": "Murderers",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/murderers-tabs-953237",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/murderers-bass-705253",
+                "video": "https://www.youtube.com/watch?v=w8JcXrATdeI"
+            },
+            {
+                "title": "Invisible Movement",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/invisible-movement-chords-13513",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/invisible-movement-tabs-23653",
+                "video": "https://www.youtube.com/watch?v=UILH5ArHfOM"
+            },
+            {
+                "title": "Representing",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/representing-chords-890142",
+                "video": "https://www.youtube.com/watch?v=_ZeS5Wr4tMg"
+            },
+            {
+                "title": "In Rime",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/in-rime-tabs-23655",
+                "video": "https://www.youtube.com/watch?v=Z3C0DMDNkqM"
+            },
+            {
+                "title": "Saturation",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/saturation-chords-13516",
+                "video": "https://www.youtube.com/watch?v=MwL_6PCbRUQ"
+            },
+            {
+                "title": "Moments Have You",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/moments-have-you-chords-13514",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/moments-have-you-tabs-23657",
+                "video": "https://www.youtube.com/watch?v=6KQBpRG5MtY"
+            }
+        ],
+        "shadowscollidewithpeople": [
+            {
+                "title": "Carvel",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/carvel-chords-1201422",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/carvel-tabs-330883",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/carvel-tabs-448906",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/carvel-bass-846914",
+                "video": "https://www.youtube.com/watch?v=LNTYG6yZx9s"
+            },
+            {
+                "title": "Omission",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/omission-chords-435215",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/omission-guitar-pro-219666",
+                "video": "https://www.youtube.com/watch?v=xReCNdZwDv0"
+            },
+            {
+                "title": "Regret",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/regret-chords-748988",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/regret-tabs-119012",
+                "video": "https://www.youtube.com/watch?v=IGOhGPSTKTk"
+            },
+            {
+                "title": "Ricky",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ricky-chords-1048523",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ricky-bass-2070915",
+                "video": "https://www.youtube.com/watch?v=exG6pol0L2I"
+            },
+            {
+                "title": "Second Walk",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/second-walk-chords-135431",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/second-walk-guitar-pro-219671",
+                "drums": "https://tabs.ultimate-guitar.com/tab/john-frusciante/second-walk-drums-864728",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/second-walk-bass-330292",
+                "video": "https://www.youtube.com/watch?v=LpEjZERQdbI"
+            },
+            {
+                "title": "Every Person",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/every-person-chords-992130",
+                "video": "https://www.youtube.com/watch?v=Io6cwp2eQQE"
+            },
+            {
+                "title": "--00Ghost27",
+                "video": "https://www.youtube.com/watch?v=A-bbCVU1UcM"
+            },
+            {
+                "title": "Wednesday's Song",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/wednesdays-song-chords-922555",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/wednesdays-song-tabs-324960",
+                "video": "https://www.youtube.com/watch?v=_YVXqtTHmuA"
+            },
+            {
+                "title": "This Cold",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/this-cold-chords-129129",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/this-cold-tabs-109577",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/this-cold-bass-207666",
+                "video": "https://www.youtube.com/watch?v=16_4bJ_tAYk"
+            },
+            {
+                "title": "Failure33Object",
+                "video": "https://www.youtube.com/watch?v=9c9G830bmFc"
+            },
+            {
+                "title": "Song to Sing When I'm Lonely",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/song-to-sing-when-im-lonely-chords-111594",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/song-to-sing-when-im-lonely-tabs-343141",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/song-to-sing-when-im-lonely-bass-887529",
+                "video": "https://www.youtube.com/watch?v=mwTxqnW0mYs"
+            },
+            {
+                "title": "Time Goes Back",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/time-goes-back-chords-1006775",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/time-goes-back-guitar-pro-1166607",
+                "video": "https://www.youtube.com/watch?v=8pwTBj56g3M"
+            },
+            {
+                "title": "In Relief",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/in-relief-chords-118765",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/in-relief-guitar-pro-1242032",
+                "video": "https://www.youtube.com/watch?v=52mb7WOAX_w"
+            },
+            {
+                "title": "Water",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/water-chords-1410021",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/water-tabs-387020",
+                "video": "https://www.youtube.com/watch?v=rc_sf9bitB0"
+            },
+            {
+                "title": "Of Before",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/of-before-chords-1479445",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/of-before-guitar-pro-900928"
+            },
+            {
+                "title": "Cut-Out",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/cut-out-chords-120167",
+                "video": "https://www.youtube.com/watch?v=LCQ6lPHwY7I"
+            },
+            {
+                "title": "Chances",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/chances-chords-451142",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/chances-tabs-114645",
+                "video": "https://www.youtube.com/watch?v=NqMq5TiZ_fI"
+            },
+            {
+                "title": "23 go in to End",
+                "video": "https://www.youtube.com/watch?v=XKx_5--LLIQ"
+            },
+            {
+                "title": "The Slaughter",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-slaughter-chords-1119406",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-slaughter-guitar-pro-922128",
+                "video": "https://www.youtube.com/watch?v=gwBLHZiR6CY"
+            }
+        ],
+        "thewilltodeath": [
+            {
+                "title": "A Doubt",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-doubt-chords-2807816",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-doubt-tabs-368794",
+                "video": "https://www.youtube.com/watch?v=EYN6KwnRhCU"
+            },
+            {
+                "title": "An Exercise",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/an-exercise-chords-2865239",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/an-exercise-tabs-137243",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/an-exercise-bass-560754",
+                "video": "https://www.youtube.com/watch?v=xNPT0naybVw"
+            },
+            {
+                "title": "Time Runs Out",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/time-runs-out-chords-194574",
+                "video": "https://www.youtube.com/watch?v=DhsKWdzsfGc"
+            },
+            {
+                "title": "Loss",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/loss-chords-1465536",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/loss-tabs-2251813",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/loss-guitar-pro-676200",
+                "video": "https://www.youtube.com/watch?v=QTbUo-Ckqvg"
+            },
+            {
+                "title": "Unchanging",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/unchanging-chords-562198",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/unchanging-tabs-434486",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/unchanging-tabs-1030523",
+                "video": "https://www.youtube.com/watch?v=Rk-uqSya7PY"
+            },
+            {
+                "title": "The Mirror",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-mirror-guitar-pro-219675",
+                "video": "https://www.youtube.com/watch?v=eg4T7bTN9jI"
+            },
+            {
+                "title": "A Loop",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-loop-tabs-649948",
+                "video": "https://www.youtube.com/watch?v=mLSw-dOq8S0"
+            },
+            {
+                "title": "Wishing",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/wishing-chords-271775",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/wishing-guitar-pro-828386",
+                "video": "https://www.youtube.com/watch?v=-ykGafgDqfs"
+            },
+            {
+                "title": "Far Away",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/far-away-chords-787577",
+                "video": "https://www.youtube.com/watch?v=fXVxc7fD5yQ"
+            },
+            {
+                "title": "The Days Have Turned",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-days-have-turned-chords-129453",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-days-have-turned-guitar-pro-815391",
+                "video": "https://www.youtube.com/watch?v=LCOkN9t2Zhg"
+            },
+            {
+                "title": "Helical",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/helical-tabs-326221",
+                "video": "https://www.youtube.com/watch?v=6Cmm33bgP64"
+            },
+            {
+                "title": "The Will to Death",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-will-to-death-chords-1734942",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-will-to-death-tabs-1251812",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-will-to-death-tabs-133637",
+                "video": "https://www.youtube.com/watch?v=1qk6-ReWW-U"
+            }
+        ],
+        "dcep": [
+            {
+                "title": "Dissolve",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/dissolve-chords-504445",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/dissolve-tabs-167175",
+                "video": "https://www.youtube.com/watch?v=HK5lxcyJ_UE"
+            },
+            {
+                "title": "Goals",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/goals-chords-936798",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/goals-tabs-201777",
+                "video": "https://www.youtube.com/watch?v=BUSnEhvP7y0"
+            },
+            {
+                "title": "A Corner",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-corner-chords-642977",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-corner-tabs-1806963",
+                "video": "https://www.youtube.com/watch?v=QdA2k6RlZD4"
+            },
+            {
+                "title": "Repeating",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/repeating-chords-572243",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/repeating-bass-1668705",
+                "video": "https://www.youtube.com/watch?v=gJMp03HR_Zo"
+            }
+        ],
+        "insideofemptiness": [
+            {
+                "title": "What I Saw",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/what-i-saw-tabs-332704",
+                "video": "https://www.youtube.com/watch?v=HixIY-y8c0Y"
+            },
+            {
+                "title": "The World's Edge",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/worlds-edge-chords-1489287",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/worlds-edge-tabs-574126",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-worlds-edge-bass-2267779",
+                "video": "https://www.youtube.com/watch?v=MTFI3ZQKDGY"
+            },
+            {
+                "title": "Inside A Break",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/inside-a-break-chords-1672508",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/inside-a-break-tabs-1477683",
+                "video": "https://www.youtube.com/watch?v=w5Y7encR3w0"
+            },
+            {
+                "title": "A Firm Kick",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-firm-kick-chords-492739",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-firm-kick-tabs-485800",
+                "video": "https://www.youtube.com/watch?v=a8BbUmjVTVs"
+            },
+            {
+                "title": "Look On",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/look-on-chords-3214856",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/look-on-tabs-406728",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/look-on-tabs-150205",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/look-on-bass-1444448",
+                "video": "https://www.youtube.com/watch?v=gpqNiVPSun0"
+            },
+            {
+                "title": "Emptiness",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/emptiness-tabs-195234",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/emptiness-chords-3540725",
+                "video": "https://www.youtube.com/watch?v=eExK_l-1t0c"
+            },
+            {
+                "title": "I'm Around",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/im-around-chords-1058835",
+                "video": "https://www.youtube.com/watch?v=kWho16aA0eY"
+            },
+            {
+                "title": "666",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/666-tabs-176840",
+                "video": "https://www.youtube.com/watch?v=vhbGbYs0THI"
+            },
+            {
+                "title": "Interior Two",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/interior-two-chords-149478",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/interior-two-guitar-pro-1446476",
+                "video": "https://www.youtube.com/watch?v=S-E-e_PYmI8"
+            },
+            {
+                "title": "Scratches",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/scratches-chords-872588",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/scratches-tabs-1894303",
+                "video": "https://www.youtube.com/watch?v=oAPYcQWsu3c"
+            }
+        ],
+        "asphereintheheartofsilence": [
+            {
+                "title": "Sphere",
+                "video": "https://www.youtube.com/watch?v=qcATA_snLWk"
+            },
+            {
+                "title": "The Afterglow",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-afterglow-guitar-pro-653665",
+                "video": "https://www.youtube.com/watch?v=65ckB_T4w8w"
+            },
+            {
+                "title": "Walls",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/walls-tabs-1707195",
+                "video": "https://www.youtube.com/watch?v=hfiKk1hgy_k"
+            },
+            {
+                "title": "Communique",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/communique-chords-1875731",
+                "video": "https://www.youtube.com/watch?v=zdV12VNwdpo"
+            },
+            {
+                "title": "At Your Enemies",
+                "video": "https://www.youtube.com/watch?v=In3GsSZTt-Q"
+            },
+            {
+                "title": "Surrogate People",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/surrogate-people-chords-1844259",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/surrogate-people-guitar-pro-1013718",
+                "video": "https://www.youtube.com/watch?v=n3wXp4NtZXg"
+            },
+            {
+                "title": "My Life",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/my-life-chords-501734",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/my-life-guitar-pro-1084942",
+                "video": "https://www.youtube.com/watch?v=Y4EY6UqkW1s"
+            }
+        ],
+        "curtains": [
+            {
+                "title": "The Past Recedes",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-past-recedes-chords-172658",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-past-recedes-tabs-317495",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-past-recedes-bass-1904286",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-past-recedes-guitar-pro-368436",
+                "video": "https://www.youtube.com/watch?v=W1PRMrN2X7Y"
+            },
+            {
+                "title": "Lever Pulled",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/lever-pulled-chords-192612",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/lever-pulled-tabs-532397",
+                "video": "https://www.youtube.com/watch?v=LoSC4I7xey0"
+            },
+            {
+                "title": "Anne",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/anne-chords-585117",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/anne-tabs-188507",
+                "video": "https://www.youtube.com/watch?v=qaqrrkx8rvY"
+            },
+            {
+                "title": "The Real",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-real-chords-1122554",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/the-real-bass-2789605",
+                "video": "https://www.youtube.com/watch?v=S4xlHWr_47k"
+            },
+            {
+                "title": "A Name",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-name-chords-941547",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/a-name-tabs-473043",
+                "video": "https://www.youtube.com/watch?v=7Ppl77vv6-4"
+            },
+            {
+                "title": "Control",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/control-chords-2810492",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/control-tabs-364093",
+                "video": "https://www.youtube.com/watch?v=O68vx5BikdU"
+            },
+            {
+                "title": "Your Warning",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/your-warning-chords-747788",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/your-warning-tabs-326460",
+                "video": "https://www.youtube.com/watch?v=mgOomk4-R10"
+            },
+            {
+                "title": "Hope",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/hope-chords-876054",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/hope-tabs-335680",
+                "video": "https://www.youtube.com/watch?v=wwKjf6OkME4"
+            },
+            {
+                "title": "Ascension",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ascension-chords-165166",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ascension-guitar-pro-389646",
+                "video": "https://www.youtube.com/watch?v=VuvuILB3Upc"
+            },
+            {
+                "title": "Time Tonight",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/time-tonight-chords-501093",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/time-tonight-tabs-343803",
+                "video": "https://www.youtube.com/watch?v=f7QuJWIUjsU"
+            },
+            {
+                "title": "Lear Your Bar",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/leap-your-bar-chords-1207598",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/leap-your-bar-tabs-1162430",
+                "video": "https://www.youtube.com/watch?v=ihpygOz0pLA"
+            }
+        ],
+        "omarrodriguezlopez&johnfrusciante": [
+            {
+                "title": "4:17 AM",
+                "video": "https://www.youtube.com/watch?v=12dO4WOfoms"
+            },
+            {
+                "title": "0=2",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/0-equals-2-guitar-pro-1241292",
+                "video": "https://www.youtube.com/watch?v=orQrfSCz71A"
+            },
+            {
+                "title": "LOE",
+                "video": "https://www.youtube.com/watch?v=ZFCwbcRq1jw"
+            },
+            {
+                "title": "ZIM",
+                "bass": "https://tabs.ultimate-guitar.com/tab/1145104",
+                "video": "https://www.youtube.com/watch?v=b5cV_4nd0vI"
+            },
+            {
+                "title": "VTA",
+                "video": "https://www.youtube.com/watch?v=2sITEp_ZU5o"
+            },
+            {
+                "title": "0",
+                "tab": "https://tabs.ultimate-guitar.com/tab/3995575",
+                "video": "https://www.youtube.com/watch?v=2IP6uFhX7fI"
+            },
+            {
+                "title": "5:45 AM",
+                "video": "https://www.youtube.com/watch?v=AxJJJ_Exq6g"
+            }
+        ],
+        "pbxfunicularintagliozone": [],
+        "outsides": [],
+        "enclosure": [],
+        "maya": [],
+        "leturlefr": [
+            {
+                "title": "In Your Eyes",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/in-your-eyes-chords-1227762",
+                "video": "https://www.youtube.com/watch?v=jFoST7duJs0"
+            },
+            {
+                "title": "909 Day",
+                "video": "https://www.youtube.com/watch?v=N4tKa-Uh3fs"
+            },
+            {
+                "title": "Glowe",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/glowe-tabs-1169398",
+                "video": "https://www.youtube.com/watch?v=qoHncO4iioo"
+            },
+            {
+                "title": "FM",
+                "video": "https://www.youtube.com/watch?v=lgCFow2cDuE"
+            },
+            {
+                "title": "In My Light",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/in-my-light-chords-1165963",
+                "video": "https://www.youtube.com/watch?v=oGskOTKen04"
+            }
+        ],
+        "theempyrean": [
+            {
+                "title": "Before the Beginning",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/before-the-beginning-chords-1723955",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/before-the-beginning-tabs-1412535",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/before-the-beginning-bass-1402423",
+                "video": "https://www.youtube.com/watch?v=8nFvSl7ouww"
+            },
+            {
+                "title": "Song to the Siren",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/song-to-the-siren-chords-783572",
+                "video": "https://www.youtube.com/watch?v=GdsP4R5i-ro"
+            },
+            {
+                "title": "Unreachable",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/unreachable-chords-762668",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/unreachable-guitar-pro-1050471",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/unreachable-bass-773083",
+                "video": "https://www.youtube.com/watch?v=1MmRCJtJvT8"
+            },
+            {
+                "title": "God",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/god-chords-806953",
+                "video": "https://www.youtube.com/watch?v=nBrV3JNImlY"
+            },
+            {
+                "title": "Dark/Light",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/dark-light-chords-812908",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/dark-light-bass-956378",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/dark-light-guitar-pro-1014528",
+                "video": "https://www.youtube.com/watch?v=6emrvNVNCnQ"
+            },
+            {
+                "title": "Heaven",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/heaven-chords-812069",
+                "bass": "https://tabs.ultimate-guitar.com/tab/john-frusciante/heaven-bass-810411",
+                "video": "https://www.youtube.com/watch?v=_hOvOwv_Ie8"
+            },
+            {
+                "title": "Enough of Me",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/enough-of-me-chords-910902",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/enough-of-me-tabs-926845",
+                "video": "https://www.youtube.com/watch?v=Y-Nqb-Dm4hA"
+            },
+            {
+                "title": "Central",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/central-chords-779498",
+                "solo": "https://tabs.ultimate-guitar.com/tab/john-frusciante/central-tabs-819447",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/central-guitar-pro-808740",
+                "video": "https://www.youtube.com/watch?v=sz39v5_97tE"
+            },
+            {
+                "title": "One More of Me",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/one-more-of-me-chords-806762",
+                "video": "https://www.youtube.com/watch?v=-L2k76Yj-RM"
+            },
+            {
+                "title": "After the Ending",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/after-the-ending-chords-806954",
+                "video": "https://www.youtube.com/watch?v=cppuQHidMnw"
+            },
+            {
+                "title": "Ah Yom",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ah-yom-chords-813408",
+                "tab": "https://tabs.ultimate-guitar.com/tab/john-frusciante/ah-yom-tabs-780755",
+                "video": "https://www.youtube.com/watch?v=ZFRvS8JVu4A"
+            },
+            {
+                "title": "Here, Air",
+                "chords": "https://tabs.ultimate-guitar.com/tab/john-frusciante/here-air-chords-983768",
+                "video": "https://www.youtube.com/watch?v=a6L3_uBqXeo"
+            }
+        ],
         "redhotchilipeppers": [
             {
                 "title": "True Men Don't Kill Coyotes",
@@ -1723,64 +2641,6 @@
                 "video": "https://www.youtube.com/watch?v=ZL1pd0ebh_E"
             }
         ]
-    },
-    "all_urls": {
-        "live": {
-            "url": "live.jpg",
-            "name": "All Live Shows"
-        },
-        "redhotchilipeppers": {
-            "url": "redhotchilipeppers.jpg",
-            "name": "Red Hot Chili Peppers"
-        },
-        "freakystyley": {
-            "url": "freakystyley.jpg",
-            "name": "Freaky Styley"
-        },
-        "theupliftmofopartyplan": {
-            "url": "upliftmofo.jpg",
-            "name": "The Uplift Mofo Party Plan"
-        },
-        "mothersmilk": {
-            "url": "mothersmilk.jpg",
-            "name": "Mother's Milk"
-        },
-        "bloodsugarsexmagik": {
-            "url": "bssm.jpg",
-            "name": "Blood Sugar Sex Magik"
-        },
-        "onehotminute": {
-            "url": "onehotminute.jpg",
-            "name": "One Hot Minute"
-        },
-        "californication": {
-            "url": "californication.jpg",
-            "name": "Californication"
-        },
-        "bytheway": {
-            "url": "btw.jpg",
-            "name": "By The Way"
-        },
-        "stadiumarcadium": {
-            "url": "sa.jpg",
-            "name": "Stadium Arcadium"
-        },
-        "imwithyou": {
-            "url": "iwy.jpg",
-            "name": "I'm With You"
-        },
-        "imbesideyou": {
-            "url": "imbesideyou.jpg",
-            "name": "I'm Beside You"
-        },
-        "thegetaway": {
-            "url": "getaway.jpg",
-            "name": "The Getaway"
-        },
-        "unlimitedlove": {
-            "url": "unlimitedlove.jpg",
-            "name": "Unlimited Love"
-        }
     },
     "live_concerts": [
         {

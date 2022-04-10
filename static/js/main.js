@@ -1,3 +1,3 @@
 function click_link(album) {
-  window.location.href = '/album/'+album;
+  window.location.href = "/album/"+album;
 }
