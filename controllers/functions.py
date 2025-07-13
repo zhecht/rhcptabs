@@ -48,7 +48,7 @@ def read_data():
 def get_songs(album_name):
 	data = read_data()
 	if album_name == "live":
-		return data["live_concerts"], data["all_urls"]["live"], None
+		return data["live_concerts"], {"url": "live.jpg", "name": "Live"}, None
 	urlData = {
 		"url": f"{album_name}.jpg",
 		"name": albumTranslation.get(album_name, "")
